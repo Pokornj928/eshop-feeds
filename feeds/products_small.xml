@@ -1,5 +1,385 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PRODUCTS version="2.0">
-  <!-- This file will be updated by N8N workflow -->
-  <!-- Test content - will be replaced -->
+  <PRODUCT>
+    <CODE>SUP0265897</CODE>
+    <ACTIVE_YN>1</ACTIVE_YN>
+    <CAN_ADD_TO_BASKET_YN>1</CAN_ADD_TO_BASKET_YN>
+    <MANUFACTURER>Sweet Home</MANUFACTURER>
+    <EAN>8034055531327</EAN>
+    <STOCK>13</STOCK>
+    <WEIGHT>302.5</WEIGHT>
+    <DESCRIPTIONS>
+      <DESCRIPTION language="cz">
+        <TITLE>Sweet Home Čistič pračky Hygienizační 250 ml</TITLE>
+        <SHORT_DESCRIPTION>Sweet Home Čistič pračky Hygienizační je ideální volbou pro udržení vaší pračky čisté a hygienické. S objemem 250 ml nabízí efektivní odstranění nečistot a zbytků pracích prostředků, čímž zajišťuje optimální výkon vaší pračky.</SHORT_DESCRIPTION>
+        <LONG_DESCRIPTION><![CDATA[Sweet Home Čistič pračky Hygienizační je navržen tak, aby udržoval vaši pračku v perfektním stavu. Tento čistič účinně odstraňuje zbytky pracích prostředků a nečistoty, čímž zajišťuje delší životnost a lepší výkon vaší pračky. Použití je snadné: jednoduše nalijte čistič do prázdné pračky a spusťte prací cyklus na nejvyšší teplotu. Varování: Způsobuje vážné podráždění očí. Při zasažení očí: Několik minut opatrně vyplachujte vodou. Vyjměte kontaktní čočky, jsou-li nasazeny a pokud je lze vyjmout snadno. Pokračujte ve vyplachování. Přetrvává-li podráždění očí: Vyhledejte lékařskou pomoc/ošetření. Uchovávejte mimo dosah dětí. Odstraňte obsah/obal do tříděného odpadu. Obsahuje Hexyl salicylate, může vyvolat alergickou reakci. Složení: 5 < 15 % neiontové povrchově aktivní látky, parfém, Benzalkonium Chloride, Citronellol, Geraniol, Linalool, Alpha-Isomethyl Ionone.]]></LONG_DESCRIPTION>
+      </DESCRIPTION>
+    </DESCRIPTIONS>
+    <PRICES>
+      <PRICE language="cz">
+        <PRICELISTS>
+          <PRICELIST>
+            <PRICE_WITH_VAT>125</PRICE_WITH_VAT>
+          </PRICELIST>
+        </PRICELISTS>
+      </PRICE>
+    </PRICES>
+    <CATEGORIES>
+<CATEGORY>
+<CODE>6b7e8811-23ba-44aa-84dd-eefdfcbff589</CODE>
+<NAME>Drogerie</NAME>
+<PRIMARY_YN>0</PRIMARY_YN>
+<POSITION>1</POSITION>
+</CATEGORY>
+<CATEGORY>
+<CODE>496138f4-8e51-4bab-b641-8c9e7ee0ae71</CODE>
+<NAME>Čisticí prostředky</NAME>
+<PRIMARY_YN>0</PRIMARY_YN>
+<POSITION>1</POSITION>
+</CATEGORY>
+<CATEGORY>
+<CODE>f2c97838-2d3e-42cb-856a-2a033fc24f9b</CODE>
+<NAME>Čističe spotřebičů</NAME>
+<PRIMARY_YN>0</PRIMARY_YN>
+<POSITION>1</POSITION>
+</CATEGORY>
+<CATEGORY>
+<CODE>140251ce-961b-4926-ab97-672b762088a1</CODE>
+<NAME>Čističe pračky</NAME>
+<PRIMARY_YN>1</PRIMARY_YN>
+<POSITION>1</POSITION>
+</CATEGORY>
+</CATEGORIES>
+    <IMAGES>
+      <IMAGE>
+        <URL>https://velkoobchod.reminky.cz/image.php?id=10888&amp;mode=4pm</URL>
+        <MAIN_YN>1</MAIN_YN>
+        <LIST_YN>1</LIST_YN>
+      </IMAGE>
+    </IMAGES>
+  </PRODUCT>
+  <PRODUCT>
+    <CODE>SUP0265984</CODE>
+    <ACTIVE_YN>1</ACTIVE_YN>
+    <CAN_ADD_TO_BASKET_YN>1</CAN_ADD_TO_BASKET_YN>
+    <MANUFACTURER>Sweet Home</MANUFACTURER>
+    <EAN>8059602245410</EAN>
+    <STOCK>24</STOCK>
+    <WEIGHT>36.3</WEIGHT>
+    <DESCRIPTIONS>
+      <DESCRIPTION language="cz">
+        <TITLE>Sweet Home gel do myčky Šalvěj 30 ml</TITLE>
+        <SHORT_DESCRIPTION>Gel do myčky Sweet Home s vůní šalvěje nabízí efektivní čištění nádobí. Variabilní dávkování podle míry znečištění.</SHORT_DESCRIPTION>
+        <LONG_DESCRIPTION><![CDATA[Gel do myčky Sweet Home s vůní šalvěje je ideální volbou pro efektivní mytí nádobí. Díky variabilnímu dávkování 20-30 ml podle míry znečištění zajišťuje optimální spotřebu. Produkt obsahuje méně než 5 % neiontových povrchově aktivních látek, EDTA a jejích solí, a NTA a jejích solí. Další složky zahrnují enzymy, parfém, Benzyl salicylate, Limonen, Amyl Salicylate, Terpineol, Eucalyptus Globulus Oil a Pinene. Konzervační látky: METHYLCHLOROISOTHIAZOLINONE a METHYLISOTHIAZOLINONE. Varování: Způsobuje vážné podráždění očí. Používejte ochranné brýle. Při zasažení očí vyplachujte vodou a vyhledejte lékařskou pomoc, pokud podráždění přetrvává. Uchovávejte mimo dosah dětí a odstraňte obsah/obal do tříděného odpadu. Může vyvolat alergickou reakci.]]></LONG_DESCRIPTION>
+      </DESCRIPTION>
+    </DESCRIPTIONS>
+    <PRICES>
+      <PRICE language="cz">
+        <PRICELISTS>
+          <PRICELIST>
+            <PRICE_WITH_VAT>219</PRICE_WITH_VAT>
+          </PRICELIST>
+        </PRICELISTS>
+      </PRICE>
+    </PRICES>
+    <CATEGORIES>
+<CATEGORY>
+<CODE>6b7e8811-23ba-44aa-84dd-eefdfcbff589</CODE>
+<NAME>Drogerie</NAME>
+<PRIMARY_YN>0</PRIMARY_YN>
+<POSITION>1</POSITION>
+</CATEGORY>
+<CATEGORY>
+<CODE>496138f4-8e51-4bab-b641-8c9e7ee0ae71</CODE>
+<NAME>Čisticí prostředky</NAME>
+<PRIMARY_YN>0</PRIMARY_YN>
+<POSITION>1</POSITION>
+</CATEGORY>
+<CATEGORY>
+<CODE>d0855cf7-b1fc-472e-ab7f-ec087ed5b9db</CODE>
+<NAME>Prostředky na mytí nádobí</NAME>
+<PRIMARY_YN>0</PRIMARY_YN>
+<POSITION>1</POSITION>
+</CATEGORY>
+<CATEGORY>
+<CODE>3441d09e-088e-472d-aeaf-3094d1de44d0</CODE>
+<NAME>Ekologické prostředky na mytí nádobí</NAME>
+<PRIMARY_YN>1</PRIMARY_YN>
+<POSITION>1</POSITION>
+</CATEGORY>
+</CATEGORIES>
+    <IMAGES>
+      <IMAGE>
+        <URL>https://velkoobchod.reminky.cz/image.php?id=11348&amp;mode=4pm</URL>
+        <MAIN_YN>1</MAIN_YN>
+        <LIST_YN>1</LIST_YN>
+      </IMAGE>
+    </IMAGES>
+  </PRODUCT>
+  <PRODUCT>
+    <CODE>SUP0265948</CODE>
+    <ACTIVE_YN>1</ACTIVE_YN>
+    <CAN_ADD_TO_BASKET_YN>1</CAN_ADD_TO_BASKET_YN>
+    <MANUFACTURER>Sweet Home</MANUFACTURER>
+    <EAN>8059602244697</EAN>
+    <STOCK>8</STOCK>
+    <WEIGHT>121</WEIGHT>
+    <DESCRIPTIONS>
+      <DESCRIPTION language="cz">
+        <TITLE>Sweet Home Svíčka Orchidej a Vanilka 110g</TITLE>
+        <SHORT_DESCRIPTION>Vytvořte si doma útulnou atmosféru s touto svíčkou s vůní orchideje a vanilky. S dobou hoření 4 hodiny je ideální pro relaxaci po náročném dni. Svíčka je vyrobena s ohledem na bezpečnost a kvalitu.</SHORT_DESCRIPTION>
+        <LONG_DESCRIPTION><![CDATA[Svíčka Sweet Home s vůní orchideje a vanilky přináší do vašeho domova příjemnou a uklidňující atmosféru. Je ideální pro relaxaci po náročném dni nebo pro vytvoření romantické nálady. Doba hoření je 4 hodiny, což zajišťuje dlouhotrvající zážitek. Před použitím svíčky zkraťte knot na délku 1 cm a vyhýbejte se průvanu. Svíčku nikdy nenechávejte hořet bez dozoru a skladujte ji mimo dosah dětí. Složení: &alpha;-hexylcinnamaldehyde, Vanillin, Benzyl-salicylát, Linalool, hydroxyisohexyl 3-cyclohexene carboxaldehyde. Může vyvolat alergickou reakci.]]></LONG_DESCRIPTION>
+      </DESCRIPTION>
+    </DESCRIPTIONS>
+    <PRICES>
+      <PRICE language="cz">
+        <PRICELISTS>
+          <PRICELIST>
+            <PRICE_WITH_VAT>129</PRICE_WITH_VAT>
+          </PRICELIST>
+        </PRICELISTS>
+      </PRICE>
+    </PRICES>
+    <CATEGORIES>
+<CATEGORY>
+<CODE>6b7e8811-23ba-44aa-84dd-eefdfcbff589</CODE>
+<NAME>Drogerie</NAME>
+<PRIMARY_YN>0</PRIMARY_YN>
+<POSITION>1</POSITION>
+</CATEGORY>
+<CATEGORY>
+<CODE>a01edf9d-4ba4-4dbd-9c4c-a68639702e50</CODE>
+<NAME>Svíčky</NAME>
+<PRIMARY_YN>0</PRIMARY_YN>
+<POSITION>1</POSITION>
+</CATEGORY>
+<CATEGORY>
+<CODE>bba2c06a-86bb-47d5-b337-cdf25caf45a0</CODE>
+<NAME>Vonné svíčky</NAME>
+<PRIMARY_YN>1</PRIMARY_YN>
+<POSITION>1</POSITION>
+</CATEGORY>
+</CATEGORIES>
+    <IMAGES>
+      <IMAGE>
+        <URL>https://velkoobchod.reminky.cz/image.php?id=11065&amp;mode=4pm</URL>
+        <MAIN_YN>1</MAIN_YN>
+        <LIST_YN>1</LIST_YN>
+      </IMAGE>
+    </IMAGES>
+  </PRODUCT>
+  <PRODUCT>
+    <CODE>SUP0102000</CODE>
+    <ACTIVE_YN>1</ACTIVE_YN>
+    <CAN_ADD_TO_BASKET_YN>0</CAN_ADD_TO_BASKET_YN>
+    <MANUFACTURER>Well Done</MANUFACTURER>
+    <EAN>5998466114216</EAN>
+    <STOCK>0</STOCK>
+    <WEIGHT>907.5</WEIGHT>
+    <DESCRIPTIONS>
+      <DESCRIPTION language="cz">
+        <TITLE>Well Done Sanitární čistící pěna 750ml</TITLE>
+        <SHORT_DESCRIPTION>Pěnový čisticí prostředek pro všechny druhy sanitární techniky. Efektivně odstraňuje plíseň a vodní kámen, zářivě čistí a okamžitě účinkuje.</SHORT_DESCRIPTION>
+        <LONG_DESCRIPTION><![CDATA[Well Done Sanitární čistící pěna je ideálním řešením pro údržbu vaší koupelny. Tento účinný čisticí prostředek je určen na vany, obklady, dlažby, umyvadla a WC. Díky svému složení efektivně odstraňuje plíseň a vodní kámen, zanechává povrchy zářivě čisté a okamžitě účinkuje. Použití je jednoduché: naneste pěnu na znečištěný povrch, nechte chvíli působit a poté opláchněte vodou. Složení: <přesné složení zde>. Upozornění: Uchovávejte mimo dosah dětí. Při zasažení očí okamžitě vypláchněte vodou a vyhledejte lékařskou pomoc.]]></LONG_DESCRIPTION>
+      </DESCRIPTION>
+    </DESCRIPTIONS>
+    <PRICES>
+      <PRICE language="cz">
+        <PRICELISTS>
+          <PRICELIST>
+            <PRICE_WITH_VAT>99.9</PRICE_WITH_VAT>
+          </PRICELIST>
+        </PRICELISTS>
+      </PRICE>
+    </PRICES>
+    <CATEGORIES>
+<CATEGORY>
+<CODE>a7352868-57d3-4d14-adc1-9737629b0888</CODE>
+<NAME>Profi chemie</NAME>
+<PRIMARY_YN>0</PRIMARY_YN>
+<POSITION>1</POSITION>
+</CATEGORY>
+<CATEGORY>
+<CODE>fdb9f3f0-ea9b-4bb4-affb-8a87b16fe13d</CODE>
+<NAME>Sanitární zařízení</NAME>
+<PRIMARY_YN>0</PRIMARY_YN>
+<POSITION>1</POSITION>
+</CATEGORY>
+<CATEGORY>
+<CODE>743f33a7-188e-46be-ab76-15fddd83f238</CODE>
+<NAME>Přípravky pro denní úklid</NAME>
+<PRIMARY_YN>1</PRIMARY_YN>
+<POSITION>1</POSITION>
+</CATEGORY>
+</CATEGORIES>
+    <IMAGES>
+      <IMAGE>
+        <URL>https://cdn.myshoptet.com/usr/www.atet.cz/user/shop/orig/114_sanitarni-cistici-pena-s-rozprasovacem-750ml.jpg?5aeaff85</URL>
+        <MAIN_YN>1</MAIN_YN>
+        <LIST_YN>1</LIST_YN>
+      </IMAGE>
+    </IMAGES>
+  </PRODUCT>
+  <PRODUCT>
+    <CODE>SUP0265947</CODE>
+    <ACTIVE_YN>1</ACTIVE_YN>
+    <CAN_ADD_TO_BASKET_YN>1</CAN_ADD_TO_BASKET_YN>
+    <MANUFACTURER>Sweet Home</MANUFACTURER>
+    <EAN>8059602244680</EAN>
+    <STOCK>10</STOCK>
+    <WEIGHT>121</WEIGHT>
+    <DESCRIPTIONS>
+      <DESCRIPTION language="cz">
+        <TITLE>Sweet Home Svíčka Jasmín a Tuberóza 110g</TITLE>
+        <SHORT_DESCRIPTION>Svíčka Sweet Home s vůní jasmínu a tuberózy přináší do vašeho domova příjemnou atmosféru. S dobou hoření 4 hodiny je ideální pro relaxaci. Upozornění: Škodlivý pro vodní organismy, může vyvolat alergickou reakci.</SHORT_DESCRIPTION>
+        <LONG_DESCRIPTION><![CDATA[Svíčka Sweet Home Jasmín a Tuberóza přináší do vašeho domova harmonii a klid. Její jemná vůně jasmínu a tuberózy vytváří příjemnou atmosféru, ideální pro relaxaci po náročném dni. Svíčka má dobu hoření 4 hodiny a je navržena tak, aby se rovnoměrně spalovala. Používejte svíčku pouze v souladu s návodem. Zapálenou svíčku nenechávejte bez dozoru. Je-li knot svíčky delší než 1 cm, zkraťte jej. Vyhýbejte se průvanu. Skladujte mimo dosah dětí. Regulatorní informace: Škodlivý pro vodní organismy, s dlouhodobými účinky. Zabraňte uvolnění do životního prostředí. Odstraňte obsah/obal do tříděného odpadu. EUH208 Obsahuje α-hexylcinnamaldehyde; 1-(1,2,3,4,5,6,7,8-octahydro-2,3,8,8-tetramethyl-2-naphthyl)ethan-1-one; Benzyl-salicylát; 3-p-cumenyl-2-methylpropionaldehyde; Linalool. Může vyvolat alergickou reakci.]]></LONG_DESCRIPTION>
+      </DESCRIPTION>
+    </DESCRIPTIONS>
+    <PRICES>
+      <PRICE language="cz">
+        <PRICELISTS>
+          <PRICELIST>
+            <PRICE_WITH_VAT>129</PRICE_WITH_VAT>
+          </PRICELIST>
+        </PRICELISTS>
+      </PRICE>
+    </PRICES>
+    <CATEGORIES>
+<CATEGORY>
+<CODE>6b7e8811-23ba-44aa-84dd-eefdfcbff589</CODE>
+<NAME>Drogerie</NAME>
+<PRIMARY_YN>0</PRIMARY_YN>
+<POSITION>1</POSITION>
+</CATEGORY>
+<CATEGORY>
+<CODE>a01edf9d-4ba4-4dbd-9c4c-a68639702e50</CODE>
+<NAME>Svíčky</NAME>
+<PRIMARY_YN>0</PRIMARY_YN>
+<POSITION>1</POSITION>
+</CATEGORY>
+<CATEGORY>
+<CODE>bba2c06a-86bb-47d5-b337-cdf25caf45a0</CODE>
+<NAME>Vonné svíčky</NAME>
+<PRIMARY_YN>1</PRIMARY_YN>
+<POSITION>1</POSITION>
+</CATEGORY>
+</CATEGORIES>
+    <IMAGES>
+      <IMAGE>
+        <URL>https://velkoobchod.reminky.cz/image.php?id=11053&amp;mode=4pm</URL>
+        <MAIN_YN>1</MAIN_YN>
+        <LIST_YN>1</LIST_YN>
+      </IMAGE>
+    </IMAGES>
+  </PRODUCT>
+  <PRODUCT>
+    <CODE>SUP0265944</CODE>
+    <ACTIVE_YN>1</ACTIVE_YN>
+    <CAN_ADD_TO_BASKET_YN>1</CAN_ADD_TO_BASKET_YN>
+    <MANUFACTURER>Sweet Home</MANUFACTURER>
+    <EAN>8059602244659</EAN>
+    <STOCK>12</STOCK>
+    <WEIGHT>121</WEIGHT>
+    <DESCRIPTIONS>
+      <DESCRIPTION language="cz">
+        <TITLE>Sweet Home Svíčka Černý Rybíz a granátové jablko 110g</TITLE>
+        <SHORT_DESCRIPTION>Svíčka Sweet Home s vůní černého rybízu a granátového jablka přináší do vašeho domova příjemnou atmosféru. S hmotností 110g a dobou hoření 4 hodiny je ideální pro relaxaci. Používejte dle návodu a nenechávejte bez dozoru.</SHORT_DESCRIPTION>
+        <LONG_DESCRIPTION><![CDATA[Svíčka Sweet Home s vůní černého rybízu a granátového jablka je ideální volbou pro vytvoření útulné atmosféry ve vašem domově. Její příjemná vůně vás obklopí a přinese pocit klidu a pohody. Svíčka má hmotnost 110g a dobu hoření 4 hodiny, což ji činí ideální pro večerní relaxaci. Při používání svíčky dbejte na bezpečnostní pokyny: Svíčku používejte pouze v souladu s návodem. Zapálenou svíčku nenechávejte bez dozoru. Je-li knot svíčky delší než 1 cm, zkraťte jej. Vyhýbejte se průvanu. Skladujte mimo dosah dětí.]]></LONG_DESCRIPTION>
+      </DESCRIPTION>
+    </DESCRIPTIONS>
+    <PRICES>
+      <PRICE language="cz">
+        <PRICELISTS>
+          <PRICELIST>
+            <PRICE_WITH_VAT>129</PRICE_WITH_VAT>
+          </PRICELIST>
+        </PRICELISTS>
+      </PRICE>
+    </PRICES>
+    <CATEGORIES>
+<CATEGORY>
+<CODE>6b7e8811-23ba-44aa-84dd-eefdfcbff589</CODE>
+<NAME>Drogerie</NAME>
+<PRIMARY_YN>0</PRIMARY_YN>
+<POSITION>1</POSITION>
+</CATEGORY>
+<CATEGORY>
+<CODE>a01edf9d-4ba4-4dbd-9c4c-a68639702e50</CODE>
+<NAME>Svíčky</NAME>
+<PRIMARY_YN>0</PRIMARY_YN>
+<POSITION>1</POSITION>
+</CATEGORY>
+<CATEGORY>
+<CODE>f62a9886-eb89-4449-9201-6425c7a638f8</CODE>
+<NAME>Čajové svíčky</NAME>
+<PRIMARY_YN>1</PRIMARY_YN>
+<POSITION>1</POSITION>
+</CATEGORY>
+</CATEGORIES>
+    <IMAGES>
+      <IMAGE>
+        <URL>https://velkoobchod.reminky.cz/image.php?id=11017&amp;mode=4pm</URL>
+        <MAIN_YN>1</MAIN_YN>
+        <LIST_YN>1</LIST_YN>
+      </IMAGE>
+    </IMAGES>
+  </PRODUCT>
+  <PRODUCT>
+    <CODE>SUP0105600</CODE>
+    <ACTIVE_YN>1</ACTIVE_YN>
+    <CAN_ADD_TO_BASKET_YN>0</CAN_ADD_TO_BASKET_YN>
+    <MANUFACTURER>Well Done</MANUFACTURER>
+    <EAN>5998466115619</EAN>
+    <STOCK>0</STOCK>
+    <WEIGHT>1210</WEIGHT>
+    <DESCRIPTIONS>
+      <DESCRIPTION language="cz">
+        <TITLE>Well Done Čistič odpadu 1l</TITLE>
+        <SHORT_DESCRIPTION>Well Done Čistič odpadu aktivně zničí bakterie v odpadním potrubí, neutralizuje nepříjemné pachy a odstraňuje usazeniny. Ideální pro sifony a odtoky umyvadel, sprch a van.</SHORT_DESCRIPTION>
+        <LONG_DESCRIPTION><![CDATA[Well Done Čistič odpadu je výkonný prostředek, který efektivně ničí bakterie v odpadním potrubí a neutralizuje nepříjemné pachy. Díky svému složení odstraňuje trvalé usazeniny, což zajišťuje hladký průtok vody. Ideální pro použití v sifonech a odtocích umyvadel, sprchových koutů a van. Pro dosažení nejlepších výsledků nalijte přiměřené množství čističe do odpadu a nechte působit několik hodin, ideálně přes noc. Poté důkladně propláchněte vodou. Složení: hydroxid sodný, povrchově aktivní látky, vonné látky. Bezpečnostní pokyny: Uchovávejte mimo dosah dětí. Při zasažení očí okamžitě vypláchněte vodou a vyhledejte lékařskou pomoc. Upozornění: Při manipulaci používejte ochranné rukavice.]]></LONG_DESCRIPTION>
+      </DESCRIPTION>
+    </DESCRIPTIONS>
+    <PRICES>
+      <PRICE language="cz">
+        <PRICELISTS>
+          <PRICELIST>
+            <PRICE_WITH_VAT>64.9</PRICE_WITH_VAT>
+          </PRICELIST>
+        </PRICELISTS>
+      </PRICE>
+    </PRICES>
+    <CATEGORIES>
+<CATEGORY>
+<CODE>6b7e8811-23ba-44aa-84dd-eefdfcbff589</CODE>
+<NAME>Drogerie</NAME>
+<PRIMARY_YN>0</PRIMARY_YN>
+<POSITION>1</POSITION>
+</CATEGORY>
+<CATEGORY>
+<CODE>496138f4-8e51-4bab-b641-8c9e7ee0ae71</CODE>
+<NAME>Čisticí prostředky</NAME>
+<PRIMARY_YN>0</PRIMARY_YN>
+<POSITION>1</POSITION>
+</CATEGORY>
+<CATEGORY>
+<CODE>14a25c12-03ed-49a2-8f39-97fa6c2bbb43</CODE>
+<NAME>Čističe odpadu</NAME>
+<PRIMARY_YN>0</PRIMARY_YN>
+<POSITION>1</POSITION>
+</CATEGORY>
+<CATEGORY>
+<CODE>339dc2bf-0490-4bb5-bef7-b18a5fdfe189</CODE>
+<NAME>Tekuté čističe odpadů</NAME>
+<PRIMARY_YN>1</PRIMARY_YN>
+<POSITION>1</POSITION>
+</CATEGORY>
+</CATEGORIES>
+    <IMAGES>
+      <IMAGE>
+        <URL>https://cdn.myshoptet.com/usr/www.atet.cz/user/shop/orig/216_draincleaner1lit-elo.jpg?656dcc0e</URL>
+        <MAIN_YN>1</MAIN_YN>
+        <LIST_YN>1</LIST_YN>
+      </IMAGE>
+    </IMAGES>
+  </PRODUCT>
 </PRODUCTS>
