@@ -6,7 +6,8 @@
     <CAN_ADD_TO_BASKET_YN>1</CAN_ADD_TO_BASKET_YN>
     <MANUFACTURER>Sweet Home</MANUFACTURER>
     <EAN>8034055531327</EAN>
-    <STOCK>13</STOCK>
+    <STOCK>1</STOCK>
+    <AVAILABILITY>Odesíláme 2025-08-08</AVAILABILITY>
     <WEIGHT>303</WEIGHT>
     <DESCRIPTIONS>
       <DESCRIPTION language="cz">
@@ -57,6 +58,12 @@
         <LIST_YN>1</LIST_YN>
       </IMAGE>
     </IMAGES>
+    <SEO_OPTIMALIZATION>
+      <SEO language="cz">
+        <SEO_TITLE>Sweet Home Čistič pračky Hygienizační 250 ml</SEO_TITLE>
+        <SEO_META_DESCRIPTION>Udržujte svou pračku čistou s čističem Sweet Home. Hygienizační účinek, 250 ml.</SEO_META_DESCRIPTION>
+      </SEO>
+    </SEO_OPTIMALIZATION>
   </PRODUCT>
   <PRODUCT>
     <CODE>SUP0265984</CODE>
@@ -64,7 +71,8 @@
     <CAN_ADD_TO_BASKET_YN>1</CAN_ADD_TO_BASKET_YN>
     <MANUFACTURER>Sweet Home</MANUFACTURER>
     <EAN>8059602245410</EAN>
-    <STOCK>24</STOCK>
+    <STOCK>1</STOCK>
+    <AVAILABILITY>Odesíláme 2025-08-08</AVAILABILITY>
     <WEIGHT>36</WEIGHT>
     <DESCRIPTIONS>
       <DESCRIPTION language="cz">
@@ -115,6 +123,12 @@
         <LIST_YN>1</LIST_YN>
       </IMAGE>
     </IMAGES>
+    <SEO_OPTIMALIZATION>
+      <SEO language="cz">
+        <SEO_TITLE>Sweet Home gel do myčky Šalvěj 30 ml</SEO_TITLE>
+        <SEO_META_DESCRIPTION>Gel do myčky Sweet Home s vůní šalvěje pro efektivní čištění. Variabilní dávkování a bezpečnostní pokyny.</SEO_META_DESCRIPTION>
+      </SEO>
+    </SEO_OPTIMALIZATION>
   </PRODUCT>
   <PRODUCT>
     <CODE>SUP0265948</CODE>
@@ -122,7 +136,8 @@
     <CAN_ADD_TO_BASKET_YN>1</CAN_ADD_TO_BASKET_YN>
     <MANUFACTURER>Sweet Home</MANUFACTURER>
     <EAN>8059602244697</EAN>
-    <STOCK>8</STOCK>
+    <STOCK>1</STOCK>
+    <AVAILABILITY>Odesíláme 2025-08-08</AVAILABILITY>
     <WEIGHT>121</WEIGHT>
     <DESCRIPTIONS>
       <DESCRIPTION language="cz">
@@ -167,6 +182,12 @@
         <LIST_YN>1</LIST_YN>
       </IMAGE>
     </IMAGES>
+    <SEO_OPTIMALIZATION>
+      <SEO language="cz">
+        <SEO_TITLE>Sweet Home Svíčka Orchidej a Vanilka 110g</SEO_TITLE>
+        <SEO_META_DESCRIPTION>Svíčka s vůní orchideje a vanilky, doba hoření 4 hodiny, bezpečné použití.</SEO_META_DESCRIPTION>
+      </SEO>
+    </SEO_OPTIMALIZATION>
   </PRODUCT>
   <PRODUCT>
     <CODE>SUP0102000</CODE>
@@ -174,7 +195,8 @@
     <CAN_ADD_TO_BASKET_YN>0</CAN_ADD_TO_BASKET_YN>
     <MANUFACTURER>Well Done</MANUFACTURER>
     <EAN>5998466114216</EAN>
-    <STOCK>0</STOCK>
+    <STOCK>1</STOCK>
+    <AVAILABILITY>Na dotaz</AVAILABILITY>
     <WEIGHT>908</WEIGHT>
     <DESCRIPTIONS>
       <DESCRIPTION language="cz">
@@ -219,6 +241,12 @@
         <LIST_YN>1</LIST_YN>
       </IMAGE>
     </IMAGES>
+    <SEO_OPTIMALIZATION>
+      <SEO language="cz">
+        <SEO_TITLE>Well Done Sanitární čistící pěna 750ml</SEO_TITLE>
+        <SEO_META_DESCRIPTION>Sanitární čistící pěna Well Done na plíseň a vodní kámen, 750ml.</SEO_META_DESCRIPTION>
+      </SEO>
+    </SEO_OPTIMALIZATION>
   </PRODUCT>
   <PRODUCT>
     <CODE>SUP0265947</CODE>
@@ -226,7 +254,8 @@
     <CAN_ADD_TO_BASKET_YN>1</CAN_ADD_TO_BASKET_YN>
     <MANUFACTURER>Sweet Home</MANUFACTURER>
     <EAN>8059602244680</EAN>
-    <STOCK>10</STOCK>
+    <STOCK>1</STOCK>
+    <AVAILABILITY>Odesíláme 2025-08-08</AVAILABILITY>
     <WEIGHT>121</WEIGHT>
     <DESCRIPTIONS>
       <DESCRIPTION language="cz">
@@ -271,6 +300,12 @@
         <LIST_YN>1</LIST_YN>
       </IMAGE>
     </IMAGES>
+    <SEO_OPTIMALIZATION>
+      <SEO language="cz">
+        <SEO_TITLE>Sweet Home Svíčka Jasmín a Tuberóza 110g</SEO_TITLE>
+        <SEO_META_DESCRIPTION>Svíčka Sweet Home s vůní jasmínu a tuberózy, doba hoření 4 hodiny, škodlivá pro vodní organismy.</SEO_META_DESCRIPTION>
+      </SEO>
+    </SEO_OPTIMALIZATION>
   </PRODUCT>
   <PRODUCT>
     <CODE>SUP0265944</CODE>
@@ -278,7 +313,8 @@
     <CAN_ADD_TO_BASKET_YN>1</CAN_ADD_TO_BASKET_YN>
     <MANUFACTURER>Sweet Home</MANUFACTURER>
     <EAN>8059602244659</EAN>
-    <STOCK>12</STOCK>
+    <STOCK>1</STOCK>
+    <AVAILABILITY>Odesíláme 2025-08-08</AVAILABILITY>
     <WEIGHT>121</WEIGHT>
     <DESCRIPTIONS>
       <DESCRIPTION language="cz">
@@ -323,6 +359,12 @@
         <LIST_YN>1</LIST_YN>
       </IMAGE>
     </IMAGES>
+    <SEO_OPTIMALIZATION>
+      <SEO language="cz">
+        <SEO_TITLE>Sweet Home Svíčka Černý Rybíz a granátové jablko</SEO_TITLE>
+        <SEO_META_DESCRIPTION>Svíčka Sweet Home s vůní černého rybízu a granátového jablka, 110g, doba hoření 4 hodiny. Ideální pro relaxaci.</SEO_META_DESCRIPTION>
+      </SEO>
+    </SEO_OPTIMALIZATION>
   </PRODUCT>
   <PRODUCT>
     <CODE>SUP0105600</CODE>
@@ -330,7 +372,8 @@
     <CAN_ADD_TO_BASKET_YN>0</CAN_ADD_TO_BASKET_YN>
     <MANUFACTURER>Well Done</MANUFACTURER>
     <EAN>5998466115619</EAN>
-    <STOCK>0</STOCK>
+    <STOCK>1</STOCK>
+    <AVAILABILITY>Na dotaz</AVAILABILITY>
     <WEIGHT>1210</WEIGHT>
     <DESCRIPTIONS>
       <DESCRIPTION language="cz">
@@ -381,5 +424,11 @@
         <LIST_YN>1</LIST_YN>
       </IMAGE>
     </IMAGES>
+    <SEO_OPTIMALIZATION>
+      <SEO language="cz">
+        <SEO_TITLE>Well Done Čistič odpadu 1l</SEO_TITLE>
+        <SEO_META_DESCRIPTION>Efektivní čistič odpadu, který ničí bakterie a neutralizuje pachy. Ideální pro umyvadla a vany.</SEO_META_DESCRIPTION>
+      </SEO>
+    </SEO_OPTIMALIZATION>
   </PRODUCT>
 </PRODUCTS>
