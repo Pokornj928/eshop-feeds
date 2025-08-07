@@ -1,10 +1,641 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PRODUCTS version="2.0">
   <PRODUCT>
-    <CODE></CODE>
+    <CODE>SUP02318460</CODE>
     <ACTIVE_YN>1</ACTIVE_YN>
-    <CAN_ADD_TO_BASKET_YN>0</CAN_ADD_TO_BASKET_YN>
-    <STOCK>0</STOCK>
-    <AVAILABILITY>Na dotaz</AVAILABILITY>
+    <CAN_ADD_TO_BASKET_YN>1</CAN_ADD_TO_BASKET_YN>
+    <MANUFACTURER>Ace</MANUFACTURER>
+    <EAN>8001480020375</EAN>
+    <STOCK>23</STOCK>
+    <AVAILABILITY>Odesíláme 7.8.2025</AVAILABILITY>
+    <WEIGHT>847</WEIGHT>
+    <DESCRIPTIONS>
+      <DESCRIPTION language="cz">
+        <TITLE>Ace WC gel s bělidlem růžový 700ml</TITLE>
+        <SHORT_DESCRIPTION>Ace WC gel s bělidlem účinně čistí toalety, bidety a pisoáry. Díky vylepšenému aplikátoru se šesti otvory dosáhne i na těžko přístupná místa, eliminuje pachy a dodává brilantní lesk.</SHORT_DESCRIPTION>
+        <LONG_DESCRIPTION><![CDATA[Ace WC gel s bělidlem je ideální volbou pro dokonalou čistotu vaší toalety. Díky novému aplikátoru se šesti otvory dokáže efektivně vyčistit i ty nejméně přístupná místa, a to po celém obvodu i pod okrajem toalety. Pomáhá předcházet tvorbě usazenin a vodního kamene, eliminuje nepříjemné pachy a dodává brilantní lesk. Použití: Naneste gel pod okraj toalety a nechte působit několik minut, poté spláchněte. VAROVÁNÍ! H315 Dráždí kůži. H318 Způsobuje vážné poškození očí. Nebezpečné pro životní prostředí. Složení: Obsahuje bělidlo a další čistící složky.]]></LONG_DESCRIPTION>
+      </DESCRIPTION>
+    </DESCRIPTIONS>
+    <PRICES>
+      <PRICE language="cz">
+        <PRICELISTS>
+          <PRICELIST>
+            <PRICE_WITH_VAT>72</PRICE_WITH_VAT>
+          </PRICELIST>
+        </PRICELISTS>
+      </PRICE>
+    </PRICES>
+    <CATEGORIES>
+<CATEGORY>
+<CODE>6b7e8811-23ba-44aa-84dd-eefdfcbff589</CODE>
+<NAME>Drogerie</NAME>
+<PRIMARY_YN>0</PRIMARY_YN>
+<POSITION>1</POSITION>
+</CATEGORY>
+<CATEGORY>
+<CODE>496138f4-8e51-4bab-b641-8c9e7ee0ae71</CODE>
+<NAME>Čisticí prostředky</NAME>
+<PRIMARY_YN>0</PRIMARY_YN>
+<POSITION>1</POSITION>
+</CATEGORY>
+<CATEGORY>
+<CODE>1b356d91-2ea1-4f42-9adc-b87649974f55</CODE>
+<NAME>Čisticí prostředky na toalety</NAME>
+<PRIMARY_YN>0</PRIMARY_YN>
+<POSITION>1</POSITION>
+</CATEGORY>
+<CATEGORY>
+<CODE>92526d95-af08-44b7-8ea2-6395e57e3dcf</CODE>
+<NAME>WC gely</NAME>
+<PRIMARY_YN>1</PRIMARY_YN>
+<POSITION>1</POSITION>
+</CATEGORY>
+</CATEGORIES>
+    <IMAGES>
+      <IMAGE>
+        <URL>https://cdn.myshoptet.com/usr/www.onlinedrogerie.cz/user/shop/orig/18460_ace-700ml-wc-gel-s-belidlem-ruzovy-8001480020375.png?66bf29a4</URL>
+        <MAIN_YN>1</MAIN_YN>
+        <LIST_YN>1</LIST_YN>
+      </IMAGE>
+    </IMAGES>
+    <SEO_OPTIMALIZATION>
+      <SEO language="cz">
+        <SEO_TITLE>Ace WC gel s bělidlem růžový 700ml</SEO_TITLE>
+        <SEO_META_DESCRIPTION>Ace WC gel s bělidlem čistí toalety, eliminuje pachy a dodává lesk. Vylepšený aplikátor dosáhne i na těžko přístupná místa.</SEO_META_DESCRIPTION>
+      </SEO>
+    </SEO_OPTIMALIZATION>
+  </PRODUCT>
+  <PRODUCT>
+    <CODE>SUP018PAL1222</CODE>
+    <ACTIVE_YN>1</ACTIVE_YN>
+    <CAN_ADD_TO_BASKET_YN>1</CAN_ADD_TO_BASKET_YN>
+    <EAN>8595641302252</EAN>
+    <STOCK>828</STOCK>
+    <AVAILABILITY>Odesíláme 8.8.2025</AVAILABILITY>
+    <IMAGES>
+      <IMAGE>
+        <URL>https://cml.palacio.cz/product/514/file/4/s1200?f9mAlXdgxWvOe2nH1jaISyYOxy5vzkImMVNFAmvVSyA-</URL>
+        <MAIN_YN>1</MAIN_YN>
+        <LIST_YN>1</LIST_YN>
+      </IMAGE>
+    </IMAGES>
+  </PRODUCT>
+  <PRODUCT>
+    <CODE>SUP00842557</CODE>
+    <ACTIVE_YN>1</ACTIVE_YN>
+    <CAN_ADD_TO_BASKET_YN>1</CAN_ADD_TO_BASKET_YN>
+    <EAN>4015962107601</EAN>
+    <STOCK>292</STOCK>
+    <AVAILABILITY>Odesíláme 11.8.2025</AVAILABILITY>
+    <PRICES>
+      <PRICE language="cz">
+        <PRICELISTS>
+          <PRICELIST>
+            <PRICE_WITH_VAT>142.000034</PRICE_WITH_VAT>
+          </PRICELIST>
+        </PRICELISTS>
+      </PRICE>
+    </PRICES>
+    <IMAGES>
+      <IMAGE>
+        <URL>https://www.ebarvy.cz/GetProductData.php?DocType=Image&amp;DataSource=BAL&amp;FileName=ZBOZI_42557.jpg&amp;PictWidth=500&amp;PictHeight=500</URL>
+        <MAIN_YN>1</MAIN_YN>
+        <LIST_YN>1</LIST_YN>
+      </IMAGE>
+    </IMAGES>
+  </PRODUCT>
+  <PRODUCT>
+    <CODE>SUP02322290</CODE>
+    <ACTIVE_YN>1</ACTIVE_YN>
+    <CAN_ADD_TO_BASKET_YN>1</CAN_ADD_TO_BASKET_YN>
+    <MANUFACTURER>Ambi Pur</MANUFACTURER>
+    <EAN>8001090996831</EAN>
+    <STOCK>43</STOCK>
+    <AVAILABILITY>Odesíláme 7.8.2025</AVAILABILITY>
+    <WEIGHT>9</WEIGHT>
+    <DESCRIPTIONS>
+      <DESCRIPTION language="cz">
+        <TITLE>Ambi Pur osvěžovač vzduchu Cookie de Vanilla 7,5ml</TITLE>
+        <SHORT_DESCRIPTION>Ambi Pur 2v1 osvěžovač vzduchu přináší svěží vůni Cookie de Vanilla, která udrží vaši koupelnu příjemnou po dobu 45 dní. Snadno se umisťuje na zadní stranu toalety.</SHORT_DESCRIPTION>
+        <LONG_DESCRIPTION><![CDATA[Ambi Pur 2v1 osvěžovač vzduchu Cookie de Vanilla je ideálním řešením pro udržení svěží a příjemné vůně ve vaší koupelně po dobu až 45 dní. Stačí jej umístit na zadní stranu toalety nebo na strategické místo v koupelně a užívat si svěží a čisté prostředí bez námahy. Složení: Obsahuje vonné látky a další složky. Bezpečnostní pokyny: H319 Způsobuje vážné podráždění očí. H318 Způsobuje vážné poškození očí. Nebezpečné pro životní prostředí. Uchovávejte mimo dosah dětí.]]></LONG_DESCRIPTION>
+      </DESCRIPTION>
+    </DESCRIPTIONS>
+    <PRICES>
+      <PRICE language="cz">
+        <PRICELISTS>
+          <PRICELIST>
+            <PRICE_WITH_VAT>79</PRICE_WITH_VAT>
+          </PRICELIST>
+        </PRICELISTS>
+      </PRICE>
+    </PRICES>
+    <CATEGORIES>
+<CATEGORY>
+<CODE>6b7e8811-23ba-44aa-84dd-eefdfcbff589</CODE>
+<NAME>Drogerie</NAME>
+<PRIMARY_YN>0</PRIMARY_YN>
+<POSITION>1</POSITION>
+</CATEGORY>
+<CATEGORY>
+<CODE>7649581c-8f7a-4b95-9df7-e22b4f8bb934</CODE>
+<NAME>Osvěžovače vzduchu</NAME>
+<PRIMARY_YN>0</PRIMARY_YN>
+<POSITION>1</POSITION>
+</CATEGORY>
+<CATEGORY>
+<CODE>b4479abe-e31a-4ebc-967b-dac7899479e1</CODE>
+<NAME>Aroma difuzéry</NAME>
+<PRIMARY_YN>1</PRIMARY_YN>
+<POSITION>1</POSITION>
+</CATEGORY>
+</CATEGORIES>
+    <IMAGES>
+      <IMAGE>
+        <URL>https://cdn.myshoptet.com/usr/www.onlinedrogerie.cz/user/shop/orig/22290_ambi-pur-7-5ml-cookie-de-vanilla-osvezovac-vzduchu-8001090996831.jpg?6840220a</URL>
+        <MAIN_YN>1</MAIN_YN>
+        <LIST_YN>1</LIST_YN>
+      </IMAGE>
+    </IMAGES>
+    <SEO_OPTIMALIZATION>
+      <SEO language="cz">
+        <SEO_TITLE>Ambi Pur osvěžovač vzduchu Cookie de Vanilla</SEO_TITLE>
+        <SEO_META_DESCRIPTION>Ambi Pur osvěžovač vzduchu s vůní Cookie de Vanilla udrží vaši koupelnu svěží po 45 dní. Snadné použití.</SEO_META_DESCRIPTION>
+      </SEO>
+    </SEO_OPTIMALIZATION>
+  </PRODUCT>
+  <PRODUCT>
+    <CODE>SUP0265948</CODE>
+    <ACTIVE_YN>1</ACTIVE_YN>
+    <CAN_ADD_TO_BASKET_YN>1</CAN_ADD_TO_BASKET_YN>
+    <MANUFACTURER>Sweet Home</MANUFACTURER>
+    <EAN>8059602244697</EAN>
+    <STOCK>10</STOCK>
+    <AVAILABILITY>Odesíláme 8.8.2025</AVAILABILITY>
+    <WEIGHT>121</WEIGHT>
+    <DESCRIPTIONS>
+      <DESCRIPTION language="cz">
+        <TITLE>Sweet Home Svíčka Orchidej a Vanilka 110g</TITLE>
+        <SHORT_DESCRIPTION>Vytvořte si doma útulnou atmosféru s touto svíčkou s vůní orchideje a vanilky. S dobou hoření 4 hodiny je ideální pro relaxaci po náročném dni. Svíčka je vyrobena s ohledem na bezpečnost a kvalitu.</SHORT_DESCRIPTION>
+        <LONG_DESCRIPTION><![CDATA[Svíčka Sweet Home s vůní orchideje a vanilky přináší do vašeho domova příjemnou a uklidňující atmosféru. Je ideální pro relaxaci po náročném dni nebo pro vytvoření romantické nálady. Doba hoření je 4 hodiny, což zajišťuje dlouhotrvající zážitek. Před použitím svíčky zkraťte knot na délku 1 cm a vyhýbejte se průvanu. Svíčku nikdy nenechávejte hořet bez dozoru a skladujte ji mimo dosah dětí. Složení: &alpha;-hexylcinnamaldehyde, Vanillin, Benzyl-salicylát, Linalool, hydroxyisohexyl 3-cyclohexene carboxaldehyde. Může vyvolat alergickou reakci.]]></LONG_DESCRIPTION>
+      </DESCRIPTION>
+    </DESCRIPTIONS>
+    <PRICES>
+      <PRICE language="cz">
+        <PRICELISTS>
+          <PRICELIST>
+            <PRICE_WITH_VAT>129</PRICE_WITH_VAT>
+          </PRICELIST>
+        </PRICELISTS>
+      </PRICE>
+    </PRICES>
+    <CATEGORIES>
+<CATEGORY>
+<CODE>6b7e8811-23ba-44aa-84dd-eefdfcbff589</CODE>
+<NAME>Drogerie</NAME>
+<PRIMARY_YN>0</PRIMARY_YN>
+<POSITION>1</POSITION>
+</CATEGORY>
+<CATEGORY>
+<CODE>a01edf9d-4ba4-4dbd-9c4c-a68639702e50</CODE>
+<NAME>Svíčky</NAME>
+<PRIMARY_YN>0</PRIMARY_YN>
+<POSITION>1</POSITION>
+</CATEGORY>
+<CATEGORY>
+<CODE>bba2c06a-86bb-47d5-b337-cdf25caf45a0</CODE>
+<NAME>Vonné svíčky</NAME>
+<PRIMARY_YN>1</PRIMARY_YN>
+<POSITION>1</POSITION>
+</CATEGORY>
+</CATEGORIES>
+    <IMAGES>
+      <IMAGE>
+        <URL>https://velkoobchod.reminky.cz/image.php?id=11065&amp;mode=4pm</URL>
+        <MAIN_YN>1</MAIN_YN>
+        <LIST_YN>1</LIST_YN>
+      </IMAGE>
+    </IMAGES>
+    <SEO_OPTIMALIZATION>
+      <SEO language="cz">
+        <SEO_TITLE>Sweet Home Svíčka Orchidej a Vanilka 110g</SEO_TITLE>
+        <SEO_META_DESCRIPTION>Svíčka s vůní orchideje a vanilky, doba hoření 4 hodiny, bezpečné použití.</SEO_META_DESCRIPTION>
+      </SEO>
+    </SEO_OPTIMALIZATION>
+  </PRODUCT>
+  <PRODUCT>
+    <CODE>SUP0102000</CODE>
+    <ACTIVE_YN>1</ACTIVE_YN>
+    <CAN_ADD_TO_BASKET_YN>1</CAN_ADD_TO_BASKET_YN>
+    <MANUFACTURER>Well Done</MANUFACTURER>
+    <EAN>5998466114216</EAN>
+    <STOCK>10</STOCK>
+    <AVAILABILITY>Odesíláme 7.8.2025</AVAILABILITY>
+    <WEIGHT>825</WEIGHT>
+    <DESCRIPTIONS>
+      <DESCRIPTION language="cz">
+        <TITLE>Well Done sanitární čistící pěna s rozprašovačem 750ml</TITLE>
+        <SHORT_DESCRIPTION>Well Done sanitární čistící pěna s rozprašovačem je ideální pro efektivní a rychlé čištění sanitárních povrchů. S objemem 750ml poskytuje dlouhotrvající výkon a snadné použití díky praktickému rozprašovači.</SHORT_DESCRIPTION>
+        <LONG_DESCRIPTION><![CDATA[Well Done sanitární čistící pěna s rozprašovačem nabízí rychlé a účinné řešení pro údržbu čistoty ve vaší koupelně. Díky své pěnové konzistenci snadno přilne k povrchu a efektivně odstraňuje nečistoty a bakterie. Praktický rozprašovač umožňuje přesné dávkování a snadnou aplikaci. Uchovávejte mimo dosah dětí a před použitím si přečtěte informace na etiketě. Zabraňte vdechování spreje. Při styku s kůží omyjte velkým množstvím mýdlové vody. Při zasažení očí několik minut jemně vyplachujte vodou a vyjměte kontaktní čočky, pokud je to možné.]]></LONG_DESCRIPTION>
+      </DESCRIPTION>
+    </DESCRIPTIONS>
+    <PRICES>
+      <PRICE language="cz">
+        <PRICELISTS>
+          <PRICELIST>
+            <PRICE_WITH_VAT>99.9</PRICE_WITH_VAT>
+          </PRICELIST>
+        </PRICELISTS>
+      </PRICE>
+    </PRICES>
+    <CATEGORIES>
+<CATEGORY>
+<CODE>a7352868-57d3-4d14-adc1-9737629b0888</CODE>
+<NAME>Profi chemie</NAME>
+<PRIMARY_YN>0</PRIMARY_YN>
+<POSITION>1</POSITION>
+</CATEGORY>
+<CATEGORY>
+<CODE>fdb9f3f0-ea9b-4bb4-affb-8a87b16fe13d</CODE>
+<NAME>Sanitární zařízení</NAME>
+<PRIMARY_YN>0</PRIMARY_YN>
+<POSITION>1</POSITION>
+</CATEGORY>
+<CATEGORY>
+<CODE>743f33a7-188e-46be-ab76-15fddd83f238</CODE>
+<NAME>Přípravky pro denní úklid</NAME>
+<PRIMARY_YN>1</PRIMARY_YN>
+<POSITION>1</POSITION>
+</CATEGORY>
+</CATEGORIES>
+    <IMAGES>
+      <IMAGE>
+        <URL>https://cdn.myshoptet.com/usr/www.atet.cz/user/shop/orig/114_sanitarni-cistici-pena-s-rozprasovacem-750ml.jpg?5aeaff85</URL>
+        <MAIN_YN>1</MAIN_YN>
+        <LIST_YN>1</LIST_YN>
+      </IMAGE>
+    </IMAGES>
+    <SEO_OPTIMALIZATION>
+      <SEO language="cz">
+        <SEO_TITLE>Well Done sanitární čistící pěna 750ml</SEO_TITLE>
+        <SEO_META_DESCRIPTION>Sanitární čistící pěna Well Done s rozprašovačem pro efektivní údržbu koupelny. Objem 750ml, snadné použití.</SEO_META_DESCRIPTION>
+      </SEO>
+    </SEO_OPTIMALIZATION>
+  </PRODUCT>
+  <PRODUCT>
+    <CODE>SUP02318496</CODE>
+    <ACTIVE_YN>1</ACTIVE_YN>
+    <CAN_ADD_TO_BASKET_YN>1</CAN_ADD_TO_BASKET_YN>
+    <MANUFACTURER>Ace</MANUFACTURER>
+    <EAN>8001480703339</EAN>
+    <STOCK>142</STOCK>
+    <AVAILABILITY>Odesíláme 7.8.2025</AVAILABILITY>
+    <WEIGHT>1210</WEIGHT>
+    <DESCRIPTIONS>
+      <DESCRIPTION language="cz">
+        <TITLE>Ace Čistič na podlahy Talco e Muschio Bianco 1l</TITLE>
+        <SHORT_DESCRIPTION>Ace Pavimenti čistič na podlahy s vůní pudru a bílého pižma účinně čistí i odolnou špínu, zanechává povrchy lesklé a hygienicky čisté. Vhodný na mramor, terakotu a granit.</SHORT_DESCRIPTION>
+        <LONG_DESCRIPTION><![CDATA[Ace Pavimenti Igienizzante Talco e Muschio Bianco je čistič podlah a všech omyvatelných povrchů, který je obohacen o vzácné vůně inspirované přírodou. Tento čistič účinně odstraňuje i velmi odolnou a silnou špínu, zanechává brilantní lesk a hygienickou čistotu. Jeho příjemná intenzivní vůně pudru a bílého pižma, doplněná o květinové, dřevité a vanilkové tóny, zanechává čištěné povrchy dlouhodobě provoněné. Je vhodný také na mramor, terakotu a granit. Použití: Naneste na povrch a setřete hadříkem nebo mopem. Varování! H319: Způsobuje vážné podráždění očí. Složení: <konkrétní složení není uvedeno>. Bezpečnostní pokyny: Uchovávejte mimo dosah dětí.]]></LONG_DESCRIPTION>
+      </DESCRIPTION>
+    </DESCRIPTIONS>
+    <PRICES>
+      <PRICE language="cz">
+        <PRICELISTS>
+          <PRICELIST>
+            <PRICE_WITH_VAT>70</PRICE_WITH_VAT>
+          </PRICELIST>
+        </PRICELISTS>
+      </PRICE>
+    </PRICES>
+    <CATEGORIES>
+<CATEGORY>
+<CODE>6b7e8811-23ba-44aa-84dd-eefdfcbff589</CODE>
+<NAME>Drogerie</NAME>
+<PRIMARY_YN>0</PRIMARY_YN>
+<POSITION>1</POSITION>
+</CATEGORY>
+<CATEGORY>
+<CODE>496138f4-8e51-4bab-b641-8c9e7ee0ae71</CODE>
+<NAME>Čisticí prostředky</NAME>
+<PRIMARY_YN>0</PRIMARY_YN>
+<POSITION>1</POSITION>
+</CATEGORY>
+<CATEGORY>
+<CODE>3233e550-413c-47b7-91fb-694f56f049c1</CODE>
+<NAME>Čisticí prostředky na podlahy</NAME>
+<PRIMARY_YN>0</PRIMARY_YN>
+<POSITION>1</POSITION>
+</CATEGORY>
+<CATEGORY>
+<CODE>d7566786-5df7-4d63-9429-185f716875b6</CODE>
+<NAME>Univerzální čisticí prostředky na podlahy</NAME>
+<PRIMARY_YN>1</PRIMARY_YN>
+<POSITION>1</POSITION>
+</CATEGORY>
+</CATEGORIES>
+    <IMAGES>
+      <IMAGE>
+        <URL>https://cdn.myshoptet.com/usr/www.onlinedrogerie.cz/user/shop/orig/18496_ace-pavimenti-1l-cistic-na-podlahy-talco-e-muschio-bianco-8001480703339.jpg?66bf2aad</URL>
+        <MAIN_YN>1</MAIN_YN>
+        <LIST_YN>1</LIST_YN>
+      </IMAGE>
+    </IMAGES>
+    <SEO_OPTIMALIZATION>
+      <SEO language="cz">
+        <SEO_TITLE>Ace Čistič na podlahy Talco e Muschio Bianco 1l</SEO_TITLE>
+        <SEO_META_DESCRIPTION>Čistič podlah Ace s vůní pudru a pižma, účinný na odolnou špínu, lesklé povrchy.</SEO_META_DESCRIPTION>
+      </SEO>
+    </SEO_OPTIMALIZATION>
+  </PRODUCT>
+  <PRODUCT>
+    <CODE>SUP00842569</CODE>
+    <ACTIVE_YN>1</ACTIVE_YN>
+    <CAN_ADD_TO_BASKET_YN>1</CAN_ADD_TO_BASKET_YN>
+    <EAN>4015962107014</EAN>
+    <STOCK>40</STOCK>
+    <AVAILABILITY>Odesíláme 11.8.2025</AVAILABILITY>
+    <PRICES>
+      <PRICE language="cz">
+        <PRICELISTS>
+          <PRICELIST>
+            <PRICE_WITH_VAT>129.000036</PRICE_WITH_VAT>
+          </PRICELIST>
+        </PRICELISTS>
+      </PRICE>
+    </PRICES>
+    <IMAGES>
+      <IMAGE>
+        <URL>https://www.ebarvy.cz/GetProductData.php?DocType=Image&amp;DataSource=BAL&amp;FileName=ZBOZI_42569.jpg&amp;PictWidth=500&amp;PictHeight=500</URL>
+        <MAIN_YN>1</MAIN_YN>
+        <LIST_YN>1</LIST_YN>
+      </IMAGE>
+    </IMAGES>
+  </PRODUCT>
+  <PRODUCT>
+    <CODE>SUP018PAL1053</CODE>
+    <ACTIVE_YN>1</ACTIVE_YN>
+    <CAN_ADD_TO_BASKET_YN>1</CAN_ADD_TO_BASKET_YN>
+    <EAN>3800023405922</EAN>
+    <STOCK>1966</STOCK>
+    <AVAILABILITY>Odesíláme 8.8.2025</AVAILABILITY>
+    <IMAGES>
+      <IMAGE>
+        <URL>https://cml.palacio.cz/product/336/file/1/s1200?x.aTxwuSyhOU6McQoZMDRmCWGJPjv26C6scntqA_wP4-</URL>
+        <MAIN_YN>1</MAIN_YN>
+        <LIST_YN>1</LIST_YN>
+      </IMAGE>
+    </IMAGES>
+  </PRODUCT>
+  <PRODUCT>
+    <CODE>SUP018PAL0553</CODE>
+    <ACTIVE_YN>1</ACTIVE_YN>
+    <CAN_ADD_TO_BASKET_YN>1</CAN_ADD_TO_BASKET_YN>
+    <EAN>8595641300098</EAN>
+    <STOCK>791</STOCK>
+    <AVAILABILITY>Odesíláme 8.8.2025</AVAILABILITY>
+    <IMAGES>
+      <IMAGE>
+        <URL>https://cml.palacio.cz/product/281/file/4/s1200?VekaOhgbKCmkl12KdgvLAGfx.YJ7InvMuc1X.WtJJ6I-</URL>
+        <MAIN_YN>1</MAIN_YN>
+        <LIST_YN>1</LIST_YN>
+      </IMAGE>
+    </IMAGES>
+  </PRODUCT>
+  <PRODUCT>
+    <CODE>SUP018PAL1380</CODE>
+    <ACTIVE_YN>1</ACTIVE_YN>
+    <CAN_ADD_TO_BASKET_YN>1</CAN_ADD_TO_BASKET_YN>
+    <EAN>8595641302238</EAN>
+    <STOCK>50</STOCK>
+    <AVAILABILITY>Odesíláme 8.8.2025</AVAILABILITY>
+    <IMAGES>
+      <IMAGE>
+        <URL>https://cml.palacio.cz/product/629/file/2/s1200?FjixNHVC_3SUEBdicR0qBJhVZuuROSA5Z2GKCDf00qA-</URL>
+        <MAIN_YN>1</MAIN_YN>
+        <LIST_YN>1</LIST_YN>
+      </IMAGE>
+    </IMAGES>
+  </PRODUCT>
+  <PRODUCT>
+    <CODE>SUP0105600</CODE>
+    <ACTIVE_YN>1</ACTIVE_YN>
+    <CAN_ADD_TO_BASKET_YN>1</CAN_ADD_TO_BASKET_YN>
+    <MANUFACTURER>Well Done</MANUFACTURER>
+    <EAN>5998466115619</EAN>
+    <STOCK>10</STOCK>
+    <AVAILABILITY>Odesíláme 7.8.2025</AVAILABILITY>
+    <WEIGHT>1210</WEIGHT>
+    <DESCRIPTIONS>
+      <DESCRIPTION language="cz">
+        <TITLE>Well Done Čistič odpadu 1l</TITLE>
+        <SHORT_DESCRIPTION>Well Done Čistič odpadu aktivně zničí bakterie v odpadním potrubí, neutralizuje nepříjemné pachy a odstraňuje usazeniny. Ideální pro sifony a odtoky umyvadel, sprch a van.</SHORT_DESCRIPTION>
+        <LONG_DESCRIPTION><![CDATA[Well Done Čistič odpadu je výkonný prostředek, který efektivně ničí bakterie v odpadním potrubí a neutralizuje nepříjemné pachy. Díky svému složení odstraňuje trvalé usazeniny, což zajišťuje hladký průtok vody. Ideální pro použití v sifonech a odtocích umyvadel, sprchových koutů a van. Pro dosažení nejlepších výsledků nalijte přiměřené množství čističe do odpadu a nechte působit několik hodin, ideálně přes noc. Poté důkladně propláchněte vodou. Složení: hydroxid sodný, povrchově aktivní látky, vonné látky. Bezpečnostní pokyny: Uchovávejte mimo dosah dětí. Při zasažení očí okamžitě vypláchněte vodou a vyhledejte lékařskou pomoc. Upozornění: Při manipulaci používejte ochranné rukavice.]]></LONG_DESCRIPTION>
+      </DESCRIPTION>
+    </DESCRIPTIONS>
+    <PRICES>
+      <PRICE language="cz">
+        <PRICELISTS>
+          <PRICELIST>
+            <PRICE_WITH_VAT>64.9</PRICE_WITH_VAT>
+          </PRICELIST>
+        </PRICELISTS>
+      </PRICE>
+    </PRICES>
+    <CATEGORIES>
+<CATEGORY>
+<CODE>6b7e8811-23ba-44aa-84dd-eefdfcbff589</CODE>
+<NAME>Drogerie</NAME>
+<PRIMARY_YN>0</PRIMARY_YN>
+<POSITION>1</POSITION>
+</CATEGORY>
+<CATEGORY>
+<CODE>496138f4-8e51-4bab-b641-8c9e7ee0ae71</CODE>
+<NAME>Čisticí prostředky</NAME>
+<PRIMARY_YN>0</PRIMARY_YN>
+<POSITION>1</POSITION>
+</CATEGORY>
+<CATEGORY>
+<CODE>14a25c12-03ed-49a2-8f39-97fa6c2bbb43</CODE>
+<NAME>Čističe odpadu</NAME>
+<PRIMARY_YN>0</PRIMARY_YN>
+<POSITION>1</POSITION>
+</CATEGORY>
+<CATEGORY>
+<CODE>339dc2bf-0490-4bb5-bef7-b18a5fdfe189</CODE>
+<NAME>Tekuté čističe odpadů</NAME>
+<PRIMARY_YN>1</PRIMARY_YN>
+<POSITION>1</POSITION>
+</CATEGORY>
+</CATEGORIES>
+    <IMAGES>
+      <IMAGE>
+        <URL>https://cdn.myshoptet.com/usr/www.atet.cz/user/shop/orig/216_draincleaner1lit-elo.jpg?656dcc0e</URL>
+        <MAIN_YN>1</MAIN_YN>
+        <LIST_YN>1</LIST_YN>
+      </IMAGE>
+    </IMAGES>
+    <SEO_OPTIMALIZATION>
+      <SEO language="cz">
+        <SEO_TITLE>Well Done Čistič odpadu 1l</SEO_TITLE>
+        <SEO_META_DESCRIPTION>Efektivní čistič odpadu, který ničí bakterie a neutralizuje pachy. Ideální pro umyvadla a vany.</SEO_META_DESCRIPTION>
+      </SEO>
+    </SEO_OPTIMALIZATION>
+  </PRODUCT>
+  <PRODUCT>
+    <CODE>SUP018PAL1291</CODE>
+    <ACTIVE_YN>1</ACTIVE_YN>
+    <CAN_ADD_TO_BASKET_YN>1</CAN_ADD_TO_BASKET_YN>
+    <EAN>8595641301002</EAN>
+    <STOCK>98</STOCK>
+    <AVAILABILITY>Odesíláme 8.8.2025</AVAILABILITY>
+    <IMAGES>
+      <IMAGE>
+        <URL>https://cml.palacio.cz/product/559/file/3/s1200?b.UcWlOCM7BLLsaJEsdXaDmPr5W5X5v1ypsxkv3aIt8-</URL>
+        <MAIN_YN>1</MAIN_YN>
+        <LIST_YN>1</LIST_YN>
+      </IMAGE>
+    </IMAGES>
+  </PRODUCT>
+  <PRODUCT>
+    <CODE>SUP018PAL1411</CODE>
+    <ACTIVE_YN>1</ACTIVE_YN>
+    <CAN_ADD_TO_BASKET_YN>1</CAN_ADD_TO_BASKET_YN>
+    <EAN>8595641300005</EAN>
+    <STOCK>171</STOCK>
+    <AVAILABILITY>Odesíláme 8.8.2025</AVAILABILITY>
+    <IMAGES>
+      <IMAGE>
+        <URL>https://cml.palacio.cz/product/713/file/1/s1200?Xg7gsApiGbJtCedBaRMeWD9beOhlv93Fo3aAoujWv34-</URL>
+        <MAIN_YN>1</MAIN_YN>
+        <LIST_YN>1</LIST_YN>
+      </IMAGE>
+    </IMAGES>
+  </PRODUCT>
+  <PRODUCT>
+    <CODE>SUP00842556</CODE>
+    <ACTIVE_YN>1</ACTIVE_YN>
+    <CAN_ADD_TO_BASKET_YN>1</CAN_ADD_TO_BASKET_YN>
+    <EAN>4015962107045</EAN>
+    <STOCK>21</STOCK>
+    <AVAILABILITY>Odesíláme 11.8.2025</AVAILABILITY>
+    <PRICES>
+      <PRICE language="cz">
+        <PRICELISTS>
+          <PRICELIST>
+            <PRICE_WITH_VAT>129.000036</PRICE_WITH_VAT>
+          </PRICELIST>
+        </PRICELISTS>
+      </PRICE>
+    </PRICES>
+    <IMAGES>
+      <IMAGE>
+        <URL>https://www.ebarvy.cz/GetProductData.php?DocType=Image&amp;DataSource=BAL&amp;FileName=ZBOZI_42677.jpg&amp;PictWidth=500&amp;PictHeight=500</URL>
+        <MAIN_YN>1</MAIN_YN>
+        <LIST_YN>1</LIST_YN>
+      </IMAGE>
+    </IMAGES>
+  </PRODUCT>
+  <PRODUCT>
+    <CODE>SUP00842538</CODE>
+    <ACTIVE_YN>1</ACTIVE_YN>
+    <CAN_ADD_TO_BASKET_YN>1</CAN_ADD_TO_BASKET_YN>
+    <EAN>4015962107403</EAN>
+    <STOCK>42</STOCK>
+    <AVAILABILITY>Odesíláme 11.8.2025</AVAILABILITY>
+    <PRICES>
+      <PRICE language="cz">
+        <PRICELISTS>
+          <PRICELIST>
+            <PRICE_WITH_VAT>129.000036</PRICE_WITH_VAT>
+          </PRICELIST>
+        </PRICELISTS>
+      </PRICE>
+    </PRICES>
+    <IMAGES>
+      <IMAGE>
+        <URL>https://www.ebarvy.cz/GetProductData.php?DocType=Image&amp;DataSource=BAL&amp;FileName=ZBOZI_42538.jpg&amp;PictWidth=500&amp;PictHeight=500</URL>
+        <MAIN_YN>1</MAIN_YN>
+        <LIST_YN>1</LIST_YN>
+      </IMAGE>
+    </IMAGES>
+  </PRODUCT>
+  <PRODUCT>
+    <CODE>SUP02318493</CODE>
+    <ACTIVE_YN>1</ACTIVE_YN>
+    <CAN_ADD_TO_BASKET_YN>1</CAN_ADD_TO_BASKET_YN>
+    <MANUFACTURER>Ace</MANUFACTURER>
+    <EAN>8001480703919</EAN>
+    <STOCK>124</STOCK>
+    <AVAILABILITY>Odesíláme 7.8.2025</AVAILABILITY>
+    <WEIGHT>1210</WEIGHT>
+    <DESCRIPTIONS>
+      <DESCRIPTION language="cz">
+        <TITLE>Ace Čistič na podlahy Levandule a Esenciální oleje 1l</TITLE>
+        <SHORT_DESCRIPTION>Ace Pavimenti čistič na podlahy s vůní levandule a esenciálních olejů účinně odstraňuje i odolnou špínu a zanechává povrchy lesklé a hygienicky čisté. Vhodný pro mramor, terakotu a granit.</SHORT_DESCRIPTION>
+        <LONG_DESCRIPTION><![CDATA[Ace Pavimenti Igienizzante Lavanda e Oli Essenziali je čistič podlah, který přináší hluboké čištění i velmi odolné špíny. Jeho složení je obohaceno o přírodní vůně levandule a esenciálních olejů, které zanechávají povrchy dlouhodobě provoněné. Čistič je vhodný pro různé povrchy včetně mramoru, terakoty a granitu. Použití: Nařeďte v poměru dle potřeby a aplikujte na povrch. Po použití důkladně opláchněte. Upozornění: H319: Způsobuje vážné podráždění očí. Složení: Obsahuje vůně inspirované přírodou s citrusovými, květinovými, ovocnými a dřevitými tóny.]]></LONG_DESCRIPTION>
+      </DESCRIPTION>
+    </DESCRIPTIONS>
+    <PRICES>
+      <PRICE language="cz">
+        <PRICELISTS>
+          <PRICELIST>
+            <PRICE_WITH_VAT>70</PRICE_WITH_VAT>
+          </PRICELIST>
+        </PRICELISTS>
+      </PRICE>
+    </PRICES>
+    <CATEGORIES>
+<CATEGORY>
+<CODE>6b7e8811-23ba-44aa-84dd-eefdfcbff589</CODE>
+<NAME>Drogerie</NAME>
+<PRIMARY_YN>0</PRIMARY_YN>
+<POSITION>1</POSITION>
+</CATEGORY>
+<CATEGORY>
+<CODE>496138f4-8e51-4bab-b641-8c9e7ee0ae71</CODE>
+<NAME>Čisticí prostředky</NAME>
+<PRIMARY_YN>0</PRIMARY_YN>
+<POSITION>1</POSITION>
+</CATEGORY>
+<CATEGORY>
+<CODE>3233e550-413c-47b7-91fb-694f56f049c1</CODE>
+<NAME>Čisticí prostředky na podlahy</NAME>
+<PRIMARY_YN>0</PRIMARY_YN>
+<POSITION>1</POSITION>
+</CATEGORY>
+<CATEGORY>
+<CODE>d7566786-5df7-4d63-9429-185f716875b6</CODE>
+<NAME>Univerzální čisticí prostředky na podlahy</NAME>
+<PRIMARY_YN>1</PRIMARY_YN>
+<POSITION>1</POSITION>
+</CATEGORY>
+</CATEGORIES>
+    <IMAGES>
+      <IMAGE>
+        <URL>https://cdn.myshoptet.com/usr/www.onlinedrogerie.cz/user/shop/orig/18493_ace-pavimenti-1l-cistic-na-podlahy-lavanda-e-oli-essenziali-8001480703919.jpg?66bf2a2b</URL>
+        <MAIN_YN>1</MAIN_YN>
+        <LIST_YN>1</LIST_YN>
+      </IMAGE>
+    </IMAGES>
+    <SEO_OPTIMALIZATION>
+      <SEO language="cz">
+        <SEO_TITLE>Ace Čistič na podlahy Levandule 1l</SEO_TITLE>
+        <SEO_META_DESCRIPTION>Čistič podlah Ace s levandulí a esenciálními oleji pro hluboké čištění a dlouhotrvající vůni.</SEO_META_DESCRIPTION>
+      </SEO>
+    </SEO_OPTIMALIZATION>
+  </PRODUCT>
+  <PRODUCT>
+    <CODE>SUP018PAL0997</CODE>
+    <ACTIVE_YN>1</ACTIVE_YN>
+    <CAN_ADD_TO_BASKET_YN>1</CAN_ADD_TO_BASKET_YN>
+    <EAN>8595641301361</EAN>
+    <STOCK>1120</STOCK>
+    <AVAILABILITY>Odesíláme 8.8.2025</AVAILABILITY>
+    <IMAGES>
+      <IMAGE>
+        <URL>https://cml.palacio.cz/product/330/file/2/s1200?ihsuX6nhkv4J8YnHEWtFAqR_Gz6O112CZCTCnpWU7bw-</URL>
+        <MAIN_YN>1</MAIN_YN>
+        <LIST_YN>1</LIST_YN>
+      </IMAGE>
+    </IMAGES>
   </PRODUCT>
 </PRODUCTS>
