@@ -15,9 +15,21 @@
         <SHORT_DESCRIPTION>LOL Surprise dětská zubní pasta s jahodovou příchutí je ideální pro děti do 6 let. Chrání první zuby před zubním kamenem a plakem, obsahuje fluorid pro silnější sklovinu.</SHORT_DESCRIPTION>
         <LONG_DESCRIPTION><![CDATA[LOL Surprise dětská zubní pasta s jahodovou příchutí je navržena speciálně pro děti do 6 let. Tato pasta nejenže chutná skvěle, ale také efektivně chrání první dětské zuby před vznikem zubního kamene a pomáhá odstraňovat zubní plak. Obsahuje fluorid, který remineralizuje zubní sklovinu, což vede k silnějším a zdravějším zubům. Pravidelné používání této pasty pomáhá budovat správné hygienické návyky. Používejte množství pasty velikosti hrášku a u dětí do 6 let provádějte dohled při čištění zubů.]]></LONG_DESCRIPTION>
       </DESCRIPTION>
+      <DESCRIPTION language="sk">
+        <TITLE>LOL Surprise detská zubná pasta s jahodovou príchuťou 75ml</TITLE>
+        <SHORT_DESCRIPTION>LOL Surprise detská zubná pasta s jahodovou príchuťou je ideálna pre deti do 6 rokov. Chráni prvé zuby pred zubným kameňom a plakom, obsahuje fluorid pre silnejšiu sklovinu.</SHORT_DESCRIPTION>
+        <LONG_DESCRIPTION><![CDATA[LOL Surprise detská zubná pasta s jahodovou príchuťou je navrhnutá špeciálne pre deti do 6 rokov. Táto pasta nielenže chutí skvele, ale aj efektívne chráni prvé detské zuby pred vznikom zubného kameňa a pomáha odstraňovať zubný plak. Obsahuje fluorid, ktorý remineralizuje zubnú sklovinu, čo vedie k silnejším a zdravším zubom. Pravidelné používanie tejto pasty pomáha budovať správne hygienické návyky. Používajte množstvo pasty veľkosti hrášku a u detí do 6 rokov vykonávajte dohľad pri čistení zubov.]]></LONG_DESCRIPTION>
+      </DESCRIPTION>
     </DESCRIPTIONS>
     <PRICES>
       <PRICE language="cz">
+        <PRICELISTS>
+          <PRICELIST>
+            <PRICE_WITH_VAT>44.9</PRICE_WITH_VAT>
+          </PRICELIST>
+        </PRICELISTS>
+      </PRICE>
+      <PRICE language="sk">
         <PRICELISTS>
           <PRICELIST>
             <PRICE_WITH_VAT>44.9</PRICE_WITH_VAT>
@@ -63,12 +75,17 @@
         <SEO_TITLE>LOL Surprise dětská zubní pasta 75ml</SEO_TITLE>
         <SEO_META_DESCRIPTION>LOL Surprise dětská zubní pasta s jahodovou příchutí chrání první zuby a obsahuje fluorid. Objednejte online s dopravou zdarma.</SEO_META_DESCRIPTION>
       </SEO>
+      <SEO language="sk">
+        <SEO_TITLE>LOL Surprise detská zubná pasta 75ml</SEO_TITLE>
+        <SEO_META_DESCRIPTION>LOL Surprise detská zubná pasta s jahodovou príchuťou chráni prvé zuby a obsahuje fluorid. Objednajte online s dopravou zadarmo.</SEO_META_DESCRIPTION>
+      </SEO>
     </SEO_OPTIMALIZATION>
     <METAS>
       <META type="input">
         <META_KEY>guid</META_KEY>
         <META_VALUES>
           <META_VALUE language="cz">AE1F5802-7D9E-4E3A-AB68-C9E0D01EB6A7</META_VALUE>
+          <META_VALUE language="sk">AE1F5802-7D9E-4E3A-AB68-C9E0D01EB6A7</META_VALUE>
         </META_VALUES>
       </META>
     </METAS>
@@ -88,9 +105,21 @@
         <SHORT_DESCRIPTION>Svíčka vonná dekorativní Night Dream je ideální pro vytvoření příjemné domácí atmosféry. Obsahuje 2-5% vonné esence, která provoní váš domov. Skleněná nádoba je po vypálení znovu použitelná.</SHORT_DESCRIPTION>
         <LONG_DESCRIPTION><![CDATA[Vonná svíčka Night Dream je perfektní volbou pro ty, kteří chtějí vytvořit útulnou atmosféru doma nebo hledají originální dárek. S obsahem 2-5% vonné esence zaručuje intenzivní vůni, která naplní váš prostor. Skleněná nádoba je nejen estetická, ale i praktická pro další použití po vypálení svíčky. Pro optimální využití nechte svíčku po 2 hodinách hoření odpočinout a znovu zapalte až po ztuhnutí vosku. Pokud svíčka kouří, zkraťte knot. DOBA HOŘENÍ: 30+ HODIN]]></LONG_DESCRIPTION>
       </DESCRIPTION>
+      <DESCRIPTION language="sk">
+        <TITLE>Sviečka vonná dekoratívna Night Dream 200g</TITLE>
+        <SHORT_DESCRIPTION>Sviečka vonná dekoratívna Night Dream je ideálna pre vytvorenie príjemnej domácej atmosféry. Obsahuje 2-5% vonnej esencie, ktorá prevonia váš domov. Sklenená nádoba je po vypálení znovu použiteľná.</SHORT_DESCRIPTION>
+        <LONG_DESCRIPTION><![CDATA[Vonná sviečka Night Dream je perfektnou voľbou pre tých, ktorí chcú vytvoriť útulnú atmosféru doma alebo hľadajú originálny darček. S obsahom 2-5% vonnej esencie zaručuje intenzívnu vôňu, ktorá naplní váš priestor. Sklenená nádoba je nielen estetická, ale aj praktická pre ďalšie použitie po vypálení sviečky. Pre optimálne využitie nechajte sviečku po 2 hodinách horenia odpočinúť a znovu zapáľte až po stuhnutí vosku. Ak sviečka dymí, skráťte knôt. DOBA HORIENIA: 30+ HODÍN]]></LONG_DESCRIPTION>
+      </DESCRIPTION>
     </DESCRIPTIONS>
     <PRICES>
       <PRICE language="cz">
+        <PRICELISTS>
+          <PRICELIST>
+            <PRICE_WITH_VAT>149</PRICE_WITH_VAT>
+          </PRICELIST>
+        </PRICELISTS>
+      </PRICE>
+      <PRICE language="sk">
         <PRICELISTS>
           <PRICELIST>
             <PRICE_WITH_VAT>149</PRICE_WITH_VAT>
@@ -130,12 +159,17 @@
         <SEO_TITLE>Night Dream vonná svíčka 200g</SEO_TITLE>
         <SEO_META_DESCRIPTION>Vonná svíčka Night Dream 200g pro útulnou atmosféru. Intenzivní vůně, skleněná nádoba. Objednejte online s dopravou zdarma.</SEO_META_DESCRIPTION>
       </SEO>
+      <SEO language="sk">
+        <SEO_TITLE>Night Dream vonná sviečka 200g</SEO_TITLE>
+        <SEO_META_DESCRIPTION>Vonná sviečka Night Dream 200g pre útulnú atmosféru. Intenzívna vôňa, sklenená nádoba. Objednajte online s dopravou zadarmo.</SEO_META_DESCRIPTION>
+      </SEO>
     </SEO_OPTIMALIZATION>
     <METAS>
       <META type="input">
         <META_KEY>guid</META_KEY>
         <META_VALUES>
           <META_VALUE language="cz">C97DC8AB-5649-4046-A2C8-98CD3C9661F9</META_VALUE>
+          <META_VALUE language="sk">C97DC8AB-5649-4046-A2C8-98CD3C9661F9</META_VALUE>
         </META_VALUES>
       </META>
     </METAS>
