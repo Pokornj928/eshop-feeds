@@ -9,6 +9,10 @@
     <STOCK>34</STOCK>
     <AVAILABILITY>Skladem</AVAILABILITY>
     <WEIGHT>109</WEIGHT>
+    <VATS>
+      <VAT language="cz">21</VAT>
+      <VAT language="sk">21</VAT>
+    </VATS>
     <DESCRIPTIONS>
       <DESCRIPTION language="cz">
         <TITLE>LOL Surprise dětská zubní pasta s jahodovou příchutí 75ml</TITLE>
@@ -99,6 +103,10 @@
     <STOCK>1</STOCK>
     <AVAILABILITY>Skladem</AVAILABILITY>
     <WEIGHT>604</WEIGHT>
+    <VATS>
+      <VAT language="cz">21</VAT>
+      <VAT language="sk">21</VAT>
+    </VATS>
     <DESCRIPTIONS>
       <DESCRIPTION language="cz">
         <TITLE>Svíčka vonná dekorativní Night Dream 200g</TITLE>
