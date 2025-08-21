@@ -2,7 +2,6 @@
 <PRODUCTS version="2.0">
   <PRODUCT>
     <CODE>K10380</CODE>
-    <GUID>AE1F5802-7D9E-4E3A-AB68-C9E0D01EB6A7</GUID>
     <ACTIVE_YN>1</ACTIVE_YN>
     <CAN_ADD_TO_BASKET_YN>1</CAN_ADD_TO_BASKET_YN>
     <MANUFACTURER>LOL</MANUFACTURER>
@@ -65,10 +64,17 @@
         <SEO_META_DESCRIPTION>LOL Surprise dětská zubní pasta s jahodovou příchutí chrání první zuby a obsahuje fluorid. Objednejte online s dopravou zdarma.</SEO_META_DESCRIPTION>
       </SEO>
     </SEO_OPTIMALIZATION>
+    <METAS>
+      <META type="input">
+        <META_KEY>guid</META_KEY>
+        <META_VALUES>
+          <META_VALUE language="cz">AE1F5802-7D9E-4E3A-AB68-C9E0D01EB6A7</META_VALUE>
+        </META_VALUES>
+      </META>
+    </METAS>
   </PRODUCT>
   <PRODUCT>
     <CODE>K07472</CODE>
-    <GUID>C97DC8AB-5649-4046-A2C8-98CD3C9661F9</GUID>
     <ACTIVE_YN>1</ACTIVE_YN>
     <CAN_ADD_TO_BASKET_YN>1</CAN_ADD_TO_BASKET_YN>
     <MANUFACTURER>Night Dream</MANUFACTURER>
@@ -125,5 +131,13 @@
         <SEO_META_DESCRIPTION>Vonná svíčka Night Dream 200g pro útulnou atmosféru. Intenzivní vůně, skleněná nádoba. Objednejte online s dopravou zdarma.</SEO_META_DESCRIPTION>
       </SEO>
     </SEO_OPTIMALIZATION>
+    <METAS>
+      <META type="input">
+        <META_KEY>guid</META_KEY>
+        <META_VALUES>
+          <META_VALUE language="cz">C97DC8AB-5649-4046-A2C8-98CD3C9661F9</META_VALUE>
+        </META_VALUES>
+      </META>
+    </METAS>
   </PRODUCT>
 </PRODUCTS>
