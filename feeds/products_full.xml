@@ -7,7 +7,7 @@
     <MANUFACTURER>LOL</MANUFACTURER>
     <EAN>5012616267017</EAN>
     <STOCK>34</STOCK>
-    <AVAILABILITY color="green">Skladem</AVAILABILITY>
+    <AVAILABILITY color="#2bff9c">Skladem</AVAILABILITY>
     <WEIGHT>109</WEIGHT>
     <VATS>
       <VAT language="cz">21</VAT>
@@ -101,7 +101,7 @@
     <MANUFACTURER>Night Dream</MANUFACTURER>
     <EAN>5902918702609</EAN>
     <STOCK>1</STOCK>
-    <AVAILABILITY color="green">Skladem</AVAILABILITY>
+    <AVAILABILITY color="#2bff9c">Skladem</AVAILABILITY>
     <WEIGHT>604</WEIGHT>
     <VATS>
       <VAT language="cz">21</VAT>
@@ -189,7 +189,7 @@
     <MANUFACTURER>Dr.Beckman</MANUFACTURER>
     <EAN>4008455004037</EAN>
     <STOCK>7</STOCK>
-    <AVAILABILITY color="green">Skladem</AVAILABILITY>
+    <AVAILABILITY color="#2bff9c">Skladem</AVAILABILITY>
     <WEIGHT>70</WEIGHT>
     <VATS>
       <VAT language="cz">21</VAT>
@@ -283,7 +283,7 @@
     <MANUFACTURER>Heitmann</MANUFACTURER>
     <EAN>4052400033610</EAN>
     <STOCK>0</STOCK>
-    <AVAILABILITY color="red">Na dotaz</AVAILABILITY>
+    <AVAILABILITY color="#ff4757">Na dotaz</AVAILABILITY>
     <WEIGHT>50</WEIGHT>
     <VATS>
       <VAT language="cz">21</VAT>
@@ -377,7 +377,7 @@
     <MANUFACTURER>Beauty Formulas</MANUFACTURER>
     <EAN>5012251012263</EAN>
     <STOCK>0</STOCK>
-    <AVAILABILITY color="red">Na dotaz</AVAILABILITY>
+    <AVAILABILITY color="#ff4757">Na dotaz</AVAILABILITY>
     <WEIGHT>130</WEIGHT>
     <VATS>
       <VAT language="cz">21</VAT>
@@ -471,7 +471,7 @@
     <MANUFACTURER>GG</MANUFACTURER>
     <EAN>4311501720073</EAN>
     <STOCK>0</STOCK>
-    <AVAILABILITY color="red">Na dotaz</AVAILABILITY>
+    <AVAILABILITY color="#ff4757">Na dotaz</AVAILABILITY>
     <WEIGHT>843</WEIGHT>
     <VATS>
       <VAT language="cz">12</VAT>
@@ -565,7 +565,7 @@
     <MANUFACTURER>PanAroma</MANUFACTURER>
     <EAN>5053249251769</EAN>
     <STOCK>16</STOCK>
-    <AVAILABILITY color="green">Skladem</AVAILABILITY>
+    <AVAILABILITY color="#2bff9c">Skladem</AVAILABILITY>
     <WEIGHT>155</WEIGHT>
     <VATS>
       <VAT language="cz">21</VAT>
@@ -653,7 +653,7 @@
     <MANUFACTURER>JUMBO</MANUFACTURER>
     <EAN>8594002960506</EAN>
     <STOCK>3</STOCK>
-    <AVAILABILITY color="green">Skladem</AVAILABILITY>
+    <AVAILABILITY color="#2bff9c">Skladem</AVAILABILITY>
     <WEIGHT>5000</WEIGHT>
     <VATS>
       <VAT language="cz">21</VAT>
@@ -753,7 +753,7 @@
     <MANUFACTURER>Tablety</MANUFACTURER>
     <EAN>4260481113255</EAN>
     <STOCK>0</STOCK>
-    <AVAILABILITY color="red">Na dotaz</AVAILABILITY>
+    <AVAILABILITY color="#ff4757">Na dotaz</AVAILABILITY>
     <WEIGHT>10500</WEIGHT>
     <VATS>
       <VAT language="cz">21</VAT>
@@ -847,7 +847,7 @@
     <MANUFACTURER>Coral</MANUFACTURER>
     <EAN>8720181039492</EAN>
     <STOCK>0</STOCK>
-    <AVAILABILITY color="red">Na dotaz</AVAILABILITY>
+    <AVAILABILITY color="#ff4757">Na dotaz</AVAILABILITY>
     <WEIGHT>1200</WEIGHT>
     <VATS>
       <VAT language="cz">21</VAT>
