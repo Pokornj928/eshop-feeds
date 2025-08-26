@@ -7,7 +7,7 @@
     <MANUFACTURER>LOL</MANUFACTURER>
     <EAN>5012616267017</EAN>
     <STOCK>34</STOCK>
-    <AVAILABILITY color="#2bff9c">Skladem</AVAILABILITY>
+    <AVAILABILITY>Skladem</AVAILABILITY>
     <WEIGHT>109</WEIGHT>
     <VATS>
       <VAT language="cz">21</VAT>
@@ -92,6 +92,13 @@
           <META_VALUE language="sk">AE1F5802-7D9E-4E3A-AB68-C9E0D01EB6A7</META_VALUE>
         </META_VALUES>
       </META>
+      <META type="input">
+        <META_KEY>availability_color</META_KEY>
+        <META_VALUES>
+          <META_VALUE language="cz">2bff9c</META_VALUE>
+          <META_VALUE language="sk">2bff9c</META_VALUE>
+        </META_VALUES>
+      </META>
     </METAS>
   </PRODUCT>
   <PRODUCT>
@@ -101,7 +108,7 @@
     <MANUFACTURER>Night Dream</MANUFACTURER>
     <EAN>5902918702609</EAN>
     <STOCK>1</STOCK>
-    <AVAILABILITY color="#2bff9c">Skladem</AVAILABILITY>
+    <AVAILABILITY>Skladem</AVAILABILITY>
     <WEIGHT>604</WEIGHT>
     <VATS>
       <VAT language="cz">21</VAT>
@@ -180,6 +187,13 @@
           <META_VALUE language="sk">C97DC8AB-5649-4046-A2C8-98CD3C9661F9</META_VALUE>
         </META_VALUES>
       </META>
+      <META type="input">
+        <META_KEY>availability_color</META_KEY>
+        <META_VALUES>
+          <META_VALUE language="cz">2bff9c</META_VALUE>
+          <META_VALUE language="sk">2bff9c</META_VALUE>
+        </META_VALUES>
+      </META>
     </METAS>
   </PRODUCT>
   <PRODUCT>
@@ -189,7 +203,7 @@
     <MANUFACTURER>Dr.Beckman</MANUFACTURER>
     <EAN>4008455004037</EAN>
     <STOCK>7</STOCK>
-    <AVAILABILITY color="#2bff9c">Skladem</AVAILABILITY>
+    <AVAILABILITY>Skladem</AVAILABILITY>
     <WEIGHT>70</WEIGHT>
     <VATS>
       <VAT language="cz">21</VAT>
@@ -274,6 +288,13 @@
           <META_VALUE language="sk">6CB05EC1-5085-4122-8BCA-449B8C36A2AD</META_VALUE>
         </META_VALUES>
       </META>
+      <META type="input">
+        <META_KEY>availability_color</META_KEY>
+        <META_VALUES>
+          <META_VALUE language="cz">2bff9c</META_VALUE>
+          <META_VALUE language="sk">2bff9c</META_VALUE>
+        </META_VALUES>
+      </META>
     </METAS>
   </PRODUCT>
   <PRODUCT>
@@ -283,7 +304,7 @@
     <MANUFACTURER>Heitmann</MANUFACTURER>
     <EAN>4052400033610</EAN>
     <STOCK>0</STOCK>
-    <AVAILABILITY color="#ff4757">Na dotaz</AVAILABILITY>
+    <AVAILABILITY>Na dotaz</AVAILABILITY>
     <WEIGHT>50</WEIGHT>
     <VATS>
       <VAT language="cz">21</VAT>
@@ -368,6 +389,13 @@
           <META_VALUE language="sk">F8E2F238-6042-4B38-A1D6-2E50A0CEBB37</META_VALUE>
         </META_VALUES>
       </META>
+      <META type="input">
+        <META_KEY>availability_color</META_KEY>
+        <META_VALUES>
+          <META_VALUE language="cz">ff4757</META_VALUE>
+          <META_VALUE language="sk">ff4757</META_VALUE>
+        </META_VALUES>
+      </META>
     </METAS>
   </PRODUCT>
   <PRODUCT>
@@ -377,7 +405,7 @@
     <MANUFACTURER>Beauty Formulas</MANUFACTURER>
     <EAN>5012251012263</EAN>
     <STOCK>0</STOCK>
-    <AVAILABILITY color="#ff4757">Na dotaz</AVAILABILITY>
+    <AVAILABILITY>Na dotaz</AVAILABILITY>
     <WEIGHT>130</WEIGHT>
     <VATS>
       <VAT language="cz">21</VAT>
@@ -462,6 +490,13 @@
           <META_VALUE language="sk">5093B54B-77DD-438A-B5E7-870646A2210A</META_VALUE>
         </META_VALUES>
       </META>
+      <META type="input">
+        <META_KEY>availability_color</META_KEY>
+        <META_VALUES>
+          <META_VALUE language="cz">ff4757</META_VALUE>
+          <META_VALUE language="sk">ff4757</META_VALUE>
+        </META_VALUES>
+      </META>
     </METAS>
   </PRODUCT>
   <PRODUCT>
@@ -471,7 +506,7 @@
     <MANUFACTURER>GG</MANUFACTURER>
     <EAN>4311501720073</EAN>
     <STOCK>0</STOCK>
-    <AVAILABILITY color="#ff4757">Na dotaz</AVAILABILITY>
+    <AVAILABILITY>Na dotaz</AVAILABILITY>
     <WEIGHT>843</WEIGHT>
     <VATS>
       <VAT language="cz">12</VAT>
@@ -556,6 +591,13 @@
           <META_VALUE language="sk">780B4C7B-1FEE-46C9-9BEE-8D8FA454D209</META_VALUE>
         </META_VALUES>
       </META>
+      <META type="input">
+        <META_KEY>availability_color</META_KEY>
+        <META_VALUES>
+          <META_VALUE language="cz">ff4757</META_VALUE>
+          <META_VALUE language="sk">ff4757</META_VALUE>
+        </META_VALUES>
+      </META>
     </METAS>
   </PRODUCT>
   <PRODUCT>
@@ -565,7 +607,7 @@
     <MANUFACTURER>PanAroma</MANUFACTURER>
     <EAN>5053249251769</EAN>
     <STOCK>16</STOCK>
-    <AVAILABILITY color="#2bff9c">Skladem</AVAILABILITY>
+    <AVAILABILITY>Skladem</AVAILABILITY>
     <WEIGHT>155</WEIGHT>
     <VATS>
       <VAT language="cz">21</VAT>
@@ -644,6 +686,13 @@
           <META_VALUE language="sk">52167AF3-46AA-4C34-92BE-7A5E63A4C41B</META_VALUE>
         </META_VALUES>
       </META>
+      <META type="input">
+        <META_KEY>availability_color</META_KEY>
+        <META_VALUES>
+          <META_VALUE language="cz">2bff9c</META_VALUE>
+          <META_VALUE language="sk">2bff9c</META_VALUE>
+        </META_VALUES>
+      </META>
     </METAS>
   </PRODUCT>
   <PRODUCT>
@@ -653,7 +702,7 @@
     <MANUFACTURER>JUMBO</MANUFACTURER>
     <EAN>8594002960506</EAN>
     <STOCK>3</STOCK>
-    <AVAILABILITY color="#2bff9c">Skladem</AVAILABILITY>
+    <AVAILABILITY>Skladem</AVAILABILITY>
     <WEIGHT>5000</WEIGHT>
     <VATS>
       <VAT language="cz">21</VAT>
@@ -744,6 +793,13 @@
           <META_VALUE language="sk">FC0D3E34-BB2F-43CB-BA3B-31ECDC395B48</META_VALUE>
         </META_VALUES>
       </META>
+      <META type="input">
+        <META_KEY>availability_color</META_KEY>
+        <META_VALUES>
+          <META_VALUE language="cz">2bff9c</META_VALUE>
+          <META_VALUE language="sk">2bff9c</META_VALUE>
+        </META_VALUES>
+      </META>
     </METAS>
   </PRODUCT>
   <PRODUCT>
@@ -753,7 +809,7 @@
     <MANUFACTURER>Tablety</MANUFACTURER>
     <EAN>4260481113255</EAN>
     <STOCK>0</STOCK>
-    <AVAILABILITY color="#ff4757">Na dotaz</AVAILABILITY>
+    <AVAILABILITY>Na dotaz</AVAILABILITY>
     <WEIGHT>10500</WEIGHT>
     <VATS>
       <VAT language="cz">21</VAT>
@@ -838,6 +894,13 @@
           <META_VALUE language="sk">31F65995-3B44-45C5-9CEA-82016ADF6828</META_VALUE>
         </META_VALUES>
       </META>
+      <META type="input">
+        <META_KEY>availability_color</META_KEY>
+        <META_VALUES>
+          <META_VALUE language="cz">ff4757</META_VALUE>
+          <META_VALUE language="sk">ff4757</META_VALUE>
+        </META_VALUES>
+      </META>
     </METAS>
   </PRODUCT>
   <PRODUCT>
@@ -847,7 +910,7 @@
     <MANUFACTURER>Coral</MANUFACTURER>
     <EAN>8720181039492</EAN>
     <STOCK>0</STOCK>
-    <AVAILABILITY color="#ff4757">Na dotaz</AVAILABILITY>
+    <AVAILABILITY>Na dotaz</AVAILABILITY>
     <WEIGHT>1200</WEIGHT>
     <VATS>
       <VAT language="cz">21</VAT>
@@ -930,6 +993,13 @@
         <META_VALUES>
           <META_VALUE language="cz">F6EF878D-CE72-4141-84D4-813CDA790B64</META_VALUE>
           <META_VALUE language="sk">F6EF878D-CE72-4141-84D4-813CDA790B64</META_VALUE>
+        </META_VALUES>
+      </META>
+      <META type="input">
+        <META_KEY>availability_color</META_KEY>
+        <META_VALUES>
+          <META_VALUE language="cz">ff4757</META_VALUE>
+          <META_VALUE language="sk">ff4757</META_VALUE>
         </META_VALUES>
       </META>
     </METAS>
