@@ -1,143 +1,103 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PRODUCTS version="2.0">
   <PRODUCT>
-    <CODE>K10380</CODE>
+    <CODE>EX06458</CODE>
     <ACTIVE_YN>1</ACTIVE_YN>
     <CAN_ADD_TO_BASKET_YN>1</CAN_ADD_TO_BASKET_YN>
-    <MANUFACTURER>LOL</MANUFACTURER>
-    <EAN>5012616267017</EAN>
-    <STOCK>34</STOCK>
-    <AVAILABILITY>Skladem</AVAILABILITY>
-    <WEIGHT>109</WEIGHT>
-    <VATS>
-      <VAT language="cz">21</VAT>
-      <VAT language="sk">21</VAT>
-    </VATS>
+    <EAN>8015194502522</EAN>
+    <STOCK>339</STOCK>
+    <AVAILABILITY>Odesíláme 4.9.2025</AVAILABILITY>
+    <WEIGHT>1725</WEIGHT>
     <DESCRIPTIONS>
       <DESCRIPTION language="cz">
-        <TITLE>LOL Surprise dětská zubní pasta s jahodovou příchutí 75ml</TITLE>
-        <SHORT_DESCRIPTION>LOL Surprise dětská zubní pasta s jahodovou příchutí je ideální pro děti do 6 let. Chrání první zuby před zubním kamenem a plakem, obsahuje fluorid pro silnější sklovinu.</SHORT_DESCRIPTION>
-        <LONG_DESCRIPTION><![CDATA[LOL Surprise dětská zubní pasta s jahodovou příchutí je navržena speciálně pro děti do 6 let. Tato pasta nejenže chutná skvěle, ale také efektivně chrání první dětské zuby před vznikem zubního kamene a pomáhá odstraňovat zubní plak. Obsahuje fluorid, který remineralizuje zubní sklovinu, což vede k silnějším a zdravějším zubům. Pravidelné používání této pasty pomáhá budovat správné hygienické návyky. Používejte množství pasty velikosti hrášku a u dětí do 6 let provádějte dohled při čištění zubů.]]></LONG_DESCRIPTION>
+        <TITLE>Chante Clair SAPONE DA BUCATO MARSIGLIA - Tekuté mýdlo 1500 ml</TITLE>
+        <SHORT_DESCRIPTION>Chante Clair SAPONE DA BUCATO MARSIGLIA je tekuté mýdlo s vůní pravého marseillského mýdla, určené pro ruční i strojní praní jemného i barevného prádla. Šetrně pečuje o vlákna a zachovává barvy.</SHORT_DESCRIPTION>
+        <LONG_DESCRIPTION><![CDATA[<h2>Chante Clair SAPONE DA BUCATO MARSIGLIA - Tekuté mýdlo 1500 ml</h2>
+<p>Chante Clair SAPONE DA BUCATO MARSIGLIA je tekutý prací prostředek inspirovaný tradičním marseillským mýdlem, který nabízí vysokou prací schopnost a zároveň šetrnou péči o jemné a barevné tkaniny. Produkt je určen pro denní praní v ruce i v pračce a zachovává měkkost, vůni a barvy vašeho prádla.</p>
+<h2>K čemu produkt slouží</h2>
+<p>Tekuté mýdlo SAPONE DA BUCATO MARSIGLIA je navrženo pro:</p>
+<ul>
+<li>praní jemného a citlivého prádla (svetry, prádlo z jemných vláken),</li>
+<li>péči o barevné i bílé oděvy bez ztráty odstínu,</li>
+<li>ruční praní i použití v automatické pračce pro každodenní údržbu prádla.</li>
+</ul>
+<h2>Jaké má benefity</h2>
+<ul>
+<li>Vůně pravého marseillského mýdla dodá prádlu příjemnou, tradiční parfemaci.</li>
+<li>Vysoká prací schopnost zajišťuje účinné čištění bez nadměrného drhnutí.</li>
+<li>Šetrné složení respektuje vlákna a barvy, prádlo zůstává měkké a svěží.</li>
+<li>Univerzální použití – vhodné pro ruční praní i do pračky.</li>
+</ul>
+<h2>Jak jej správně používat</h2>
+<p>Pro nejlepší výsledky postupujte podle následujících tipů:</p>
+<ul>
+<li>Při ručním praní naneste malé množství tekutého mýdla do vody a prádlo jemně proplachujte, neždímejte intenzivně.</li>
+<li>V pračce použijte vhodné množství podle znečištění a množství prádla; tekutá forma se dobře rozpouští i v nízkých programech.</li>
+<li>Oddělte bílé a barevné prádlo, abyste zachovali intenzitu odstínů.</li>
+<li>Pro zachování jemnosti volte šetrné odstřeďování a sušení dle doporučení na visačce oděvu.</li>
+</ul>
+<h2>Proč si vybrat právě tento produkt</h2>
+<p>Chante Clair SAPONE DA BUCATO MARSIGLIA kombinuje tradici marseillského mýdla s moderní tekutou formou pro snadné dávkování a univerzální použití. Je ideální volbou, pokud hledáte produkt, který nejen pere, ale zároveň pečuje o strukturu tkanin a udržuje barvy. Díky příjemné vůni dodá prádlu dlouhotrvající svěžest bez zatížení vláken.</p>
+<h2>Tipy pro maximální efektivitu / zkušenosti spotřebitelů</h2>
+<ul>
+<li>Při odstraňování místních skvrn aplikujte nejprve malé množství přímo na skvrnu a jemně vmasírujte před praním.</li>
+<li>Pro dlouhodobou ochranu často praného oblečení praní v tekutém mýdle udrží vláknitou strukturu bez ztvrdnutí.</li>
+<li>Zákaznice oceňují svěží vůni a pocit jemnosti po vyprání i po opakovaném používání.</li>
+</ul>
+<h2>Shrnutí a motivace k nákupu</h2>
+<p>Chante Clair SAPONE DA BUCATO MARSIGLIA je praktický a všestranný prací prostředek s vůní marseillského mýdla, který šetří vlákna i barvy a hodí se pro ruční i strojní praní. Pokud hledáte spolehlivý prostředek, který dodá prádlu čistotu, hebkost a příjemnou vůni, tento tekutý prací prostředek je dobrá volba pro každodenní péči o vaše oblíbené oděvy.</p>]]></LONG_DESCRIPTION>
       </DESCRIPTION>
       <DESCRIPTION language="sk">
-        <TITLE>LOL Surprise detská zubná pasta s jahodovou príchuťou 75ml</TITLE>
-        <SHORT_DESCRIPTION>LOL Surprise detská zubná pasta s jahodovou príchuťou je ideálna pre deti do 6 rokov. Chráni prvé zuby pred zubným kameňom a plakom, obsahuje fluorid pre silnejšiu sklovinu.</SHORT_DESCRIPTION>
-        <LONG_DESCRIPTION><![CDATA[LOL Surprise detská zubná pasta s jahodovou príchuťou je navrhnutá špeciálne pre deti do 6 rokov. Táto pasta nielenže chutí skvele, ale aj efektívne chráni prvé detské zuby pred vznikom zubného kameňa a pomáha odstraňovať zubný plak. Obsahuje fluorid, ktorý remineralizuje zubnú sklovinu, čo vedie k silnejším a zdravším zubom. Pravidelné používanie tejto pasty pomáha budovať správne hygienické návyky. Používajte množstvo pasty veľkosti hrášku a u detí do 6 rokov vykonávajte dohľad pri čistení zubov.]]></LONG_DESCRIPTION>
+        <TITLE>Chante Clair SAPONE DA BUCATO MARSIGLIA - Tekuté mydlo 1500 ml</TITLE>
+        <SHORT_DESCRIPTION>Chante Clair SAPONE DA BUCATO MARSIGLIA je tekuté mydlo s vôňou pravého marseillského mydla, vhodné na ručné aj strojové pranie jemného a farebného prádla. Šetrne ošetruje vlákna a zachováva farby.</SHORT_DESCRIPTION>
+        <LONG_DESCRIPTION><![CDATA[<h2>Chante Clair SAPONE DA BUCATO MARSIGLIA - Tekuté mydlo 1500 ml</h2>
+<p>Chante Clair SAPONE DA BUCATO MARSIGLIA je tekutý prací prostriedok inšpirovaný tradičným marseillským mydlom, ktorý poskytuje vysokú praciu schopnosť pri súčasne šetrnej starostlivosti o jemné a farebné tkaniny. Je určený na každodenné pranie rukou aj v práčke a zachováva mäkkosť, vôňu a farby vášho prádla.</p>
+<h2>Na čo produkt slúži</h2>
+<p>Tekuté mydlo SAPONE DA BUCATO MARSIGLIA je navrhnuté pre:</p>
+<ul>
+<li>pranie jemného a citlivého oblečenia (svetríky, prádlo z jemných vlákien),</li>
+<li>starostlivosť o farebné i biele kusy bez strata odtieňu,</li>
+<li>ručné pranie aj použitie v automatickej práčke pri bežnej údržbe prádla.</li>
+</ul>
+<h2>Aké má výhody</h2>
+<ul>
+<li>Vôňa pravého marseillského mydla dodá prádlu príjemnú, tradičnú parfumáciu.</li>
+<li>Vysoká pracia schopnosť zabezpečí účinné čistenie bez nutnosti drhnutia.</li>
+<li>Šetrné zloženie rešpektuje vlákna a farby, prádlo ostáva mäkké a svieže.</li>
+<li>Univerzálne použitie – vhodné na ručné pranie aj do práčky.</li>
+</ul>
+<h2>Ako ho správne používať</h2>
+<p>Pre optimálne výsledky postupujte podľa týchto tipov:</p>
+<ul>
+<li>Pri ručnom praní pridajte malé množstvo tekutého mydla do vody a prádlo jemne preplachujte, nevyžmýkajte príliš silno.</li>
+<li>V práčke použite primerané množstvo podľa znečistenia a množstva bielizne; tekutá forma sa dobre rozpúšťa aj v kratších programoch.</li>
+<li>Oddelte biele a farebné prádlo, aby ste zachovali intenzitu farieb.</li>
+<li>Pre zachovanie jemnosti zvoľte šetrné odstreďovanie a sušenie podľa pokynov na štítku odevu.</li>
+</ul>
+<h2>Prečo si vybrať práve tento produkt</h2>
+<p>Chante Clair SAPONE DA BUCATO MARSIGLIA spája tradíciu marseillského mydla s modernou tekutou formou pre jednoduché dávkovanie a univerzálne použitie. Je ideálnou voľbou, ak hľadáte prostriedok, ktorý nielen perie, ale aj stará sa o štruktúru tkanín a udržiava farby. Vďaka príjemnej vôni dodá prádlu dlhodobú sviežosť bez zaťaženia vlákien.</p>
+<h2>Tipy pre maximálnu efektivitu / skúsenosti spotrebiteľov</h2>
+<ul>
+<li>Pri odstránení lokálnych škvŕn naneste najprv malé množstvo priamo na škvrnu a jemne vmasírujte pred praním.</li>
+<li>Pre dlhodobú ochranu často praného oblečenia praním v tekutom mydle udržíte vláknitú štruktúru bez stvrdnutia.</li>
+<li>Zákazníčky oceňujú sviežu vôňu a pocit jemnosti po vypratí aj pri opakovanom používaní.</li>
+</ul>
+<h2>Zhrnutie a motivácia k nákupu</h2>
+<p>Chante Clair SAPONE DA BUCATO MARSIGLIA je praktický a všestranný prací prostriedok s vôňou marseillského mydla, ktorý šetrí vlákna aj farby a hodí sa pre ručné i strojové pranie. Ak hľadáte spoľahlivý prostriedok, ktorý dodá prádlu čistotu, hebkosť a príjemnú vôňu, tento tekutý prací prostriedok je skvelou voľbou pre každodennú starostlivosť o obľúbené odevy.</p>]]></LONG_DESCRIPTION>
       </DESCRIPTION>
     </DESCRIPTIONS>
     <PRICES>
       <PRICE language="cz">
         <PRICELISTS>
           <PRICELIST>
-            <PRICE_WITH_VAT>44.9</PRICE_WITH_VAT>
+            <PRICE_WITH_VAT>126</PRICE_WITH_VAT>
           </PRICELIST>
         </PRICELISTS>
       </PRICE>
       <PRICE language="sk">
         <PRICELISTS>
           <PRICELIST>
-            <PRICE_WITH_VAT>44.9</PRICE_WITH_VAT>
-          </PRICELIST>
-        </PRICELISTS>
-      </PRICE>
-    </PRICES>
-    <CATEGORIES>
-<CATEGORY>
-<CODE>CECC70B3-0BD9-40EA-8262-6A71E64E89D4</CODE>
-<NAME>Kosmetika</NAME>
-<PRIMARY_YN>0</PRIMARY_YN>
-<POSITION>1</POSITION>
-</CATEGORY>
-<CATEGORY>
-<CODE>AFD7187E-F847-496F-AFC7-EFF2ED1E6962</CODE>
-<NAME>Péče o zuby</NAME>
-<PRIMARY_YN>0</PRIMARY_YN>
-<POSITION>1</POSITION>
-</CATEGORY>
-<CATEGORY>
-<CODE>708E31D4-81D1-4B0B-947C-EAC4C643863B</CODE>
-<NAME>Péče o dětské zuby</NAME>
-<PRIMARY_YN>0</PRIMARY_YN>
-<POSITION>1</POSITION>
-</CATEGORY>
-<CATEGORY>
-<CODE>4E0F1DBC-9ECA-48BA-BDF3-077BB58330FF</CODE>
-<NAME>Zubní pasty pro děti</NAME>
-<PRIMARY_YN>1</PRIMARY_YN>
-<POSITION>1</POSITION>
-</CATEGORY>
-</CATEGORIES>
-    <IMAGES>
-      <IMAGE>
-        <URL>https://storage.googleapis.com/drogeriezde/5012616267017</URL>
-        <MAIN_YN>1</MAIN_YN>
-        <LIST_YN>1</LIST_YN>
-      </IMAGE>
-    </IMAGES>
-    <SEO_OPTIMALIZATION>
-      <SEO language="cz">
-        <SEO_TITLE>LOL Surprise dětská zubní pasta 75ml</SEO_TITLE>
-        <SEO_META_DESCRIPTION>LOL Surprise dětská zubní pasta s jahodovou příchutí chrání první zuby a obsahuje fluorid. Objednejte online s dopravou zdarma.</SEO_META_DESCRIPTION>
-      </SEO>
-      <SEO language="sk">
-        <SEO_TITLE>LOL Surprise detská zubná pasta 75ml</SEO_TITLE>
-        <SEO_META_DESCRIPTION>LOL Surprise detská zubná pasta s jahodovou príchuťou chráni prvé zuby a obsahuje fluorid. Objednajte online s dopravou zadarmo.</SEO_META_DESCRIPTION>
-      </SEO>
-    </SEO_OPTIMALIZATION>
-    <METAS>
-      <META type="input">
-        <META_KEY>guid</META_KEY>
-        <META_VALUES>
-          <META_VALUE language="cz">AE1F5802-7D9E-4E3A-AB68-C9E0D01EB6A7</META_VALUE>
-          <META_VALUE language="sk">AE1F5802-7D9E-4E3A-AB68-C9E0D01EB6A7</META_VALUE>
-        </META_VALUES>
-      </META>
-      <META type="input">
-        <META_KEY>availability_color</META_KEY>
-        <META_VALUES>
-          <META_VALUE language="cz">2bff9c</META_VALUE>
-          <META_VALUE language="sk">2bff9c</META_VALUE>
-        </META_VALUES>
-      </META>
-    </METAS>
-  </PRODUCT>
-  <PRODUCT>
-    <CODE>K07472</CODE>
-    <ACTIVE_YN>1</ACTIVE_YN>
-    <CAN_ADD_TO_BASKET_YN>1</CAN_ADD_TO_BASKET_YN>
-    <MANUFACTURER>Night Dream</MANUFACTURER>
-    <EAN>5902918702609</EAN>
-    <STOCK>1</STOCK>
-    <AVAILABILITY>Skladem</AVAILABILITY>
-    <WEIGHT>604</WEIGHT>
-    <VATS>
-      <VAT language="cz">21</VAT>
-      <VAT language="sk">21</VAT>
-    </VATS>
-    <DESCRIPTIONS>
-      <DESCRIPTION language="cz">
-        <TITLE>Svíčka vonná dekorativní Night Dream 200g</TITLE>
-        <SHORT_DESCRIPTION>Svíčka vonná dekorativní Night Dream je ideální pro vytvoření příjemné domácí atmosféry. Obsahuje 2-5% vonné esence, která provoní váš domov. Skleněná nádoba je po vypálení znovu použitelná.</SHORT_DESCRIPTION>
-        <LONG_DESCRIPTION><![CDATA[Vonná svíčka Night Dream je perfektní volbou pro ty, kteří chtějí vytvořit útulnou atmosféru doma nebo hledají originální dárek. S obsahem 2-5% vonné esence zaručuje intenzivní vůni, která naplní váš prostor. Skleněná nádoba je nejen estetická, ale i praktická pro další použití po vypálení svíčky. Pro optimální využití nechte svíčku po 2 hodinách hoření odpočinout a znovu zapalte až po ztuhnutí vosku. Pokud svíčka kouří, zkraťte knot. DOBA HOŘENÍ: 30+ HODIN]]></LONG_DESCRIPTION>
-      </DESCRIPTION>
-      <DESCRIPTION language="sk">
-        <TITLE>Sviečka vonná dekoratívna Night Dream 200g</TITLE>
-        <SHORT_DESCRIPTION>Sviečka vonná dekoratívna Night Dream je ideálna pre vytvorenie príjemnej domácej atmosféry. Obsahuje 2-5% vonnej esencie, ktorá prevonia váš domov. Sklenená nádoba je po vypálení znovu použiteľná.</SHORT_DESCRIPTION>
-        <LONG_DESCRIPTION><![CDATA[Vonná sviečka Night Dream je perfektnou voľbou pre tých, ktorí chcú vytvoriť útulnú atmosféru doma alebo hľadajú originálny darček. S obsahom 2-5% vonnej esencie zaručuje intenzívnu vôňu, ktorá naplní váš priestor. Sklenená nádoba je nielen estetická, ale aj praktická pre ďalšie použitie po vypálení sviečky. Pre optimálne využitie nechajte sviečku po 2 hodinách horenia odpočinúť a znovu zapáľte až po stuhnutí vosku. Ak sviečka dymí, skráťte knôt. DOBA HORIENIA: 30+ HODÍN]]></LONG_DESCRIPTION>
-      </DESCRIPTION>
-    </DESCRIPTIONS>
-    <PRICES>
-      <PRICE language="cz">
-        <PRICELISTS>
-          <PRICELIST>
-            <PRICE_WITH_VAT>149</PRICE_WITH_VAT>
-          </PRICELIST>
-        </PRICELISTS>
-      </PRICE>
-      <PRICE language="sk">
-        <PRICELISTS>
-          <PRICELIST>
-            <PRICE_WITH_VAT>149</PRICE_WITH_VAT>
+            <PRICE_WITH_VAT>126</PRICE_WITH_VAT>
           </PRICELIST>
         </PRICELISTS>
       </PRICE>
@@ -147,193 +107,135 @@
 <CODE>6B7E8811-23BA-44AA-84DD-EEFDFCBFF589</CODE>
 <NAME>Drogerie</NAME>
 <PRIMARY_YN>0</PRIMARY_YN>
-<POSITION>1</POSITION>
-</CATEGORY>
-<CATEGORY>
-<CODE>A01EDF9D-4BA4-4DBD-9C4C-A68639702E50</CODE>
-<NAME>Svíčky</NAME>
-<PRIMARY_YN>0</PRIMARY_YN>
-<POSITION>1</POSITION>
-</CATEGORY>
-<CATEGORY>
-<CODE>BBA2C06A-86BB-47D5-B337-CDF25CAF45A0</CODE>
-<NAME>Vonné svíčky</NAME>
-<PRIMARY_YN>1</PRIMARY_YN>
-<POSITION>1</POSITION>
-</CATEGORY>
-</CATEGORIES>
-    <IMAGES>
-      <IMAGE>
-        <URL>https://storage.googleapis.com/drogeriezde/5902918702609</URL>
-        <MAIN_YN>1</MAIN_YN>
-        <LIST_YN>1</LIST_YN>
-      </IMAGE>
-    </IMAGES>
-    <SEO_OPTIMALIZATION>
-      <SEO language="cz">
-        <SEO_TITLE>Night Dream vonná svíčka 200g</SEO_TITLE>
-        <SEO_META_DESCRIPTION>Vonná svíčka Night Dream 200g pro útulnou atmosféru. Intenzivní vůně, skleněná nádoba. Objednejte online s dopravou zdarma.</SEO_META_DESCRIPTION>
-      </SEO>
-      <SEO language="sk">
-        <SEO_TITLE>Night Dream vonná sviečka 200g</SEO_TITLE>
-        <SEO_META_DESCRIPTION>Vonná sviečka Night Dream 200g pre útulnú atmosféru. Intenzívna vôňa, sklenená nádoba. Objednajte online s dopravou zadarmo.</SEO_META_DESCRIPTION>
-      </SEO>
-    </SEO_OPTIMALIZATION>
-    <METAS>
-      <META type="input">
-        <META_KEY>guid</META_KEY>
-        <META_VALUES>
-          <META_VALUE language="cz">C97DC8AB-5649-4046-A2C8-98CD3C9661F9</META_VALUE>
-          <META_VALUE language="sk">C97DC8AB-5649-4046-A2C8-98CD3C9661F9</META_VALUE>
-        </META_VALUES>
-      </META>
-      <META type="input">
-        <META_KEY>availability_color</META_KEY>
-        <META_VALUES>
-          <META_VALUE language="cz">2bff9c</META_VALUE>
-          <META_VALUE language="sk">2bff9c</META_VALUE>
-        </META_VALUES>
-      </META>
-    </METAS>
-  </PRODUCT>
-  <PRODUCT>
-    <CODE>K11071</CODE>
-    <ACTIVE_YN>1</ACTIVE_YN>
-    <CAN_ADD_TO_BASKET_YN>1</CAN_ADD_TO_BASKET_YN>
-    <MANUFACTURER>Dr.Beckman</MANUFACTURER>
-    <EAN>4008455004037</EAN>
-    <STOCK>7</STOCK>
-    <AVAILABILITY>Skladem</AVAILABILITY>
-    <WEIGHT>70</WEIGHT>
-    <VATS>
-      <VAT language="cz">21</VAT>
-      <VAT language="sk">21</VAT>
-    </VATS>
-    <DESCRIPTIONS>
-      <DESCRIPTION language="cz">
-        <TITLE>Dr.Beckmann speciální odstraňovač skvrn od čokolády, omáček a stolních olejů 50ml</TITLE>
-        <SHORT_DESCRIPTION>Dr. Beckmann speciální odstraňovač skvrn je ideální pro odstranění odolných skvrn od čokolády, omáček a olejů. Snadná aplikace a efektivní čištění.</SHORT_DESCRIPTION>
-        <LONG_DESCRIPTION><![CDATA[Dr. Beckmann speciální odstraňovač skvrn je navržen pro efektivní odstranění i těch nejodolnějších skvrn od čokolády, omáček a stolních olejů. Díky jednoduché aplikaci je vhodný pro použití na pratelné i nepratelné textilie. Stačí aplikovat tekutinu na skvrnu, rozetřít hadříkem a nechat působit. Poté skvrnu přetřete nebo vyperte. U nepratelného textilu použijte vlhký hadřík nebo vysavač. Před použitím na barevný textil otestujte stálost barev. Přípravek na odstranění odolných skvrn z textilu. Použití: skvrnu dobře potřete tekutinou z lahvičky, rozetřete hadříkem a nechte působit nežli se skvrna začne rozpouštět, následně vyperte jako obvykle v pračce. U nepratelného textilu postupujte stejně ale skvrnu přeperte vlhkým hadříkem.]]></LONG_DESCRIPTION>
-      </DESCRIPTION>
-      <DESCRIPTION language="sk">
-        <TITLE>Dr.Beckmann špeciálny odstraňovač škvŕn od čokolády, omáčok a stolových olejov 50ml</TITLE>
-        <SHORT_DESCRIPTION>Dr. Beckmann špeciálny odstraňovač škvŕn je ideálny na odstránenie odolných škvŕn od čokolády, omáčok a olejov. Jednoduchá aplikácia a efektívne čistenie.</SHORT_DESCRIPTION>
-        <LONG_DESCRIPTION><![CDATA[Dr. Beckmann špeciálny odstraňovač škvŕn je navrhnutý na efektívne odstránenie aj tých najodolnejších škvŕn od čokolády, omáčok a stolových olejov. Vďaka jednoduchej aplikácii je vhodný na použitie na prateľné aj neprateľné textílie. Stačí aplikovať tekutinu na škvrnu, rozotrieť handričkou a nechať pôsobiť. Potom škvrnu pretrite alebo vyperte. U neprateľného textilu použite vlhkú handričku alebo vysávač. Pred použitím na farebný textil otestujte stálosť farieb. Přípravek na odstranění odolných skvrn z textilu. Použití: skvrnu dobře potřete tekutinou z lahvičky, rozetřete hadříkem a nechte působit nežli se skvrna začne rozpouštět, následně vyperte jako obvykle v pračce. U nepratelného textilu postupujte stejně ale skvrnu přeperte vlhkým hadříkem.]]></LONG_DESCRIPTION>
-      </DESCRIPTION>
-    </DESCRIPTIONS>
-    <PRICES>
-      <PRICE language="cz">
-        <PRICELISTS>
-          <PRICELIST>
-            <PRICE_WITH_VAT>89.9</PRICE_WITH_VAT>
-          </PRICELIST>
-        </PRICELISTS>
-      </PRICE>
-      <PRICE language="sk">
-        <PRICELISTS>
-          <PRICELIST>
-            <PRICE_WITH_VAT>89.9</PRICE_WITH_VAT>
-          </PRICELIST>
-        </PRICELISTS>
-      </PRICE>
-    </PRICES>
-    <CATEGORIES>
-<CATEGORY>
-<CODE>6B7E8811-23BA-44AA-84DD-EEFDFCBFF589</CODE>
-<NAME>Drogerie</NAME>
-<PRIMARY_YN>0</PRIMARY_YN>
-<POSITION>1</POSITION>
+<POSITION>2</POSITION>
 </CATEGORY>
 <CATEGORY>
 <CODE>61E97347-A89C-47D5-BFC9-BEEC5BD159A8</CODE>
 <NAME>Prací prostředky</NAME>
 <PRIMARY_YN>0</PRIMARY_YN>
-<POSITION>1</POSITION>
+<POSITION>2</POSITION>
 </CATEGORY>
 <CATEGORY>
 <CODE>1C6B36D7-40E9-46A3-9A7D-7E3EAFAC4C8B</CODE>
 <NAME>Speciální prací prostředky</NAME>
 <PRIMARY_YN>0</PRIMARY_YN>
-<POSITION>1</POSITION>
+<POSITION>2</POSITION>
 </CATEGORY>
 <CATEGORY>
-<CODE>9F88B7A3-4BEE-4B0B-945B-520EEE98A812</CODE>
-<NAME>Dezinfekce na prádlo</NAME>
+<CODE>0FD82DD2-2803-479B-B580-5A6CEDC5E33F</CODE>
+<NAME>Prací prostředky s marseillským mýdlem</NAME>
 <PRIMARY_YN>1</PRIMARY_YN>
-<POSITION>1</POSITION>
+<POSITION>2</POSITION>
 </CATEGORY>
 </CATEGORIES>
     <IMAGES>
       <IMAGE>
-        <URL>https://storage.googleapis.com/drogeriezde/4008455004037</URL>
+        <URL>https://storage.googleapis.com/drogeriezde/8015194502522</URL>
         <MAIN_YN>1</MAIN_YN>
         <LIST_YN>1</LIST_YN>
       </IMAGE>
     </IMAGES>
     <SEO_OPTIMALIZATION>
       <SEO language="cz">
-        <SEO_TITLE>Dr.Beckmann odstraňovač skvrn 50ml</SEO_TITLE>
-        <SEO_META_DESCRIPTION>Efektivní odstraňovač skvrn od čokolády a olejů. Snadná aplikace, vhodný pro pratelné i nepratelné textilie. Objednejte online s dopravou zdarma.</SEO_META_DESCRIPTION>
+        <SEO_TITLE>Chante Clair SAPONE DA BUCATO MARSIGLIA 1500 ml</SEO_TITLE>
+        <SEO_META_DESCRIPTION>Tekuté mýdlo Chante Clair SAPONE DA BUCATO MARSIGLIA 1500 ml pro ruční i strojní praní; šetrné k vláknům, zachovává barvy a dodává vůni marseillského mýdla.</SEO_META_DESCRIPTION>
       </SEO>
       <SEO language="sk">
-        <SEO_TITLE>Dr.Beckmann odstraňovač škvŕn 50ml</SEO_TITLE>
-        <SEO_META_DESCRIPTION>Efektívny odstraňovač škvŕn od čokolády a olejov. Jednoduchá aplikácia, vhodný pre prateľné aj neprateľné textílie. Objednajte online s dopravou zadarmo.</SEO_META_DESCRIPTION>
+        <SEO_TITLE>Chante Clair SAPONE DA BUCATO MARSIGLIA 1500 ml</SEO_TITLE>
+        <SEO_META_DESCRIPTION>Tekuté mydlo Chante Clair SAPONE DA BUCATO MARSIGLIA 1500 ml na ručné aj strojové pranie; šetrné k vláknam, zachováva farby a dodá vôňu marseillského mydla.</SEO_META_DESCRIPTION>
       </SEO>
     </SEO_OPTIMALIZATION>
-    <METAS>
-      <META type="input">
-        <META_KEY>guid</META_KEY>
-        <META_VALUES>
-          <META_VALUE language="cz">6CB05EC1-5085-4122-8BCA-449B8C36A2AD</META_VALUE>
-          <META_VALUE language="sk">6CB05EC1-5085-4122-8BCA-449B8C36A2AD</META_VALUE>
-        </META_VALUES>
-      </META>
-      <META type="input">
-        <META_KEY>availability_color</META_KEY>
-        <META_VALUES>
-          <META_VALUE language="cz">2bff9c</META_VALUE>
-          <META_VALUE language="sk">2bff9c</META_VALUE>
-        </META_VALUES>
-      </META>
-    </METAS>
   </PRODUCT>
   <PRODUCT>
-    <CODE>K02078</CODE>
+    <CODE>EX06430</CODE>
     <ACTIVE_YN>1</ACTIVE_YN>
-    <CAN_ADD_TO_BASKET_YN>0</CAN_ADD_TO_BASKET_YN>
-    <MANUFACTURER>Heitmann</MANUFACTURER>
-    <EAN>4052400033610</EAN>
-    <STOCK>0</STOCK>
-    <AVAILABILITY>Na dotaz</AVAILABILITY>
-    <WEIGHT>50</WEIGHT>
-    <VATS>
-      <VAT language="cz">21</VAT>
-      <VAT language="sk">21</VAT>
-    </VATS>
+    <CAN_ADD_TO_BASKET_YN>1</CAN_ADD_TO_BASKET_YN>
+    <EAN>8001280034022</EAN>
+    <STOCK>24</STOCK>
+    <AVAILABILITY>Odesíláme 4.9.2025</AVAILABILITY>
+    <WEIGHT>2100</WEIGHT>
     <DESCRIPTIONS>
       <DESCRIPTION language="cz">
-        <TITLE>Heitmann Rychloodvápňovač pro kávovary 50g</TITLE>
-        <SHORT_DESCRIPTION>Heitmann Rychloodvápňovač pro kávovary je ideální pro všechny typy kávovarů a rychlovarných konvic. Snadno odstraňuje vodní kámen a usazeniny, čímž zajišťuje optimální výkon vašeho zařízení. Jednoduché použití a účinné výsledky.</SHORT_DESCRIPTION>
-        <LONG_DESCRIPTION><![CDATA[Heitmann Rychloodvápňovač pro kávovary je speciálně navržen pro efektivní odstranění vodního kamene a usazenin z kávovarů a rychlovarných konvic. Díky své účinné složce zajišťuje rychlé a důkladné čištění, které prodlužuje životnost vašeho zařízení a zlepšuje jeho výkon. Použití je velmi jednoduché a praktické, stačí jeden sáček pro jedno čištění. Varování: Způsobuje vážné podráždění očí. Rychle a efektivně odvápňuje kávovary a rychlovarné konvice, pro jedno odvápnění zařízení je plně dostačující jeden sáček produktu. Při odvápnění postupujte dle návodu výrobce přístroje. Roztok na přípravu odvápnění se připravuje rozředěním v čisté vodě. Varování Způsobuje vážné podráždění očí. Je-li nutná lékařská pomoc, mějte po ruce obal nebo štítek výrobku. Uchovávejte mimo dosah dětí. Po manipulaci důkladně omyjte ruce a zasažené části těla. Používejte ochranné rukavice/ochranný oděv. PŘI ZASAŽENÍ OČÍ: Několik minut opatrně vyplachujte vodou. Vyjměte kontaktní čočky, jsou-li nasazeny a pokud je lze vyjmout snadno. Pokračujte ve vyplachování. Přetrvává-li podráždění očí: Vyhledejte lékařskou pomoc/ošetření.]]></LONG_DESCRIPTION>
+        <TITLE>Felce Azzurra aviváž 2L Amber&amp;Vanilla 40 PD - žlutá</TITLE>
+        <SHORT_DESCRIPTION>Felce Azzurra aviváž 2L Amber&amp;Vanilla 40 PD - žlutá přináší intenzivní parfémový efekt až 10 dnů. Ideální pro ložní prádlo, ručníky, deky i vlněné svetry; 2 l balení pokryje přibližně 40 dávek.</SHORT_DESCRIPTION>
+        <LONG_DESCRIPTION><![CDATA[<h2>Felce Azzurra aviváž 2L Amber&Vanilla 40 PD - žlutá</h2>
+<p>Felce Azzurra aviváž 2L Amber&Vanilla 40 PD - žlutá je parfémovaná aviváž s prodlouženým parfémovacím účinkem, která udrží prádlo vonící po dobu až 10 dnů. Jemná vanilka jako vonná báze dodává prádlu smyslnou a příjemnou vůni, kterou oceníte především u ložního prádla, ručníků, dek i vlněných svetrů.</p>
+<h2>K čemu produkt slouží</h2>
+<p>Tato aviváž slouží k provonění a změkčení tkanin po praní. Díky intenzivní vůni zajistí příjemný aroma do šatníku a ložnice a zvýrazní komfort při dotyku prádla. Produkt je součástí kategorie Aviváže z Itálie a představuje praktické řešení pro každodenní praní.</p>
+<h2>Jaké má benefity</h2>
+<ul>
+<li>Prodloužený parfémový účinek až 10 dnů — prádlo vydrží vonět déle.</li>
+<li>Smyslná a jemná vůně vanilky — vhodná pro ložní prádlo a textilie blízké pokožce.</li>
+<li>Vhodná na ložní prádlo, ručníky, deky a vlněné svetry — univerzální využití.</li>
+<li>Velké 2 L balení = až 40 dávek (označeno 40 PD).</li>
+</ul>
+<h2>Jak jej správně používat</h2>
+<p>Pro maximální efekt dodržujte doporučené dávkování. Jednoduché pokyny vám pomohou dosáhnout nejlepšího provonění a měkkosti prádla.</p>
+<ul>
+<li>1 uzávěr = 100 ml.</li>
+<li>Ruční praní: přidejte 26 ml do 10 l vody.</li>
+<li>Praní v pračce: pro 4–5 kg prádla přidejte 66 ml.</li>
+<li>Praní v pračce: pro 6–7 kg prádla přidejte 88 ml.</li>
+</ul>
+<h2>Proč si vybrat právě tento produkt</h2>
+<p>Volba Felce Azzurra aviváže znamená sáhnout po výrobku, který kombinuje dlouhotrvající vůni s praktickým dávkováním a velkým objemem. Pokud hledáte aviváž do domácnosti, která provoní ložní prádlo a textilie v pokoji či koupelně, Amber&Vanilla nabídne příjemnou, jemnou vůni vanilky, která je elegantní a nenásilná.</p>
+<h2>Tipy pro maximální efektivitu / zkušenosti spotřebitelů</h2>
+<ul>
+<li>Pro silnější aroma použijte mírně vyšší dávku u ložního prádla nebo dek.</li>
+<li>Přidejte aviváž do odpovídající přihrádky pračky podle návodu.</li>
+<li>Pro zachování vůně skladujte uzavřené v suchu a chraňte před přímým sluncem.</li>
+<li>Vlněné svetry perte šetrně a dodržujte doporučení pro praní vlny; aviváž použijte dle uvedeného dávkování.</li>
+</ul>
+<h2>Shrnutí a motivace k nákupu</h2>
+<p>Felce Azzurra aviváž 2L Amber&Vanilla 40 PD - žlutá je praktické balení aviváže, které zajistí dlouhotrvající vůni až 10 dnů a jemné provonění ložního prádla, ručníků, dek i vlněných svetrů. Díky jasnému dávkování a univerzálnímu použití je vhodná pro každodenní péči o prádlo. Vyzkoušejte aviváž, která kombinuje intenzivní parfém s pohodlím velkého balení.</p>]]></LONG_DESCRIPTION>
       </DESCRIPTION>
       <DESCRIPTION language="sk">
-        <TITLE>Heitmann Rýchloodvápňovač pre kávovary 50g</TITLE>
-        <SHORT_DESCRIPTION>Heitmann Rýchloodvápňovač pre kávovary je ideálny pre všetky typy kávovarov a rýchlovarných kanvíc. Jednoducho odstraňuje vodný kameň a usadeniny, čím zaisťuje optimálny výkon vášho zariadenia. Jednoduché použitie a účinné výsledky.</SHORT_DESCRIPTION>
-        <LONG_DESCRIPTION><![CDATA[Heitmann Rýchloodvápňovač pre kávovary je špeciálne navrhnutý pre efektívne odstránenie vodného kameňa a usadenín z kávovarov a rýchlovarných kanvíc. Vďaka svojej účinnej zložke zaisťuje rýchle a dôkladné čistenie, ktoré predlžuje životnosť vášho zariadenia a zlepšuje jeho výkon. Použitie je veľmi jednoduché a praktické, stačí jeden sáčok pre jedno čistenie. Varovanie: Způsobuje vážné podráždění očí. Rýchlo a efektívne odvápňuje kávovary a rýchlovarné kanvice, pre jedno odvápnenie zariadenia je plne dostačujúci jeden sáčok produktu. Pri odvápnení postupujte podľa návodu výrobcu prístroja. Roztok na prípravu odvápnenia sa pripravuje rozriedením v čistej vode. Varovanie Způsobuje vážné podráždění očí. Je-li nutná lékařská pomoc, mějte po ruce obal nebo štítek výrobku. Uchovávejte mimo dosah dětí. Po manipulaci důkladně omyjte ruce a zasažené části těla. Používejte ochranné rukavice/ochranný oděv. PŘI ZASAŽENÍ OČÍ: Několik minut opatrně vyplachujte vodou. Vyjměte kontaktní čočky, jsou-li nasazeny a pokud je lze vyjmout snadno. Pokračujte ve vyplachování. Přetrvává-li podráždění očí: Vyhledejte lékařskou pomoc/ošetření.]]></LONG_DESCRIPTION>
+        <TITLE>Felce Azzurra aviváž 2L Amber&amp;Vanilla 40 PD - žltá</TITLE>
+        <SHORT_DESCRIPTION>Felce Azzurra aviváž 2L Amber&amp;Vanilla 40 PD - žltá prináša intenzívny parfumový efekt až 10 dní. Vhodná na posteľné prádlo, uteráky, deky a vlnené svetre; 2 l balenie cca 40 dávok.</SHORT_DESCRIPTION>
+        <LONG_DESCRIPTION><![CDATA[<h2>Felce Azzurra aviváž 2L Amber&Vanilla 40 PD - žltá</h2>
+<p>Felce Azzurra aviváž 2L Amber&Vanilla 40 PD - žltá je parfumovaná aviváž s predĺženým parfumovým účinkom, ktorá udrží bielizeň voňavú až 10 dní. Jemná vanilka ako vôňová báza dodáva textíliám zmyselnú a príjemnú vôňu, ideálnu pre posteľné prádlo, uteráky, deky i vlnené svetre.</p>
+<h2>Na čo produkt slúži</h2>
+<p>Táto aviváž slúži na provonanie a zjemnenie tkanín po praní. Vďaka intenzívnej vôni zabezpečí príjemnú arómu do skrine a spálne a zlepší pocit pri dotyku prádla. Produkt patrí do kategórie Aviváže z Talianska a predstavuje praktické riešenie pre každodenné pranie.</p>
+<h2>Aké má benefity</h2>
+<ul>
+<li>Predĺžený parfumový účinok až 10 dní — bielizeň zostane voňavá dlhšie.</li>
+<li>Zmyselná a jemná vôňa vanilky — vhodná pre posteľné prádlo a textílie priamo pri pokožke.</li>
+<li>Vhodná na posteľné prádlo, uteráky, deky a vlnené svetre — univerzálne použitie.</li>
+<li>Veľké 2 l balenie = približne 40 dávok (značené 40 PD).</li>
+</ul>
+<h2>Ako ju správne používať</h2>
+<p>Dodržujte odporúčané dávkovanie pre dosiahnutie najlepšieho provonania a jemnosti bielizne.</p>
+<ul>
+<li>1 uzáver = 100 ml.</li>
+<li>Ručné pranie: pridajte 26 ml do 10 l vody.</li>
+<li>Pranie v práčke: pre 4–5 kg bielizne pridajte 66 ml.</li>
+<li>Pranie v práčke: pre 6–7 kg bielizne pridajte 88 ml.</li>
+</ul>
+<h2>Prečo si vybrať práve tento produkt</h2>
+<p>Voľba Felce Azzurra aviváže znamená siahnuť po výrobku, ktorý kombinuje dlhotrvajúcu vôňu s praktickým dávkovaním a veľkým objemom. Ak hľadáte aviváž, ktorá provoní posteľné prádlo a textílie v izbe či kúpeľni, Amber&Vanilla ponúkne príjemnú, jemnú vôňu vanilky, ktorá je elegantná a nenásilná.</p>
+<h2>Tipy pre maximálny efekt / skúsenosti spotrebiteľov</h2>
+<ul>
+<li>Pre silnejšiu arómu použite mierne vyššiu dávku pri posteľnom prádle alebo dekách.</li>
+<li>Pridajte aviváž do príslušného priestoru práčky podľa návodu.</li>
+<li>Pre zachovanie vône skladujte uzavreté na suchom mieste a chráňte pred priamym slnkom.</li>
+<li>Vlnené svetre perte šetrne a dodržujte odporúčania na pranie vlny; aviváž používajte podľa uvedeného dávkovania.</li>
+</ul>
+<h2>Zhrnutie a motivácia k nákupu</h2>
+<p>Felce Azzurra aviváž 2L Amber&Vanilla 40 PD - žltá je praktické balenie aviváže, ktoré poskytne dlhotrvajúcu vôňu až 10 dní a jemné provonanie posteľného prádla, uterákov, deky aj vlnených svetrov. Vďaka prehľadnému dávkovaniu a univerzálnemu použitiu je vhodná pre každodennú starostlivosť o bielizeň. Vyskúšajte aviváž, ktorá spája intenzívny parfum s pohodlím veľkého balenia.</p>]]></LONG_DESCRIPTION>
       </DESCRIPTION>
     </DESCRIPTIONS>
     <PRICES>
       <PRICE language="cz">
         <PRICELISTS>
           <PRICELIST>
-            <PRICE_WITH_VAT>39</PRICE_WITH_VAT>
+            <PRICE_WITH_VAT>109</PRICE_WITH_VAT>
           </PRICELIST>
         </PRICELISTS>
       </PRICE>
       <PRICE language="sk">
         <PRICELISTS>
           <PRICELIST>
-            <PRICE_WITH_VAT>39</PRICE_WITH_VAT>
+            <PRICE_WITH_VAT>109</PRICE_WITH_VAT>
           </PRICELIST>
         </PRICELISTS>
       </PRICE>
@@ -343,98 +245,647 @@
 <CODE>6B7E8811-23BA-44AA-84DD-EEFDFCBFF589</CODE>
 <NAME>Drogerie</NAME>
 <PRIMARY_YN>0</PRIMARY_YN>
-<POSITION>3</POSITION>
+<POSITION>2</POSITION>
 </CATEGORY>
 <CATEGORY>
-<CODE>496138F4-8E51-4BAB-B641-8C9E7EE0AE71</CODE>
-<NAME>Čisticí prostředky</NAME>
+<CODE>61E97347-A89C-47D5-BFC9-BEEC5BD159A8</CODE>
+<NAME>Prací prostředky</NAME>
 <PRIMARY_YN>0</PRIMARY_YN>
-<POSITION>3</POSITION>
+<POSITION>2</POSITION>
 </CATEGORY>
 <CATEGORY>
-<CODE>F2C97838-2D3E-42CB-856A-2A033FC24F9B</CODE>
-<NAME>Čističe spotřebičů</NAME>
+<CODE>ABD09A8D-298B-4728-8309-1736B992EA22</CODE>
+<NAME>Aviváže</NAME>
 <PRIMARY_YN>0</PRIMARY_YN>
-<POSITION>3</POSITION>
+<POSITION>2</POSITION>
 </CATEGORY>
 <CATEGORY>
-<CODE>B902B2D8-E9F9-46C6-B3C9-5132106A03F7</CODE>
-<NAME>Odvápňovače kávovarů a rychlovarných konvic</NAME>
+<CODE>AD9ABA6D-A686-45B4-B832-06261BE6FB0E</CODE>
+<NAME>Aviváže z Itálie</NAME>
 <PRIMARY_YN>1</PRIMARY_YN>
-<POSITION>3</POSITION>
+<POSITION>2</POSITION>
 </CATEGORY>
 </CATEGORIES>
     <IMAGES>
       <IMAGE>
-        <URL>https://storage.googleapis.com/drogeriezde/4052400033610</URL>
+        <URL>https://storage.googleapis.com/drogeriezde/8001280034022</URL>
         <MAIN_YN>1</MAIN_YN>
         <LIST_YN>1</LIST_YN>
       </IMAGE>
     </IMAGES>
     <SEO_OPTIMALIZATION>
       <SEO language="cz">
-        <SEO_TITLE>Heitmann Rychloodvápňovač pro kávovary 50g</SEO_TITLE>
-        <SEO_META_DESCRIPTION>Heitmann Rychloodvápňovač pro kávovary efektivně odstraňuje vodní kámen. Ideální pro všechny kávovary. Objednejte online s dopravou zdarma.</SEO_META_DESCRIPTION>
+        <SEO_TITLE>Felce Azzurra aviváž 2L Amber&amp;Vanilla – dlouhá vůně</SEO_TITLE>
+        <SEO_META_DESCRIPTION>Parfémovaná aviváž Felce Azzurra 2L Amber&amp;Vanilla – intenzivní vůně až 10 dnů. Vhodná na ložní prádlo, ručníky, deky a vlnu. 40 PD.</SEO_META_DESCRIPTION>
       </SEO>
       <SEO language="sk">
-        <SEO_TITLE>Heitmann Rýchloodvápňovač pre kávovary 50g</SEO_TITLE>
-        <SEO_META_DESCRIPTION>Heitmann Rýchloodvápňovač pre kávovary efektívne odstraňuje vodný kameň. Ideálny pre všetky kávovary. Objednajte online s dopravou zadarmo.</SEO_META_DESCRIPTION>
+        <SEO_TITLE>Felce Azzurra aviváž 2L Amber&amp;Vanilla – dlhá vôňa</SEO_TITLE>
+        <SEO_META_DESCRIPTION>Parfumovaná aviváž Felce Azzurra 2L Amber&amp;Vanilla – intenzívna vôňa až 10 dní. Vhodná na posteľné prádlo, uteráky, deky a vlnu. 40 PD.</SEO_META_DESCRIPTION>
       </SEO>
     </SEO_OPTIMALIZATION>
-    <METAS>
-      <META type="input">
-        <META_KEY>guid</META_KEY>
-        <META_VALUES>
-          <META_VALUE language="cz">F8E2F238-6042-4B38-A1D6-2E50A0CEBB37</META_VALUE>
-          <META_VALUE language="sk">F8E2F238-6042-4B38-A1D6-2E50A0CEBB37</META_VALUE>
-        </META_VALUES>
-      </META>
-      <META type="input">
-        <META_KEY>availability_color</META_KEY>
-        <META_VALUES>
-          <META_VALUE language="cz">ff4757</META_VALUE>
-          <META_VALUE language="sk">ff4757</META_VALUE>
-        </META_VALUES>
-      </META>
-    </METAS>
   </PRODUCT>
   <PRODUCT>
-    <CODE>K10814</CODE>
+    <CODE>EX06427</CODE>
     <ACTIVE_YN>1</ACTIVE_YN>
-    <CAN_ADD_TO_BASKET_YN>0</CAN_ADD_TO_BASKET_YN>
-    <MANUFACTURER>Beauty Formulas</MANUFACTURER>
-    <EAN>5012251012263</EAN>
-    <STOCK>0</STOCK>
-    <AVAILABILITY>Na dotaz</AVAILABILITY>
-    <WEIGHT>130</WEIGHT>
-    <VATS>
-      <VAT language="cz">21</VAT>
-      <VAT language="sk">21</VAT>
-    </VATS>
+    <CAN_ADD_TO_BASKET_YN>1</CAN_ADD_TO_BASKET_YN>
+    <EAN>8000903770132</EAN>
+    <STOCK>462</STOCK>
+    <AVAILABILITY>Odesíláme 4.9.2025</AVAILABILITY>
+    <WEIGHT>288</WEIGHT>
     <DESCRIPTIONS>
       <DESCRIPTION language="cz">
-        <TITLE>Beauty Formulas jílová maska s černým uhlím, 100ml</TITLE>
-        <SHORT_DESCRIPTION>Speciální jílová maska s aktivním černým uhlím a kosmetickým kaolínem pro hloubkové čištění pleti. Působí jako magnet na nečistoty a zanechává pleť svěží a čistou.</SHORT_DESCRIPTION>
-        <LONG_DESCRIPTION><![CDATA[Beauty Formulas jílová maska s černým uhlím je ideální pro hloubkové čištění pleti. Obsahuje kosmetický kaolín a aktivní černé uhlí, které působí jako magnet na nečistoty a nedokonalosti pleti. Maska zanechává pokožku hloubkově vyčištěnou a podporuje stahování pórů. Kosmetická pleťová maska. Používejte na běžným způsobem na předem odlíčenou a vyčištěnou suchou pokožku. V případě pálení či alergické reakce přestaňte ihned používat a opláchněte čistou vodou. Použití viz piktogramy na obale. Složení viz Ingredients.]]></LONG_DESCRIPTION>
+        <TITLE>COCCOLATEVI GLICINE DEL GIAPPONE - Koncentrovaný parfém do prádla + čistič 250 ml</TITLE>
+        <SHORT_DESCRIPTION>Koncentrovaný parfém do prádla a multifunkční čistič s vůní Japonské vistárie. Dodá prádlu i domácnosti dlouhotrvající a intenzivní vůni, zároveň osvěží tvrdé podlahy a povrchy. Snadné dávkování pro běžné i extra parfémování.</SHORT_DESCRIPTION>
+        <LONG_DESCRIPTION><![CDATA[<h2>COCCOLATEVI GLICINE DEL GIAPPONE - Koncentrovaný parfém do prádla + čistič 250 ml</h2>
+<p>COCCOLATEVI GLICINE DEL GIAPPONE je koncentrovaný parfém do prádla a současně praktický čistič vhodný do domácnosti. Produkt přináší intenzivní a dlouhotrvající vůni Japonské vistárie, která prodlužuje pocit čerstvě vypraného prádla a provoní i tvrdé povrchy v domě. Ideální pro zákaznice, které hledají elegantní aroma a jednoduché použití v pračce i při úklidu.</p>
+<h2>K čemu produkt slouží</h2>
+<p>Tento koncentrovaný parfém do prádla plní dvojí roli:</p>
+<ul>
+<li>Parfém do pračky – dodá prádlu výraznou a trvalou vůni, která zůstane na textiliích i po vyprání.</li>
+<li>Čistič tvrdých povrchů – můžete ho použít místo běžného mycího prostředku na podlahy a jiné omyvatelné povrchy pro svěží a čistou vůni.</li>
+</ul>
+<h2>Jaké má benefity</h2>
+<ul>
+<li>Intenzivní a dlouhotrvající aroma Japonské vistárie, které prodlužuje dojem čerstvého prádla.</li>
+<li>Multifunkční využití: parfém do prádla i čistič podlah v jednom balení.</li>
+<li>Koncentrované složení – malá dávka stačí pro silný efekt, ekonomické balení 250 ml.</li>
+<li>Snadné dávkování podle potřeby běžného praní nebo extra parfémování.</li>
+</ul>
+<h2>Jak jej správně používat</h2>
+<p>Pro bezpečné a efektivní použití postupujte podle jednoduchých doporučení:</p>
+<ul>
+<li>V pračce: nalijte 1 uzávěr (6 ml) do přihrádky na aviváž pro běžné parfémování.</li>
+<li>Pro intenzivnější vůni: použijte 2 uzávěry (12 ml) pro extra parfém.</li>
+<li>Na podlahy a tvrdé povrchy: nalijte 2 víčka do 5 litrů vody jako náhradu klasického mycího prostředku.</li>
+<li>Pro silnější osvěžení místnosti: použijte 3 víčka do 5 litrů vody.</li>
+</ul>
+<h2>Proč si vybrat právě tento produkt</h2>
+<p>COCCOLATEVI GLICINE DEL GIAPPONE kombinuje komfort parfému do prádla s univerzálním úklidovým využitím. Je to praktické řešení pro domácnosti, kde chcete méně produktů a více vůní. Koncentrované balení šetří místo i peníze, zatímco specifická vůně Japonské vistárie přidá jemný, luxusní nádech vašemu oblečení i domovu.</p>
+<h2>Tipy pro maximální efektivitu</h2>
+<ul>
+<li>Pro čerstvý aroma efekt skladujte prádlo v uzavřených prostorech nebo pytlích na delší dobu, aby vůně déle zůstala v látkách.</li>
+<li>Směrem k silnějšímu parfémování kombinujte s nižším množstvím aviváže, aby parfém dominoval.</li>
+<li>Při úklidu používejte doporučené dávky a vyzkoušejte nejprve na malé ploše, pokud máte citlivé povrchy.</li>
+</ul>
+<h2>Shrnutí a motivace k nákupu</h2>
+<p>COCCOLATEVI GLICINE DEL GIAPPONE - Koncentrovaný parfém do prádla + čistič 250 ml je chytrou volbou pro ty, kdo chtějí intenzivní, dlouhotrvající vůni a univerzální produkt do domácnosti. Usnadní praní i úklid, přinese pocit čerstvosti a dotek luxusu díky jedinečné vůni Japonské vistárie. Vyzkoušejte ho a objevte, jak může jedna lahvička změnit atmosféru vašeho domova i šatníku.</p>]]></LONG_DESCRIPTION>
       </DESCRIPTION>
       <DESCRIPTION language="sk">
-        <TITLE>Beauty Formulas ílová maska s čiernym uhlím, 100ml</TITLE>
-        <SHORT_DESCRIPTION>Špeciálna ílová maska s aktívnym čiernym uhlím a kozmetickým kaolínom pre hĺbkové čistenie pleti. Pôsobí ako magnet na nečistoty a zanecháva pleť sviežu a čistú.</SHORT_DESCRIPTION>
-        <LONG_DESCRIPTION><![CDATA[Beauty Formulas ílová maska s čiernym uhlím je ideálna pre hĺbkové čistenie pleti. Obsahuje kozmetický kaolín a aktívne čierne uhlie, ktoré pôsobia ako magnet na nečistoty a nedokonalosti pleti. Maska zanecháva pokožku hĺbkovo vyčistenú a podporuje sťahovanie pórov. Kosmetická pleťová maska. Používejte na běžným způsobem na předem odlíčenou a vyčištěnou suchou pokožku. V případě pálení či alergické reakce přestaňte ihned používat a opláchněte čistou vodou. Použití viz piktogramy na obale. Složení viz Ingredients.]]></LONG_DESCRIPTION>
+        <TITLE>COCCOLATEVI GLICINE DEL GIAPPONE - Koncentrovaný parfém na bielizeň + čistič 250 ml</TITLE>
+        <SHORT_DESCRIPTION>Koncentrovaný parfém na bielizeň a multifunkčný čistič s vôňou Japonskej vistárie. Dodá bielizni a domácnosti dlhodobú a intenzívnu vôňu, zároveň osvieži tvrdé podlahy a povrchy. Jednoduché dávkovanie pre štandardné i extra parfémovanie.</SHORT_DESCRIPTION>
+        <LONG_DESCRIPTION><![CDATA[<h2>COCCOLATEVI GLICINE DEL GIAPPONE - Koncentrovaný parfém na bielizeň + čistič 250 ml</h2>
+<p>COCCOLATEVI GLICINE DEL GIAPPONE je koncentrovaný parfém na bielizeň a zároveň praktický čistič do domácnosti. Produkt prináša intenzívnu a dlhotrvajúcu vôňu Japonskej vistárie, ktorá predlžuje pocit čerstvo vypranej bielizne a provoní aj tvrdé povrchy v dome. Vhodný pre zákazníčky, ktoré hľadajú elegantné aroma a jednoduché použitie v práčke aj pri upratovaní.</p>
+<h2>Na čo produkt slúži</h2>
+<p>Tento koncentrovaný parfum plní dvojitú úlohu:</p>
+<ul>
+<li>Parfum do práčky – dodá bielizni výraznú a trvácnu vôňu, ktorá zostane na textíliách aj po praní.</li>
+<li>Čistič tvrdých povrchov – môžete ho použiť namiesto bežného čistiaceho prostriedku na podlahy a iné umývateľné povrchy pre sviežu a čistú vôňu.</li>
+</ul>
+<h2>Aké má benefity</h2>
+<ul>
+<li>Intenzívne a dlhotrvajúce aroma Japonskej vistárie, ktoré predlžuje dojem čerstvej bielizne.</li>
+<li>Multifunkčné využitie: parfum na bielizeň aj čistič podláh v jednom balení.</li>
+<li>Koncentrované zloženie – malá dávka stačí pre silný efekt, ekonomické balenie 250 ml.</li>
+<li>Jednoduché dávkovanie podľa potreby bežného prania alebo extra parfumovania.</li>
+</ul>
+<h2>Ako ho správne použiť</h2>
+<p>Pre bezpečné a efektívne použitie dodržte jednoduché odporúčania:</p>
+<ul>
+<li>V práčke: nasypte 1 uzáver (6 ml) do priehradky na aviváž pre bežné parfumovanie.</li>
+<li>Pre intenzívnejšiu vôňu: použite 2 uzávery (12 ml) pre extra parfum.</li>
+<li>Na podlahy a tvrdé povrchy: nalejte 2 viečka do 5 litrov vody ako náhradu klasického čistiaceho prostriedku.</li>
+<li>Pre silnejšie osvieženie miestnosti: použite 3 viečka do 5 litrov vody.</li>
+</ul>
+<h2>Prečo si vybrať práve tento produkt</h2>
+<p>COCCOLATEVI GLICINE DEL GIAPPONE kombinuje pohodlie parfumácie bielizne s univerzálnym upratovacím využitím. Je to praktické riešenie pre domácnosti, kde chcete menej výrobkov a viac vôní. Koncentrované balenie šetrí miesto aj peniaze, zatiaľ čo charakteristická vôňa Japonskej vistárie pridá jemný, luxusný nádych vašej bielizni i domovu.</p>
+<h2>Tipy pre maximálnu efektivitu</h2>
+<ul>
+<li>Pre čerstvý aroma efekt skladujte bielizeň v uzavretých priestoroch alebo v vreckách na dlhší čas, aby vôňa dlhšie zostala v textíliách.</li>
+<li>Smerom k silnejšiemu parfumovaniu kombinujte s menším množstvom aviváže, aby parfum dominoval.</li>
+<li>Pri upratovaní používajte odporúčané dávky a vyskúšajte najprv na malej ploche, ak máte citlivé povrchy.</li>
+</ul>
+<h2>Zhrnutie a motivácia k nákupu</h2>
+<p>COCCOLATEVI GLICINE DEL GIAPPONE - Koncentrovaný parfém na bielizeň + čistič 250 ml je šikovnou voľbou pre tých, ktorí chcú intenzívnu, dlhotrvajúcu vôňu a univerzálny produkt do domácnosti. Uľahčí pranie aj upratovanie, prinesie pocit sviežosti a dotyk luxusu vďaka jedinečnej vôni Japonskej vistárie. Vyskúšajte ho a objavte, ako môže jedna fľaštička zmeniť atmosféru vášho domova i šatníka.</p>]]></LONG_DESCRIPTION>
       </DESCRIPTION>
     </DESCRIPTIONS>
     <PRICES>
       <PRICE language="cz">
         <PRICELISTS>
           <PRICELIST>
-            <PRICE_WITH_VAT>49.9</PRICE_WITH_VAT>
+            <PRICE_WITH_VAT>144</PRICE_WITH_VAT>
           </PRICELIST>
         </PRICELISTS>
       </PRICE>
       <PRICE language="sk">
         <PRICELISTS>
           <PRICELIST>
-            <PRICE_WITH_VAT>49.9</PRICE_WITH_VAT>
+            <PRICE_WITH_VAT>144</PRICE_WITH_VAT>
+          </PRICELIST>
+        </PRICELISTS>
+      </PRICE>
+    </PRICES>
+    <CATEGORIES>
+<CATEGORY>
+<CODE>6B7E8811-23BA-44AA-84DD-EEFDFCBFF589</CODE>
+<NAME>Drogerie</NAME>
+<PRIMARY_YN>0</PRIMARY_YN>
+<POSITION>2</POSITION>
+</CATEGORY>
+<CATEGORY>
+<CODE>61E97347-A89C-47D5-BFC9-BEEC5BD159A8</CODE>
+<NAME>Prací prostředky</NAME>
+<PRIMARY_YN>0</PRIMARY_YN>
+<POSITION>2</POSITION>
+</CATEGORY>
+<CATEGORY>
+<CODE>1C6B36D7-40E9-46A3-9A7D-7E3EAFAC4C8B</CODE>
+<NAME>Speciální prací prostředky</NAME>
+<PRIMARY_YN>0</PRIMARY_YN>
+<POSITION>2</POSITION>
+</CATEGORY>
+<CATEGORY>
+<CODE>9F88B7A3-4BEE-4B0B-945B-520EEE98A812</CODE>
+<NAME>Dezinfekce na prádlo</NAME>
+<PRIMARY_YN>1</PRIMARY_YN>
+<POSITION>2</POSITION>
+</CATEGORY>
+</CATEGORIES>
+    <IMAGES>
+      <IMAGE>
+        <URL>https://storage.googleapis.com/drogeriezde/8000903770132</URL>
+        <MAIN_YN>1</MAIN_YN>
+        <LIST_YN>1</LIST_YN>
+      </IMAGE>
+    </IMAGES>
+    <SEO_OPTIMALIZATION>
+      <SEO language="cz">
+        <SEO_TITLE>COCCOLATEVI GLICINE DEL GIAPPONE | Koncentrovaný parfém do prádla</SEO_TITLE>
+        <SEO_META_DESCRIPTION>Koncentrovaný parfém do prádla a čistič s vůní Japonské vistárie. Dodá prádlu i domovu dlouhotrvající a intenzivní svěží vůni. Snadné dávkování.</SEO_META_DESCRIPTION>
+      </SEO>
+      <SEO language="sk">
+        <SEO_TITLE>COCCOLATEVI GLICINE DEL GIAPPONE | Koncentrovaný parfém na bielizeň</SEO_TITLE>
+        <SEO_META_DESCRIPTION>Koncentrovaný parfém na bielizeň a čistič s vôňou Japonskej vistárie. Dodá bielizni i domácnosti dlhotrvajúcu sviežu vôňu. Jednoduché dávkovanie.</SEO_META_DESCRIPTION>
+      </SEO>
+    </SEO_OPTIMALIZATION>
+  </PRODUCT>
+  <PRODUCT>
+    <CODE>EX06435</CODE>
+    <ACTIVE_YN>1</ACTIVE_YN>
+    <CAN_ADD_TO_BASKET_YN>1</CAN_ADD_TO_BASKET_YN>
+    <EAN>0076001399924</EAN>
+    <STOCK>137</STOCK>
+    <AVAILABILITY>Odesíláme 5.9.2025</AVAILABILITY>
+    <WEIGHT>510</WEIGHT>
+    <DESCRIPTIONS>
+      <DESCRIPTION language="cz">
+        <TITLE>Vonná svíčka Apple picking LIMITED 510G</TITLE>
+        <SHORT_DESCRIPTION>Vonná svíčka Apple picking LIMITED 510G přináší vůni čerstvě utržených jablek a podzimní atmosféru do vašeho domova. 510 g, doba hoření až 110 hodin a opakovaně využitelná skleněná dóza pro stylové doplnění interiéru.</SHORT_DESCRIPTION>
+        <LONG_DESCRIPTION><![CDATA[<h2>Vonná svíčka Apple picking LIMITED 510G</h2>
+<p>Vonná svíčka Apple picking LIMITED 510G promění váš interiér v příjemnou oázu s vůní podzimního sadu. Tato svíčka kombinuje tradiční řemeslnou výrobu značky CANDLE-LITE USA s dlouhou dobou hoření a praktickým provedením v opakovaně využitelné skleněné dóze. Je ideální pro chvíle odpočinku, setkání s přáteli nebo jako stylový doplněk do domácnosti.</p>
+<h2>K čemu produkt slouží</h2>
+<p>Svíčka Apple picking slouží k provonění místnosti, vytvoření útulné atmosféry a vizuální dekoraci interiéru. Díky výrazné vůni čerstvých jablek evokuje podzimní náladu a pomáhá navodit pocit klidu po náročném dni. Hodí se do obýváku, ložnice či jídelny a také jako dárkový předmět.</p>
+<h2>Jaké má benefity</h2>
+<ul>
+<li>Hmotnost 510 g – vydatná velikost vhodná pro delší používání.</li>
+<li>Doba hoření až 110 hodin – dlouhodobý provoz bez časté výměny.</li>
+<li>Opakovaně využitelná skleněná dóza – po vyhoření můžete dózu znovu použít jako dekoraci nebo úložný box.</li>
+<li>Tradiční výroba CANDLE-LITE USA – ověřená kvalita a precizní provedení.</li>
+<li>Vůně čerstvých jablek – přirozeně podzimní a univerzální pro různé příležitosti.</li>
+</ul>
+<h2>Jak ji správně používat</h2>
+<p>Pro co nejlepší zážitek z vonné svíčky Apple picking postupujte podle jednoduchých rad:</p>
+<ul>
+<li>Před zapálením zastřihněte knot na cca 0,5 cm a umístěte jej do středu svíčky.</li>
+<li>Svíčku nechte hořet alespoň 30 minut, aby se vytvořil rovnoměrný voskový bazén a vůně se lépe rozptýlila.</li>
+<li>Chraňte svíčku před přímým sluncem a zdroji tepla, po zhasnutí ji přiklopte víčkem pro zachování intenzity vůně.</li>
+<li>Dbajte na bezpečnost: nenechávejte hořící svíčku bez dozoru a nevystavujte ji průvanu.</li>
+</ul>
+<h2>Proč si vybrat právě tento produkt</h2>
+<p>Vonná svíčka Apple picking LIMITED 510G nabízí kombinaci příjemné vůně, dlouhé doby hoření a praktického designu. Opakovaně využitelná skleněná dóza přidává hodnotu i po spotřebování vosku, takže kupujete nejen svíčku, ale i multifunkční dekorativní kus. Značka CANDLE-LITE USA zaručuje stabilní kvalitu a provedení.</p>
+<h2>Tipy pro maximální efektivitu a zkušenosti spotřebitelů</h2>
+<ul>
+<li>Pro delší životnost svíčky pravidelně zastřihujte knot a odstraňujte případný „knotový květ“ po ztuhnutí vosku.</li>
+<li>Umístěte svíčku na stabilní, nehořlavý podklad mimo dosah dětí a domácích mazlíčků.</li>
+<li>Po vyhoření vosku využijte skleněnou dózu na sušenky, drobnosti nebo jako dekoraci.</li>
+</ul>
+<h2>Shrnutí a motivace k nákupu</h2>
+<p>Pokud hledáte vonnou svíčku, která dodá vašemu domovu podzimní kouzlo a zároveň nabízí praktické využití, Vonná svíčka Apple picking LIMITED 510G je skvělou volbou. S dlouhou dobou hoření, kvalitním zpracováním a opakovaně použitelnou skleněnou dózou získáte produkt, který potěší a zkrášlí interiér. Objevte atmosféru s vůní čerstvých jablek a udělejte si doma příjemné chvíle plné pohody.</p>]]></LONG_DESCRIPTION>
+      </DESCRIPTION>
+      <DESCRIPTION language="sk">
+        <TITLE>Vonná sviečka Apple picking LIMITED 510G</TITLE>
+        <SHORT_DESCRIPTION>Vonná sviečka Apple picking LIMITED 510G prináša vôňu čerstvo nazbieraných jabĺk a jesennú atmosféru do vášho domova. 510 g, doba horenia až 110 hodín a opakovane použiteľná sklenená dóza ako dizajnový doplnok.</SHORT_DESCRIPTION>
+        <LONG_DESCRIPTION><![CDATA[<h2>Vonná sviečka Apple picking LIMITED 510G</h2>
+<p>Vonná sviečka Apple picking LIMITED 510G premení váš interiér na príjemnú oázu s vôňou jesenného sadu. Táto sviečka spája tradičnú remeselnú výrobu značky CANDLE-LITE USA s dlhou dobou horenia a praktickým prevedením v opakovane použiteľnej sklenenej dóze. Je ideálna na chvíle oddychu, stretnutia s priateľmi alebo ako štýlový doplnok do domácnosti.</p>
+<h2>Na čo produkt slúži</h2>
+<p>Sviečka Apple picking slúži na prevoniavanie miestnosti, vytvorenie útulnej atmosféry a vizuálnu dekoráciu interiéru. Vďaka výraznej vôni čerstvých jabĺk evokuje jesennú náladu a pomáha navodiť pocit pokoja po náročnom dni. Hodí sa do obývačky, spálne či jedálne a tiež ako darček.</p>
+<h2>Aké má benefity</h2>
+<ul>
+<li>Hmotnosť 510 g – vydatná veľkosť vhodná na dlhšie používanie.</li>
+<li>Doba horenia až 110 hodín – dlhodobý prevádzkový komfort bez častej výmeny.</li>
+<li>Opakovane použiteľná sklenená dóza – po vyhorení môžete dózu znova použiť ako dekoráciu alebo úložný box.</li>
+<li>Tradičná výroba CANDLE-LITE USA – overená kvalita a precízne spracovanie.</li>
+<li>Vôňa čerstvých jabĺk – prirodzene jesenná a univerzálna pre rôzne príležitosti.</li>
+</ul>
+<h2>Ako ju správne používať</h2>
+<p>Pre najlepší zážitok z vonnej sviečky Apple picking postupujte podľa jednoduchých rád:</p>
+<ul>
+<li>Pred zapálením skráťte knôt na cca 0,5 cm a umiestnite ho do stredu sviečky.</li>
+<li>Sviečku nechajte horieť aspoň 30 minút, aby sa vytvoril rovnomerný voskový bazén a vôňa sa lepšie rozptýlila.</li>
+<li>Chráňte sviečku pred priamym slnkom a zdrojmi tepla, po sfúknutí ju priklopte viečkom pre zachovanie intenzity vône.</li>
+<li>Dbajte na bezpečnosť: nenechávajte horiacu sviečku bez dozoru a nevystavujte ju prievanu.</li>
+</ul>
+<h2>Prečo si vybrať práve tento produkt</h2>
+<p>Vonná sviečka Apple picking LIMITED 510G ponúka kombináciu príjemnej vône, dlhej doby horenia a praktického dizajnu. Opakovane použiteľná sklenená dóza pridáva hodnotu aj po spotrebovaní vosku, takže kupujete nielen sviečku, ale aj multifunkčný dekoratívny kus. Značka CANDLE-LITE USA zaručuje stabilnú kvalitu a prevedenie.</p>
+<h2>Tipy pre maximálny efekt a skúsenosti spotrebiteľov</h2>
+<ul>
+<li>Pre dlhšiu životnosť sviečky pravidelne skracujte knôt a odstraňujte prípadný „knotový kvet“ po stuhnutí vosku.</li>
+<li>Umiestnite sviečku na stabilný, nehorľavý podklad mimo dosahu detí a domácich zvierat.</li>
+<li>Po vyhorení vosku využite sklenenú dózu na sušienky, drobnosti alebo ako dekoráciu.</li>
+</ul>
+<h2>Zhrnutie a motivácia k nákupu</h2>
+<p>Ak hľadáte vonnú sviečku, ktorá dodá vášmu domovu jesenné kúzlo a zároveň ponúka praktické využitie, Vonná sviečka Apple picking LIMITED 510G je výbornou voľbou. S dlhou dobou horenia, kvalitným spracovaním a opakovane použiteľnou sklenenou dózou získate produkt, ktorý poteší a skrášli interiér. Objavte atmosféru s vôňou čerstvých jabĺk a urobte si doma príjemné chvíle plné pohody.</p>]]></LONG_DESCRIPTION>
+      </DESCRIPTION>
+    </DESCRIPTIONS>
+    <PRICES>
+      <PRICE language="cz">
+        <PRICELISTS>
+          <PRICELIST>
+            <PRICE_WITH_VAT>289</PRICE_WITH_VAT>
+          </PRICELIST>
+        </PRICELISTS>
+      </PRICE>
+      <PRICE language="sk">
+        <PRICELISTS>
+          <PRICELIST>
+            <PRICE_WITH_VAT>289</PRICE_WITH_VAT>
+          </PRICELIST>
+        </PRICELISTS>
+      </PRICE>
+    </PRICES>
+    <CATEGORIES>
+<CATEGORY>
+<CODE>6B7E8811-23BA-44AA-84DD-EEFDFCBFF589</CODE>
+<NAME>Drogerie</NAME>
+<PRIMARY_YN>0</PRIMARY_YN>
+<POSITION>2</POSITION>
+</CATEGORY>
+<CATEGORY>
+<CODE>A01EDF9D-4BA4-4DBD-9C4C-A68639702E50</CODE>
+<NAME>Svíčky</NAME>
+<PRIMARY_YN>0</PRIMARY_YN>
+<POSITION>2</POSITION>
+</CATEGORY>
+<CATEGORY>
+<CODE>BBA2C06A-86BB-47D5-B337-CDF25CAF45A0</CODE>
+<NAME>Vonné svíčky</NAME>
+<PRIMARY_YN>1</PRIMARY_YN>
+<POSITION>2</POSITION>
+</CATEGORY>
+</CATEGORIES>
+    <IMAGES>
+      <IMAGE>
+        <URL>https://storage.googleapis.com/drogeriezde/0076001399924</URL>
+        <MAIN_YN>1</MAIN_YN>
+        <LIST_YN>1</LIST_YN>
+      </IMAGE>
+    </IMAGES>
+    <SEO_OPTIMALIZATION>
+      <SEO language="cz">
+        <SEO_TITLE>Vonná svíčka Apple picking LIMITED 510G – CANDLE-LITE</SEO_TITLE>
+        <SEO_META_DESCRIPTION>Vonná svíčka Apple picking LIMITED 510G: 510 g, až 110 hodin hoření, opakovaně využitelná skleněná dóza. Ideální pro podzimní atmosféru doma.</SEO_META_DESCRIPTION>
+      </SEO>
+      <SEO language="sk">
+        <SEO_TITLE>Vonná sviečka Apple picking LIMITED 510G – CANDLE-LITE</SEO_TITLE>
+        <SEO_META_DESCRIPTION>Vonná sviečka Apple picking LIMITED 510G: 510 g, až 110 hodín horenia, opakovane použiteľná sklenená dóza. Ideálna na jesennú atmosféru doma.</SEO_META_DESCRIPTION>
+      </SEO>
+    </SEO_OPTIMALIZATION>
+  </PRODUCT>
+  <PRODUCT>
+    <CODE>EX06448</CODE>
+    <ACTIVE_YN>1</ACTIVE_YN>
+    <CAN_ADD_TO_BASKET_YN>1</CAN_ADD_TO_BASKET_YN>
+    <EAN>0674623300139</EAN>
+    <STOCK>93</STOCK>
+    <AVAILABILITY>Odesíláme 5.9.2025</AVAILABILITY>
+    <WEIGHT>1</WEIGHT>
+    <DESCRIPTIONS>
+      <DESCRIPTION language="cz">
+        <TITLE>Vonná svíčka Cinnamon twist 680g</TITLE>
+        <SHORT_DESCRIPTION>Vonná svíčka Cinnamon twist 680g přináší teplou, kořeněnou vůni čerstvých skořicových hůlek. Velká svíčka s až 110 hodinami hoření a opakovatelnou skleněnou dózou je ideální pro vytvoření útulné atmosféry a chvílí relaxace doma.</SHORT_DESCRIPTION>
+        <LONG_DESCRIPTION><![CDATA[<h2>Vonná svíčka Cinnamon twist 680g</h2>
+<p>Vonná svíčka Cinnamon twist 680g nabízí bohatý, kořeněný aromatický zážitek připomínající vůni čerstvých skořicových hůlek. Díky dlouhé době hoření a elegantní skleněné dóze se hodí do obývacího pokoje, ložnice i na stůl při posezení s přáteli – vždy dodá prostoru teplý a příjemný charakter.</p>
+<h2>K čemu produkt slouží</h2>
+<p>Vonná svíčka Cinnamon twist 680g slouží především k vytvoření atmosféry: zvýrazní útulnost interiéru, podpoří relaxaci po náročném dni a doplní dekor v klasickém i moderním stylu. Je vhodná, když chcete doma navodit pocit tepla a pohody bez složité přípravy.</p>
+<h2>Jaké má benefity</h2>
+<ul>
+<li>Až 110 hodin hoření – dlouhodobá vůně pro opakované použití.</li>
+<li>Velké provedení 680 g – výrazná výdrž a silný aroma výkon.</li>
+<li>Opakovatelně využitelná skleněná dóza – praktický doplněk po vyhoření svíčky.</li>
+<li>Elegantní design, který zapadne do různých typů interiérů.</li>
+<li>Tradiční výroba a značka CHEERFUL CANDLE – důraz na ověřenou kvalitu a zkušenost.</li>
+</ul>
+<h2>Jak jej správně používat</h2>
+<p>Pro nejlepší zážitek z vonné svíčky Cinnamon twist 680g doporučujeme krátké a jednoduché kroky: před prvním zapálením nechte svíčku hořet kontinuálně tak, aby se vosková plocha vypálila až k okraji sklenice – tím se minimalizuje tvorba tunelu a maximalizuje vydatnost vůně. Knot je vhodné zastřihnout na přibližně 0,5 cm a umístit ho na střed svíčky pro rovnoměrné hoření. Po vyhoření nechte skleněnou dózu vychladnout a podle potřeby ji můžete vyčistit pro další využití jako dekorativní nebo úložný předmět.</p>
+<h2>Proč si vybrat právě tento produkt</h2>
+<p>Cinnamon twist v provedení 680 g nabízí kombinaci silné vůně a praktického designu. Pokud hledáte voňavý doplněk, který dlouho vydrží a zároveň po vyhoření poskytne krásnou skleněnou dózu k dalšímu využití, tato svíčka splní očekávání. Brand CHEERFUL CANDLE zaručuje pevné standardy a cit pro voňavé kompozice, které ladí s potřebami domácí atmosféry.</p>
+<h2>Tipy pro maximální efektivitu</h2>
+<ul>
+<li>Pro plné rozvinutí vůně nechte svíčku hořet alespoň 30 minut při prvním použití; aroma se tak rovnoměrně rozptýlí.</li>
+<li>Využijte opakovaně skleněnou dózu na drobnosti nebo jako dekorativní úložný prvek.</li>
+<li>Doporučujeme doplnit používání svíčky dalšími dekorativními prvky pro vytvoření harmonického prostoru.</li>
+</ul>
+<h2>Shrnutí a motivace k nákupu</h2>
+<p>Vonná svíčka Cinnamon twist 680g je praktický a stylový doplněk pro každou domácnost, která ocení teplé kořeněné tóny a dlouhou výdrž. S až 110 hodinami hoření a opakovaně využitelnou skleněnou dózou je to produkt, který spojí estetiku s funkčností – ideální volba pro chvíle relaxace a pohody.</p>]]></LONG_DESCRIPTION>
+      </DESCRIPTION>
+      <DESCRIPTION language="sk">
+        <TITLE>Vonná sviečka Cinnamon twist 680g</TITLE>
+        <SHORT_DESCRIPTION>Vonná sviečka Cinnamon twist 680g prináša teplú, korenistú vôňu čerstvých škoricových tyčiniek. Veľká sviečka s až 110 hodinami horenia a opakovane použiteľnou sklenenou dózou je ideálna na vytvorenie útulnej atmosféry a oddychu doma.</SHORT_DESCRIPTION>
+        <LONG_DESCRIPTION><![CDATA[<h2>Vonná sviečka Cinnamon twist 680g</h2>
+<p>Vonná sviečka Cinnamon twist 680g prináša bohatý, korenistý aromatický zážitok pripomínajúci vôňu čerstvých škoricových tyčiniek. Vďaka dlhej dobe horenia a elegantnej sklenenej dóze je vhodná do obývačky, spálne či na stôl pri stretnutí s priateľmi – vždy dodá priestoru teplý a príjemný charakter.</p>
+<h2>Na čo produkt slúži</h2>
+<p>Vonná sviečka Cinnamon twist 680g slúži najmä na vytvorenie atmosféry: zvýrazní útulnosť interiéru, podporí relaxáciu po náročnom dni a doplní dekor v klasickom aj modernom štýle. Je ideálna, keď chcete doma navodiť pocit tepla a pohody bez zložitých príprav.</p>
+<h2>Aké má benefity</h2>
+<ul>
+<li>Až 110 hodín horenia – dlhodobá vôňa pre opakované použitie.</li>
+<li>Veľké prevedenie 680 g – výrazná výdrž a silný aromatický výkon.</li>
+<li>Opakovane použiteľná sklenená dóza – praktický doplnok po vyhorení sviečky.</li>
+<li>Elegantný dizajn, ktorý zapadne do rôznych typov interiérov.</li>
+<li>Tradičná výroba a značka CHEERFUL CANDLE – dôraz na overenú kvalitu a skúsenosť.</li>
+</ul>
+<h2>Ako ju správne používať</h2>
+<p>Pre najlepší zážitok z vonnej sviečky Cinnamon twist 680g odporúčame jednoduché kroky: pri prvom zapálení nechajte sviečku horieť tak, aby sa vosková plocha rovnomerne rozpustila až k okrajom sklenice – tým sa zlepší výkon vône. Knot je vhodné skrátiť na približne 0,5 cm a umiestniť ho do stredu sviečky pre rovnomerné horenie. Po vyhorení môžete sklenenú dózu nechať vychladnúť a následne ju vyčistiť a využiť napríklad na drobnosti alebo ako dekoráciu.</p>
+<h2>Prečo si vybrať práve tento produkt</h2>
+<p>Cinnamon twist v prevedení 680 g ponúka kombináciu intenzívnej vône a praktického dizajnu. Ak hľadáte voňavý doplnok, ktorý dlho vydrží a zároveň po vyhorení poskytne krásnu sklenenú dózu na ďalšie použitie, táto sviečka splní očakávania. Značka CHEERFUL CANDLE prináša stabilné štandardy a cit pre voňavé kompozície, ktoré ladia s potrebami domácej pohody.</p>
+<h2>Tipy pre maximálnu efektivitu</h2>
+<ul>
+<li>Pre plné rozvinutie vône nechajte sviečku horieť aspoň 30 minút pri prvom použití; vôňa sa tak rovnomerne rozptýli.</li>
+<li>Využite opakovane sklenenú dózu na drobnosti alebo ako dekoratívny úložný prvok.</li>
+<li>Odporúčame kombinovať sviečku s doplnkami, ktoré zvýraznia atmosféru v miestnosti.</li>
+</ul>
+<h2>Zhrnutie a motivácia k nákupu</h2>
+<p>Vonná sviečka Cinnamon twist 680g je praktický a štýlový doplnok pre každú domácnosť, ktorá ocení teplé korenisté tóny a dlhú výdrž. S až 110 hodinami horenia a opakovane použiteľnou sklenenou dózou je to produkt, ktorý spája estetiku s funkčnosťou – ideálna voľba pre chvíle relaxu a pohody.</p>]]></LONG_DESCRIPTION>
+      </DESCRIPTION>
+    </DESCRIPTIONS>
+    <PRICES>
+      <PRICE language="cz">
+        <PRICELISTS>
+          <PRICELIST>
+            <PRICE_WITH_VAT>471</PRICE_WITH_VAT>
+          </PRICELIST>
+        </PRICELISTS>
+      </PRICE>
+      <PRICE language="sk">
+        <PRICELISTS>
+          <PRICELIST>
+            <PRICE_WITH_VAT>471</PRICE_WITH_VAT>
+          </PRICELIST>
+        </PRICELISTS>
+      </PRICE>
+    </PRICES>
+    <CATEGORIES>
+<CATEGORY>
+<CODE>6B7E8811-23BA-44AA-84DD-EEFDFCBFF589</CODE>
+<NAME>Drogerie</NAME>
+<PRIMARY_YN>0</PRIMARY_YN>
+<POSITION>2</POSITION>
+</CATEGORY>
+<CATEGORY>
+<CODE>A01EDF9D-4BA4-4DBD-9C4C-A68639702E50</CODE>
+<NAME>Svíčky</NAME>
+<PRIMARY_YN>0</PRIMARY_YN>
+<POSITION>2</POSITION>
+</CATEGORY>
+<CATEGORY>
+<CODE>BBA2C06A-86BB-47D5-B337-CDF25CAF45A0</CODE>
+<NAME>Vonné svíčky</NAME>
+<PRIMARY_YN>1</PRIMARY_YN>
+<POSITION>2</POSITION>
+</CATEGORY>
+</CATEGORIES>
+    <IMAGES>
+      <IMAGE>
+        <URL>https://storage.googleapis.com/drogeriezde/0674623300139</URL>
+        <MAIN_YN>1</MAIN_YN>
+        <LIST_YN>1</LIST_YN>
+      </IMAGE>
+    </IMAGES>
+    <SEO_OPTIMALIZATION>
+      <SEO language="cz">
+        <SEO_TITLE>Vonná svíčka Cinnamon twist 680g | CHEERFUL CANDLE</SEO_TITLE>
+        <SEO_META_DESCRIPTION>Vonná svíčka Cinnamon twist 680g – intenzivní skořicová vůně, hoření až 110 h a opakovatelně využitelná skleněná dóza. Ideální pro útulný domov.</SEO_META_DESCRIPTION>
+      </SEO>
+      <SEO language="sk">
+        <SEO_TITLE>Vonná sviečka Cinnamon twist 680g | CHEERFUL CANDLE</SEO_TITLE>
+        <SEO_META_DESCRIPTION>Vonná sviečka Cinnamon twist 680g – intenzívna škoricová vôňa, horenie až 110 h a opakovane použiteľná sklenená dóza. Ideálna do útulného domova.</SEO_META_DESCRIPTION>
+      </SEO>
+    </SEO_OPTIMALIZATION>
+  </PRODUCT>
+  <PRODUCT>
+    <CODE>EX06440</CODE>
+    <ACTIVE_YN>1</ACTIVE_YN>
+    <CAN_ADD_TO_BASKET_YN>1</CAN_ADD_TO_BASKET_YN>
+    <EAN>8590786020160</EAN>
+    <STOCK>1452</STOCK>
+    <AVAILABILITY>Odesíláme 3.9.2025</AVAILABILITY>
+    <WEIGHT>28</WEIGHT>
+    <DESCRIPTIONS>
+      <DESCRIPTION language="cz">
+        <TITLE>Hřeben 325M - mix barev - 19,5 cm</TITLE>
+        <SHORT_DESCRIPTION>Praktický Hřeben 325M - mix barev - 19,5 cm, lehký a skladný doplněk do domácnosti. Díky délce 19,5 cm a hmotnosti 28 g je ideální na každodenní použití i cestování.</SHORT_DESCRIPTION>
+        <LONG_DESCRIPTION><![CDATA[<h2>Hřeben 325M - mix barev - 19,5 cm</h2>
+<p>Hřeben 325M - mix barev - 19,5 cm je jednoduchý a praktický doplněk do každé domácnosti. Nabízí kompaktní rozměr a nízkou hmotnost 28 g, takže se snadno vejde do tašky, zásuvky nebo koupelnové police. Je vhodný pro rychlé upravení účesu doma i na cestách a díky mixu barev v sadě působí přátelsky a barevně.</p>
+<h2>K čemu produkt slouží</h2>
+<p>Hlavním účelem Hřebu 325M - mix barev - 19,5 cm je nenáročná úprava vlasů a rychlé rozčesání. Díky své délce 19,5 cm poskytuje dostatečnou plochu pro pohodlnou manipulaci, a nízká hmotnost 28 g zaručuje, že jej můžete mít vždy při ruce bez zbytečné zátěže.</p>
+<h2>Jaké má benefity</h2>
+<ul>
+<li>Praktičnost: kompaktní rozměr 19,5 cm se hodí do kabelky, cestovní tašky nebo koupelnové přepážky.</li>
+<li>Lehkost: váha 28 g umožňuje pohodlné přenášení a použití bez únavy ruky.</li>
+<li>Mix barev: barevné provedení přináší živost a možnost rozlišit hřebeny v domácnosti.</li>
+<li>Všestrannost: vhodný pro rychlé upravení účesu doma i během dne mimo domov.</li>
+</ul>
+<h2>Jak jej správně používat</h2>
+<p>Použití Hřebenu 325M - mix barev - 19,5 cm je jednoduché a intuitivní. Držte hřeben pohodlně v ruce a jemnými tahy rozčesávejte vlasy od konečků směrem ke kořínkům, aby se minimalizovalo tahání. Díky délce 19,5 cm máte dobrou páku pro přesné upravení kratších i delších pramenů. Po použití hřeben uložte do suchého prostředí, kde nezabírá mnoho místa.</p>
+<h2>Proč si vybrat právě tento produkt</h2>
+<p>Hřeben 325M - mix barev - 19,5 cm spojuje jednoduchost, praktičnost a nízkou hmotnost. Pokud hledáte nenáročný, ale spolehlivý hřeben do domácnosti nebo do kabelky, tento model nabízí přesně to, co potřebujete: kompaktní rozměr, snadné použití a atraktivní mix barev, který potěší domácí i hosty.</p>
+<h2>Tipy pro maximální efektivitu / zkušenosti spotřebitelů</h2>
+<ul>
+<li>Pro snazší rozčesávání nejprve jemně odstraňte větší zacuchání prsty a poté použijte hřeben.</li>
+<li>Věnujte pozornost skladování; hřeben udržujte v suchu, aby zůstal čistý a připravený k použití.</li>
+<li>Využijte mix barev k označení hřebenů pro různé členy domácnosti nebo pro různé účely.</li>
+<li>Lehká hmotnost 28 g oceníte při cestování a při nošení v kabelce po celý den.</li>
+</ul>
+<h2>Shrnutí a motivace k nákupu</h2>
+<p>Hřeben 325M - mix barev - 19,5 cm je praktický a nenáročný pomocník, který usnadní každodenní péči o vlasy. Díky délce 19,5 cm a váze 28 g je ideální volbou pro domácí i mobilní použití. Barevný mix dodává radost a snadno se přizpůsobí vašemu stylu. Pokud hledáte spolehlivý, skladný a jednoduchý hřeben, tento model je dobrou volbou.</p>]]></LONG_DESCRIPTION>
+      </DESCRIPTION>
+      <DESCRIPTION language="sk">
+        <TITLE>Hrebeň 325M - mix farieb - 19,5 cm</TITLE>
+        <SHORT_DESCRIPTION>Praktický Hrebeň 325M - mix farieb - 19,5 cm, ľahký a skladný doplnok do domácnosti. Vďaka dĺžke 19,5 cm a hmotnosti 28 g ideálny na každodenné použitie aj na cesty.</SHORT_DESCRIPTION>
+        <LONG_DESCRIPTION><![CDATA[<h2>Hrebeň 325M - mix farieb - 19,5 cm</h2>
+<p>Hrebeň 325M - mix farieb - 19,5 cm je jednoduchý a praktický doplnok do každej domácnosti. Ponúka kompaktný rozmer a nízku hmotnosť 28 g, takže sa ľahko zmestí do tašky, zásuvky alebo kúpeľňovej poličky. Je vhodný na rýchle upravenie účesu doma aj na cestách a vďaka mixu farieb pôsobí príjemne a veselšie.</p>
+<h2>Na čo slúži produkt</h2>
+<p>Hlavným účelom Hrebeňa 325M - mix farieb - 19,5 cm je nenáročná úprava vlasov a rýchle rozčesanie. Vďaka dĺžke 19,5 cm poskytuje dostatočnú plochu pre pohodlnú manipuláciu, a nízka hmotnosť 28 g zaručuje, že ho môžete mať vždy po ruke bez zbytočného zaťaženia.</p>
+<h2>Aké má benefity</h2>
+<ul>
+<li>Praktickosť: kompaktný rozmer 19,5 cm sa hodí do kabelky, cestovnej tašky alebo kúpeľňovej poličky.</li>
+<li>Ľahkosť: hmotnosť 28 g umožňuje pohodlné prenášanie a používanie bez únavy ruky.</li>
+<li>Mix farieb: farebné prevedenie dodáva šmrnc a umožní rozlíšiť hrebeň v domácnosti.</li>
+<li>Všestrannosť: vhodný pre rýchle upravenie účesu doma aj počas dňa mimo domov.</li>
+</ul>
+<h2>Ako ho správne používať</h2>
+<p>Použitie Hrebeňa 325M - mix farieb - 19,5 cm je jednoduché a intuitívne. Držte hrebeň pohodlne v ruke a jemnými ťahmi rozčesávajte vlasy od končekov smerom ku korienkom, aby sa minimalizovalo ťahanie. Vďaka dĺžke 19,5 cm máte dobrú páku pre presné upravenie kratších aj dlhších prameňov. Po použití hrebeň uložte na suché miesto, kde nezaberie veľa miesta.</p>
+<h2>Prečo si vybrať práve tento produkt</h2>
+<p>Hrebeň 325M - mix farieb - 19,5 cm spája jednoduchosť, praktickosť a nízku hmotnosť. Ak hľadáte nenáročný, ale spoľahlivý hrebeň do domácnosti alebo do kabelky, tento model ponúka presne to, čo potrebujete: kompaktný rozmer, jednoduché používanie a atraktívny mix farieb, ktorý poteší domácnosť aj návštevy.</p>
+<h2>Tipy pre maximálnu efektivitu / skúsenosti spotrebiteľov</h2>
+<ul>
+<li>Pre ľahšie rozčesávanie najprv jemne odstráňte väčšie zacuchanie prstami a potom použite hrebeň.</li>
+<li>Dbajte na uskladnenie; hrebeň udržiavajte v suchu, aby ostal čistý a pripravený na použitie.</li>
+<li>Využite mix farieb na označenie hrebeňov pre rôzne členov domácnosti alebo pre rôzne účely.</li>
+<li>Ľahká hmotnosť 28 g oceníte pri cestovaní a pri nosení v kabelke počas dňa.</li>
+</ul>
+<h2>Zhrnutie a motivácia k nákupu</h2>
+<p>Hrebeň 325M - mix farieb - 19,5 cm je praktický a nenáročný pomocník, ktorý uľahčí každodennú starostlivosť o vlasy. Vďaka dĺžke 19,5 cm a hmotnosti 28 g je ideálnou voľbou pre domácnosť aj mobilné použitie. Farebný mix dodáva radosť a ľahko sa prispôsobí vášmu štýlu. Ak hľadáte spoľahlivý, skladný a jednoduchý hrebeň, tento model je dobrou voľbou.</p>]]></LONG_DESCRIPTION>
+      </DESCRIPTION>
+    </DESCRIPTIONS>
+    <PRICES>
+      <PRICE language="cz">
+        <PRICELISTS>
+          <PRICELIST>
+            <PRICE_WITH_VAT>16</PRICE_WITH_VAT>
+          </PRICELIST>
+        </PRICELISTS>
+      </PRICE>
+      <PRICE language="sk">
+        <PRICELISTS>
+          <PRICELIST>
+            <PRICE_WITH_VAT>16</PRICE_WITH_VAT>
+          </PRICELIST>
+        </PRICELISTS>
+      </PRICE>
+    </PRICES>
+    <CATEGORIES>
+<CATEGORY>
+<CODE>43B49231-11FE-46CA-AA57-796758F6AC35</CODE>
+<NAME>Domácnost</NAME>
+<PRIMARY_YN>0</PRIMARY_YN>
+<POSITION>2</POSITION>
+</CATEGORY>
+<CATEGORY>
+<CODE>E9DD3E21-E4C9-41F7-B669-8322328F149C</CODE>
+<NAME>Vybavení pro úklid</NAME>
+<PRIMARY_YN>0</PRIMARY_YN>
+<POSITION>2</POSITION>
+</CATEGORY>
+<CATEGORY>
+<CODE>3A373122-7A96-4944-A5FD-DA65BD070F96</CODE>
+<NAME>Úklidové pomůcky</NAME>
+<PRIMARY_YN>0</PRIMARY_YN>
+<POSITION>2</POSITION>
+</CATEGORY>
+<CATEGORY>
+<CODE>DCE32A0E-887F-47B8-819B-E8425B9CBBE8</CODE>
+<NAME>Kartáče a kartáčky</NAME>
+<PRIMARY_YN>1</PRIMARY_YN>
+<POSITION>2</POSITION>
+</CATEGORY>
+</CATEGORIES>
+    <IMAGES>
+      <IMAGE>
+        <URL>https://storage.googleapis.com/drogeriezde/8590786020160</URL>
+        <MAIN_YN>1</MAIN_YN>
+        <LIST_YN>1</LIST_YN>
+      </IMAGE>
+    </IMAGES>
+    <SEO_OPTIMALIZATION>
+      <SEO language="cz">
+        <SEO_TITLE>Hřeben 325M - mix barev - 19,5 cm | lehký a praktický</SEO_TITLE>
+        <SEO_META_DESCRIPTION>Hřeben 325M - mix barev - 19,5 cm: kompaktní, lehký a praktický hřeben do domácnosti i na cesty. Váha 28 g, ideální délka 19,5 cm.</SEO_META_DESCRIPTION>
+      </SEO>
+      <SEO language="sk">
+        <SEO_TITLE>Hrebeň 325M - mix farieb - 19,5 cm | ľahký a praktický</SEO_TITLE>
+        <SEO_META_DESCRIPTION>Hrebeň 325M - mix farieb - 19,5 cm: kompaktný, ľahký a praktický hrebeň do domácnosti aj na cesty. Hmotnosť 28 g, ideálna dĺžka 19,5 cm.</SEO_META_DESCRIPTION>
+      </SEO>
+    </SEO_OPTIMALIZATION>
+  </PRODUCT>
+  <PRODUCT>
+    <CODE>EX06452</CODE>
+    <ACTIVE_YN>1</ACTIVE_YN>
+    <CAN_ADD_TO_BASKET_YN>1</CAN_ADD_TO_BASKET_YN>
+    <EAN>8034055530528</EAN>
+    <STOCK>25</STOCK>
+    <AVAILABILITY>Odesíláme 5.9.2025</AVAILABILITY>
+    <WEIGHT>83</WEIGHT>
+    <DESCRIPTIONS>
+      <DESCRIPTION language="cz">
+        <TITLE>Tělová mlha Naní Vanilla &amp; Fruits 75 ml</TITLE>
+        <SHORT_DESCRIPTION>Tělová mlha Naní Vanilla &amp; Fruits 75 ml je lehký parfémovaný sprej, který jemně osvěží a provoní pokožku vanilkově-ovocnou vůní. Snadné použití po sprše i kdykoli během dne pro příjemný pocit svěžesti.</SHORT_DESCRIPTION>
+        <LONG_DESCRIPTION><![CDATA[<h2>Tělová mlha Naní Vanilla & Fruits 75 ml</h2>
+<p>Tělová mlha Naní Vanilla & Fruits 75 ml nabízí lehké a okamžité osvěžení s příjemnou vanilkově-ovocnou vůní. Je určena pro ženy, které chtějí během dne rychle provonět pokožku a přitom se cítit svěže a pohodově. Díky jemné mlze se vůně rozptýlí rovnoměrně a je příjemná i pro citlivější chvíle vašeho dne.</p>
+<h2>K čemu produkt slouží</h2>
+<p>Tělová mlha Naní Vanilla & Fruits 75 ml slouží k rychlému osvěžení těla a doplnění voňavého akcentu po koupeli, po cvičení nebo kdykoli během dne, kdy toužíte po příjemné vůni. Je ideální do kabelky nebo na cestování díky kompaktním 75 ml.</p>
+<h2>Jaké má benefity</h2>
+<ul>
+<li>Okamžité osvěžení pokožky bez mastného pocitu.</li>
+<li>Lehká vanilkově-ovocná vůně, která potěší během celého dne.</li>
+<li>Praktické balení 75 ml vhodné do kabelky nebo na cesty.</li>
+<li>Snadná a rychlá aplikace ve formě jemné mlhy.</li>
+<li>Skvělý krok do každodenní rutiny tělové kosmetiky a tělových sprejů.</li>
+</ul>
+<h2>Jak jej správně používat</h2>
+<p>Nanášejte tělovou mlhu Naní Vanilla & Fruits 75 ml po koupeli či sprchování na suchou pokožku nebo kdykoli během dne, kdy chcete dodat tělu vůni a pocit svěžesti. Stříkejte ze vzdálenosti několika desítek centimetrů, aby se mlha krásně rozptýlila. Produkt je navržen pro vnější použití a snadnou každodenní aplikaci.</p>
+<h2>Proč si vybrat právě tento produkt</h2>
+<p>Pokud hledáte praktický a příjemný způsob, jak dodat svému dni okamžité osvěžení a krásnou vůni bez komplikací, tělová mlha Naní Vanilla & Fruits 75 ml je ideální volbou. Kombinuje jednoduchost použití, kompaktní balení i dlouhotrvající vonný dojem, který nenásilně doplní vaši péči o tělo.</p>
+<h2>Tipy pro maximální efektivitu</h2>
+<ul>
+<li>Aplikujte po teplé sprše – póry jsou otevřené a vůně se lépe rozvine.</li>
+<li>Pro intenzivnější voňavý dojem stříkněte na oblečení nebo na vlasové konečky, kde se parfém udrží déle.</li>
+<li>Uchovávejte produkt v suchu a chladu mimo přímé slunce, aby vůně zůstala stabilní.</li>
+<li>Kombinujte s další tělovou kosmetikou ve stejném stylu pro soulad vůní během dne.</li>
+</ul>
+<h2>Shrnutí a motivace k nákupu</h2>
+<p>Tělová mlha Naní Vanilla & Fruits 75 ml je praktický, stylový a účinný pomocník pro každodenní péči o tělo. Pokud hledáte lehké osvěžení s příjemnou vanilkově-ovocnou vůní v kompaktním balení, tento produkt vám poskytne přesně to – jednoduchou aplikaci, svěží pocit a jemné provonění během celého dne. Vyzkoušejte tělovou mlhu jako rychlý způsob, jak proměnit rutinní chvíle v malé potěšení.</p>]]></LONG_DESCRIPTION>
+      </DESCRIPTION>
+      <DESCRIPTION language="sk">
+        <TITLE>Telová hmla Naní Vanilla &amp; Fruits 75 ml</TITLE>
+        <SHORT_DESCRIPTION>Telová hmla Naní Vanilla &amp; Fruits 75 ml je ľahký parfumovaný sprej, ktorý jemne osvieži a prevonia pokožku vanilkovo-ovocnou vôňou. Jednoduché aplikovanie po sprche aj počas dňa pre pocit sviežosti.</SHORT_DESCRIPTION>
+        <LONG_DESCRIPTION><![CDATA[<h2>Telová hmla Naní Vanilla & Fruits 75 ml</h2>
+<p>Telová hmla Naní Vanilla & Fruits 75 ml prináša ľahké a okamžité osvieženie s príjemnou vanilkovo-ovocnou vôňou. Je určená pre ženy, ktoré chcú rýchlo prevoniať pokožku a cítiť sa sviežo počas celého dňa. Vďaka jemnej hmle sa vôňa rozptýli rovnomerne a pôsobí nenásilne.</p>
+<h2>Na čo produkt slúži</h2>
+<p>Telová hmla Naní Vanilla & Fruits 75 ml slúži na rýchle osvieženie tela a doplnenie voňavého akcentu po sprche, po cvičení alebo kedykoľvek počas dňa, keď túžite po príjemnej vôni. Praktické balenie 75 ml sa zmestí do kabelky a je vhodné na cesty.</p>
+<h2>Aké má benefity</h2>
+<ul>
+<li>Okamžité osvieženie pokožky bez pocitu mastnoty.</li>
+<li>Jemná vanilkovo-ovocná vôňa, ktorá príjemne naladí.</li>
+<li>Kompaktné balenie 75 ml vhodné na každodenné nosenie.</li>
+<li>Jednoduchá aplikácia formou jemnej hmly.</li>
+<li>Skvelý doplnok do kategórie telových sprejov a telovej kozmetiky.</li>
+</ul>
+<h2>Ako ju správne používať</h2>
+<p>Nastriekajte telovú hmlu Naní Vanilla & Fruits 75 ml po kúpeli či sprche na suchú pokožku alebo kedykoľvek počas dňa, keď chcete dodať telu vôňu a pocit sviežosti. Striekajte zo vzdialenosti niekoľkých desiatok centimetrov, aby sa hmla pekne rozptýlila. Produkt je navrhnutý pre vonkajšie použitie a pohodlné každodenné aplikovanie.</p>
+<h2>Prečo si vybrať práve tento produkt</h2>
+<p>Ak hľadáte praktický a príjemný spôsob, ako si dopriať okamžité osvieženie a jemnú vôňu bez zbytočných krokov, telová hmla Naní Vanilla & Fruits 75 ml je výbornou voľbou. Ponúka jednoduché použitie, prenosné balenie a prirodzený voňavý dojem, ktorý podporí vašu osobnú starostlivosť.</p>
+<h2>Tipy pre maximálny efekt</h2>
+<ul>
+<li>Aplikujte po teplej sprche – póry sú otvorené a vôňa sa lepšie rozvinie.</li>
+<li>Pre intenzívnejší účinok nastriekajte na oblečenie alebo na končeky vlasov, kde vôňa vydrží dlhšie.</li>
+<li>Skladujte v suchu a chlade, mimo priameho slnka, aby vôňa pretrvala.</li>
+<li>Kombinujte s ďalšími telovými výrobkami rovnakej línie pre harmonický voňavý výsledok.</li>
+</ul>
+<h2>Zhrnutie a vyzvanie na nákup</h2>
+<p>Telová hmla Naní Vanilla & Fruits 75 ml je praktický a štýlový pomocník pre každodennú starostlivosť. Ak chcete ľahké osvieženie s príjemnou vanilkovo-ovocnou vôňou a kompaktným balením, tento produkt vám dodá presne to – jednoduchú aplikáciu, svieži pocit a jemné prevonia počas celého dňa. Doprajte si malú radosť, ktorá spríjemní každý deň.</p>]]></LONG_DESCRIPTION>
+      </DESCRIPTION>
+    </DESCRIPTIONS>
+    <PRICES>
+      <PRICE language="cz">
+        <PRICELISTS>
+          <PRICELIST>
+            <PRICE_WITH_VAT>95</PRICE_WITH_VAT>
+          </PRICELIST>
+        </PRICELISTS>
+      </PRICE>
+      <PRICE language="sk">
+        <PRICELISTS>
+          <PRICELIST>
+            <PRICE_WITH_VAT>95</PRICE_WITH_VAT>
           </PRICELIST>
         </PRICELISTS>
       </PRICE>
@@ -444,294 +895,257 @@
 <CODE>CECC70B3-0BD9-40EA-8262-6A71E64E89D4</CODE>
 <NAME>Kosmetika</NAME>
 <PRIMARY_YN>0</PRIMARY_YN>
-<POSITION>3</POSITION>
+<POSITION>2</POSITION>
 </CATEGORY>
 <CATEGORY>
-<CODE>63E6F29F-78D7-45A5-B158-FEA662093C52</CODE>
-<NAME>Pleťová kosmetika</NAME>
+<CODE>4944BE59-180E-4BC2-B3B8-800D837D98AE</CODE>
+<NAME>Tělová kosmetika</NAME>
 <PRIMARY_YN>0</PRIMARY_YN>
-<POSITION>3</POSITION>
+<POSITION>2</POSITION>
 </CATEGORY>
 <CATEGORY>
-<CODE>3BE78746-DF2C-454A-AE8C-1168B1D38381</CODE>
-<NAME>Pleťové masky</NAME>
-<PRIMARY_YN>0</PRIMARY_YN>
-<POSITION>3</POSITION>
-</CATEGORY>
-<CATEGORY>
-<CODE>283D3EA1-E4FE-47CA-AB05-4EBA7B204641</CODE>
-<NAME>Čisticí masky na obličej</NAME>
+<CODE>ED2D97D0-3144-4E66-A4A6-8BF8C40FCC78</CODE>
+<NAME>Tělové spreje</NAME>
 <PRIMARY_YN>1</PRIMARY_YN>
-<POSITION>3</POSITION>
+<POSITION>2</POSITION>
 </CATEGORY>
 </CATEGORIES>
     <IMAGES>
       <IMAGE>
-        <URL>https://storage.googleapis.com/drogeriezde/5012251012263</URL>
+        <URL>https://storage.googleapis.com/drogeriezde/8034055530528</URL>
         <MAIN_YN>1</MAIN_YN>
         <LIST_YN>1</LIST_YN>
       </IMAGE>
     </IMAGES>
     <SEO_OPTIMALIZATION>
       <SEO language="cz">
-        <SEO_TITLE>Beauty Formulas jílová maska s uhlím 100ml</SEO_TITLE>
-        <SEO_META_DESCRIPTION>Jílová maska s černým uhlím pro hloubkové čištění pleti. Zanechává pokožku svěží a čistou. Objednejte online s dopravou zdarma.</SEO_META_DESCRIPTION>
+        <SEO_TITLE>Tělová mlha Naní Vanilla &amp; Fruits 75 ml | osvěžení</SEO_TITLE>
+        <SEO_META_DESCRIPTION>Lehká tělová mlha Naní Vanilla &amp; Fruits 75 ml osvěží a provoní pokožku vanilkově-ovocnou vůní. Ideální po sprše i kdykoli během dne.</SEO_META_DESCRIPTION>
       </SEO>
       <SEO language="sk">
-        <SEO_TITLE>Beauty Formulas ílová maska s uhlím 100ml</SEO_TITLE>
-        <SEO_META_DESCRIPTION>Ílová maska s čiernym uhlím pre hĺbkové čistenie pleti. Zanecháva pokožku sviežu a čistú. Objednajte online s dopravou zadarmo.</SEO_META_DESCRIPTION>
+        <SEO_TITLE>Telová hmla Naní Vanilla &amp; Fruits 75 ml | osvieženie</SEO_TITLE>
+        <SEO_META_DESCRIPTION>Ľahká telová hmla Naní Vanilla &amp; Fruits 75 ml osvieži a prevonia pokožku vanilkovo-ovocnou vôňou. Skvelá po sprche a počas dňa.</SEO_META_DESCRIPTION>
       </SEO>
     </SEO_OPTIMALIZATION>
-    <METAS>
-      <META type="input">
-        <META_KEY>guid</META_KEY>
-        <META_VALUES>
-          <META_VALUE language="cz">5093B54B-77DD-438A-B5E7-870646A2210A</META_VALUE>
-          <META_VALUE language="sk">5093B54B-77DD-438A-B5E7-870646A2210A</META_VALUE>
-        </META_VALUES>
-      </META>
-      <META type="input">
-        <META_KEY>availability_color</META_KEY>
-        <META_VALUES>
-          <META_VALUE language="cz">ff4757</META_VALUE>
-          <META_VALUE language="sk">ff4757</META_VALUE>
-        </META_VALUES>
-      </META>
-    </METAS>
   </PRODUCT>
   <PRODUCT>
-    <CODE>K07289</CODE>
-    <ACTIVE_YN>1</ACTIVE_YN>
-    <CAN_ADD_TO_BASKET_YN>0</CAN_ADD_TO_BASKET_YN>
-    <MANUFACTURER>GG</MANUFACTURER>
-    <EAN>4311501720073</EAN>
-    <STOCK>0</STOCK>
-    <AVAILABILITY>Na dotaz</AVAILABILITY>
-    <WEIGHT>843</WEIGHT>
-    <VATS>
-      <VAT language="cz">12</VAT>
-      <VAT language="sk">12</VAT>
-    </VATS>
-    <DESCRIPTIONS>
-      <DESCRIPTION language="cz">
-        <TITLE>GG Nougat Bits plněné polštářky s krémovou nugátovou náplní 750g</TITLE>
-        <SHORT_DESCRIPTION>GG Nougat Bits jsou křupavé cereální polštářky plněné 42% krémovou nugátovou náplní s lískovými oříšky. Ideální pro rychlou snídani nebo svačinu. Praktické balení udržuje čerstvost.</SHORT_DESCRIPTION>
-        <LONG_DESCRIPTION><![CDATA[GG Nougat Bits plněné polštářky s krémovou nugátovou náplní jsou ideální volbou pro milovníky sladkého. Křupavé cereální polštářky obsahují 42% krémovou náplň s nugátovou příchutí a 12% lískových oříšků, což zajišťuje bohatou chuť. Díky certifikaci Rainforest Alliance podporují udržitelné pěstování kakaa. Praktické balení udržuje čerstvost a křupavost. Skvělé s mlékem, jogurtem nebo jako samostatná svačina. Složení: výrobek z obilí (PŠENIČNÁ MOUKA, cukr, CELOZRNNÁ PŠENIČNÁ MOUKA, celozrnná kukuřičná mouka, celozrnná rýžová mouka, nízkotučný kakaový prášek, kuchyňská sůl), smetanová náplň s nugátovou příchutí (cukr, palmový tuk, řepkový olej, PŠENIČNÁ mouka, drcené OŘECHY, odtučnění kakaový prášek, emulgator:lecitin, přírodní aroma. Produkt může obsahovat stopy ARAŠIDŮ, MLÉKA, OŘECHŮ, SEZAMU a SÓJI. Alergeny jsou vyznačeny velkým písmem. Výživová hodnota ve 100g produktu v kJ/kcal 2009/480, tuky 22g z toho nasycené masatné kyseliny 6,3g, sacharidy 61g z toho cukr 27g, vláknina 4,9g.bílkovina 7g, sůl 0,30g.]]></LONG_DESCRIPTION>
-      </DESCRIPTION>
-      <DESCRIPTION language="sk">
-        <TITLE>GG Nougat Bits plnené vankúšiky s krémovou nugátovou náplňou 750g</TITLE>
-        <SHORT_DESCRIPTION>GG Nougat Bits sú chrumkavé cereálne vankúšiky plnené 42% krémovou nugátovou náplňou s lieskovými orieškami. Ideálne na rýchle raňajky alebo desiatu. Praktické balenie zachováva čerstvosť.</SHORT_DESCRIPTION>
-        <LONG_DESCRIPTION><![CDATA[GG Nougat Bits plnené vankúšiky s krémovou nugátovou náplňou sú ideálnou voľbou pre milovníkov sladkého. Chrumkavé cereálne vankúšiky obsahujú 42% krémovú náplň s nugátovou príchuťou a 12% lieskových orieškov, čo zaisťuje bohatú chuť. Vďaka certifikácii Rainforest Alliance podporujú udržateľné pestovanie kakaa. Praktické balenie zachováva čerstvosť a chrumkavosť. Skvelé s mliekom, jogurtom alebo ako samostatná desiata. Složení: výrobek z obilí (PŠENIČNÁ MOUKA, cukr, CELOZRNNÁ PŠENIČNÁ MOUKA, celozrnná kukuřičná mouka, celozrnná rýžová mouka, nízkotučný kakaový prášek, kuchyňská sůl), smetanová náplň s nugátovou příchutí (cukr, palmový tuk, řepkový olej, PŠENIČNÁ mouka, drcené OŘECHY, odtučnění kakaový prášek, emulgator:lecitin, přírodní aroma. Produkt může obsahovat stopy ARAŠIDŮ, MLÉKA, OŘECHŮ, SEZAMU a SÓJI. Alergeny jsou vyznačeny velkým písmem. Výživová hodnota ve 100g produktu v kJ/kcal 2009/480, tuky 22g z toho nasycené masatné kyseliny 6,3g, sacharidy 61g z toho cukr 27g, vláknina 4,9g.bílkovina 7g, sůl 0,30g.]]></LONG_DESCRIPTION>
-      </DESCRIPTION>
-    </DESCRIPTIONS>
-    <PRICES>
-      <PRICE language="cz">
-        <PRICELISTS>
-          <PRICELIST>
-            <PRICE_WITH_VAT>109</PRICE_WITH_VAT>
-          </PRICELIST>
-        </PRICELISTS>
-      </PRICE>
-      <PRICE language="sk">
-        <PRICELISTS>
-          <PRICELIST>
-            <PRICE_WITH_VAT>109</PRICE_WITH_VAT>
-          </PRICELIST>
-        </PRICELISTS>
-      </PRICE>
-    </PRICES>
-    <CATEGORIES>
-<CATEGORY>
-<CODE>2145DAE0-C507-4614-BF78-CD42DD46EAB4</CODE>
-<NAME>Potraviny</NAME>
-<PRIMARY_YN>0</PRIMARY_YN>
-<POSITION>3</POSITION>
-</CATEGORY>
-<CATEGORY>
-<CODE>7FD9FA16-EC6E-450E-B927-79B2E0D9BE96</CODE>
-<NAME>Sladkosti</NAME>
-<PRIMARY_YN>0</PRIMARY_YN>
-<POSITION>3</POSITION>
-</CATEGORY>
-<CATEGORY>
-<CODE>BADA53B6-0C23-4390-AED0-B899A0A4FA34</CODE>
-<NAME>Müsli a cereálie</NAME>
-<PRIMARY_YN>0</PRIMARY_YN>
-<POSITION>3</POSITION>
-</CATEGORY>
-<CATEGORY>
-<CODE>DF822A60-4356-4424-B4A7-23170C40E0E7</CODE>
-<NAME>Snídaňové cereálie</NAME>
-<PRIMARY_YN>1</PRIMARY_YN>
-<POSITION>3</POSITION>
-</CATEGORY>
-</CATEGORIES>
-    <IMAGES>
-      <IMAGE>
-        <URL>https://storage.googleapis.com/drogeriezde/4311501720073</URL>
-        <MAIN_YN>1</MAIN_YN>
-        <LIST_YN>1</LIST_YN>
-      </IMAGE>
-    </IMAGES>
-    <SEO_OPTIMALIZATION>
-      <SEO language="cz">
-        <SEO_TITLE>GG Nougat Bits 750g - křupavé polštářky</SEO_TITLE>
-        <SEO_META_DESCRIPTION>GG Nougat Bits s krémovou nugátovou náplní a lískovými oříšky. Ideální pro snídani nebo svačinu. Objednejte online s dopravou zdarma.</SEO_META_DESCRIPTION>
-      </SEO>
-      <SEO language="sk">
-        <SEO_TITLE>GG Nougat Bits 750g - chrumkavé vankúšiky</SEO_TITLE>
-        <SEO_META_DESCRIPTION>GG Nougat Bits s krémovou nugátovou náplňou a lieskovými orieškami. Ideálne na raňajky alebo desiatu. Objednajte online s dopravou zdarma.</SEO_META_DESCRIPTION>
-      </SEO>
-    </SEO_OPTIMALIZATION>
-    <METAS>
-      <META type="input">
-        <META_KEY>guid</META_KEY>
-        <META_VALUES>
-          <META_VALUE language="cz">780B4C7B-1FEE-46C9-9BEE-8D8FA454D209</META_VALUE>
-          <META_VALUE language="sk">780B4C7B-1FEE-46C9-9BEE-8D8FA454D209</META_VALUE>
-        </META_VALUES>
-      </META>
-      <META type="input">
-        <META_KEY>availability_color</META_KEY>
-        <META_VALUES>
-          <META_VALUE language="cz">ff4757</META_VALUE>
-          <META_VALUE language="sk">ff4757</META_VALUE>
-        </META_VALUES>
-      </META>
-    </METAS>
-  </PRODUCT>
-  <PRODUCT>
-    <CODE>K09629</CODE>
+    <CODE>EX06443</CODE>
     <ACTIVE_YN>1</ACTIVE_YN>
     <CAN_ADD_TO_BASKET_YN>1</CAN_ADD_TO_BASKET_YN>
-    <MANUFACTURER>PanAroma</MANUFACTURER>
-    <EAN>5053249251769</EAN>
-    <STOCK>16</STOCK>
-    <AVAILABILITY>Skladem</AVAILABILITY>
-    <WEIGHT>155</WEIGHT>
-    <VATS>
-      <VAT language="cz">21</VAT>
-      <VAT language="sk">21</VAT>
-    </VATS>
+    <EAN>8721073608048</EAN>
+    <STOCK>2</STOCK>
+    <AVAILABILITY>Odesíláme 4.9.2025</AVAILABILITY>
+    <WEIGHT>330</WEIGHT>
     <DESCRIPTIONS>
       <DESCRIPTION language="cz">
-        <TITLE>PanAroma Vonné čajové svíčky Pure Jasmine 16ks</TITLE>
-        <SHORT_DESCRIPTION>PanAroma vonné čajové svíčky s esenciálními oleji přinášejí příjemnou atmosféru do vašeho domova. Kvalitní vosk a jemná vůně jasmínu zaručují relaxaci.</SHORT_DESCRIPTION>
-        <LONG_DESCRIPTION><![CDATA[PanAroma vonné čajové svíčky Pure Jasmine jsou ideální volbou pro ty, kteří chtějí vytvořit útulnou a relaxační atmosféru ve svém domově. Tyto svíčky jsou vyrobeny z kvalitního vosku a obsahují esenciální oleje, které uvolňují jemnou a příjemnou vůni jasmínu. Každá svíčka je umístěna v hliníkovém obalu, který se při zapálení zahřívá, proto je důležité ji umístit na nehořlavý povrch nebo do svícnu. Použití: svíčku vždy postavte na nehořlavý materiál nebo svícen. Svíčka je umístěna v hliníkovém oblalu, který se při zapálení svíčky zahřívá.]]></LONG_DESCRIPTION>
+        <TITLE>Disney Lion King 1L 2v1 pěna do koupele+sprchový gel</TITLE>
+        <SHORT_DESCRIPTION>Sprchový gel a pěna do koupele 2v1 v praktickém 1L balení s pumpičkou — vytváří bohatou pěnu, jemně čistí pokožku a zanechává ji svěží. Ideální volba pro rodinnou koupel i každodenní sprchu.</SHORT_DESCRIPTION>
+        <LONG_DESCRIPTION><![CDATA[<h2>Disney Lion King 1L 2v1 pěna do koupele+sprchový gel</h2>
+<p>Disney Lion King 1L 2v1 pěna do koupele+sprchový gel nabízí praktické a ekonomické řešení pro každodenní hygienu i rodinné koupání. Tento produkt kombinuje výhody jemného sprchového gelu a bohaté pěny do koupele v jednom balení, které usnadní rutinu při koupání dětí i dospělých. Díky pumpičce je dávkování rychlé a bez zbytečného nepořádku.</p>
+<h2>K čemu produkt slouží</h2>
+<p>Tento 2v1 produkt slouží jako univerzální prostředek pro očistu těla i příjemné pěnění vany. Je určen pro každodenní použití při sprchování a také jako pěna do koupele pro relaxaci nebo zábavu dětí. Disney motiv Lion King dodává koupeli hravý element, který ocení především rodiny s menšími dětmi.</p>
+<h2>Jaké má benefity</h2>
+<ul>
+<li>Praktické 2v1 řešení: jeden produkt pro sprchování i koupel.</li>
+<li>Velké 1L balení šetří peníze a prostor v koupelně.</li>
+<li>Pumpička zajišťuje snadné a přesné dávkování bez plýtvání.</li>
+<li>Bohatá pěna pro příjemný a zábavný koupelnový zážitek.</li>
+<li>Jemné čištění pokožky a svěží pocit po použití.</li>
+<li>Design s motivem Disney Lion King, který potěší děti i dospělé.</li>
+</ul>
+<h2>Jak jej správně používat</h2>
+<ul>
+<li>Pro sprchování: naneste malé množství přímo na mokrou pokožku nebo sprchovou houbičku, napěňte a opláchněte.</li>
+<li>Pro koupel: naplňte vanu vodou a přidejte několik stlačení pumpičky pro bohatou pěnu.</li>
+<li>Pro děti: používejte pod dohledem dospělé osoby, dávku upravte podle potřeby a velikosti vany.</li>
+<li>Skladujte produkt na suchém místě mimo přímé slunce a pevně uzavřený.</li>
+</ul>
+<h2>Proč si vybrat právě tento produkt</h2>
+<p>Disney Lion King 1L 2v1 pěna do koupele+sprchový gel kombinuje praktičnost, objem a atraktivní design. Velké balení je ekonomické pro domácnosti a pumpička zjednodušuje používání i pro seniory a rodiče s dětmi. Produkt je navržen tak, aby z každodenní očisty vytvořil příjemný okamžik.</p>
+<h2>Tipy pro maximální efektivitu</h2>
+<ul>
+<li>Pro bohatší pěnu přidejte produkt postupně během plnění vany.</li>
+<li>Použijte menší množství při každodenním sprchování, abyste prodloužili výdrž balení.</li>
+<li>Zapojte děti do koupacího rituálu s motivem Lion King, aby byla hygiena zábava.</li>
+</ul>
+<h2>Shrnutí a motivace k nákupu</h2>
+<p>Disney Lion King 1L 2v1 pěna do koupele+sprchový gel je chytrou volbou pro ty, kdo hledají kombinaci praktičnosti a příjemného koupacího zážitku. Velké balení, pumpička a oblíbený motiv dělají z tohoto produktu ideální doplněk každé koupelny. Vyzkoušejte ho a udělejte z koupání chvíli, na kterou se budou těšit všichni členové rodiny.</p>]]></LONG_DESCRIPTION>
       </DESCRIPTION>
       <DESCRIPTION language="sk">
-        <TITLE>PanAroma Vonné čajové sviečky Pure Jasmine 16ks</TITLE>
-        <SHORT_DESCRIPTION>PanAroma vonné čajové sviečky s esenciálnymi olejmi prinášajú príjemnú atmosféru do vášho domova. Kvalitný vosk a jemná vôňa jazmínu zaručujú relaxáciu.</SHORT_DESCRIPTION>
-        <LONG_DESCRIPTION><![CDATA[PanAroma vonné čajové sviečky Pure Jasmine sú ideálnou voľbou pre tých, ktorí chcú vytvoriť útulnú a relaxačnú atmosféru vo svojom domove. Tieto sviečky sú vyrobené z kvalitného vosku a obsahujú esenciálne oleje, ktoré uvoľňujú jemnú a príjemnú vôňu jazmínu. Každá sviečka je umiestnená v hliníkovom obale, ktorý sa pri zapálení zahrieva, preto je dôležité ju umiestniť na nehorľavý povrch alebo do svietnika. Použití: svíčku vždy postavte na nehořlavý materiál nebo svícen. Svíčka je umístěna v hliníkovém oblalu, který se při zapálení svíčky zahřívá.]]></LONG_DESCRIPTION>
+        <TITLE>Disney Lion King 1L 2v1 pena do kúpeľa + sprchový gél</TITLE>
+        <SHORT_DESCRIPTION>Sprchový gél a pena do kúpeľa 2v1 v praktickom 1L balení s pumpičkou — vytvára bohatú penu, jemne čistí pokožku a zanecháva ju sviežu. Ideálna voľba pre rodinnú kúpeľ aj každodennú sprchu.</SHORT_DESCRIPTION>
+        <LONG_DESCRIPTION><![CDATA[<h2>Disney Lion King 1L 2v1 pena do kúpeľa + sprchový gél</h2>
+<p>Disney Lion King 1L 2v1 pena do kúpeľa + sprchový gél prináša praktické a ekonomické riešenie pre každodennú hygienu aj rodinné kúpanie. Tento produkt spája výhody jemného sprchového gélu a bohatej peny do kúpeľa v jednom balení, čo zjednodušuje rituál pri kúpaní detí i dospelých. Vďaka pumpičke je dávkovanie rýchle a bez zbytočného neporiadku.</p>
+<h2>Na čo produkt slúži</h2>
+<p>Produkt 2v1 slúži ako univerzálny prostriedok na očistu tela a zároveň ako pena do kúpeľa pre oddych alebo zábavu. Hodí sa na každodenné použitie pri sprchovaní i na relaxačné kúpele. Motív Disney Lion King prináša kúpeľni hravý prvok, ktorý poteší najmä rodiny s malými deťmi.</p>
+<h2>Aké má benefity</h2>
+<ul>
+<li>Praktické 2v1: jeden produkt pre sprchu aj kúpeľ.</li>
+<li>Veľké 1L balenie šetrí peniaze a miesto v kúpeľni.</li>
+<li>Pumpička zabezpečuje jednoduché a presné dávkovanie.</li>
+<li>Bohatá pena pre príjemný a zábavný kúpeľový zážitok.</li>
+<li>Jemné čistenie pokožky a svieži pocit po použití.</li>
+<li>Obľúbený Disney dizajn, ktorý osloví deti aj dospelých.</li>
+</ul>
+<h2>Ako ho správne používať</h2>
+<ul>
+<li>Pre sprchovanie: naneste malé množstvo na mokrú pokožku alebo sprchovú špongiu, napeníte a opláchnite.</li>
+<li>Pre kúpeľ: naplňte vaňu vodou a pridajte niekoľko stlačení pumpičky pre bohatú penu.</li>
+<li>Pre deti: používajte pod dohľadom dospelej osoby, dávku prispôsobte potrebám a veľkosti vane.</li>
+<li>Skladujte na suchom mieste mimo priameho slnka a uzatvorené.</li>
+</ul>
+<h2>Prečo si vybrať práve tento produkt</h2>
+<p>Disney Lion King 1L 2v1 pena do kúpeľa + sprchový gél kombinuje praktickosť, objem a atraktívny dizajn. Veľké balenie je ekonomické pre domácnosti a pumpička uľahčuje používanie pre starších ľudí aj rodičov s deťmi. Produkt je navrhnutý tak, aby z každodenného umývania vytvoril príjemný okamih.</p>
+<h2>Tipy pre maximálnu efektivitu</h2>
+<ul>
+<li>Pre bohatšiu penu pridávajte produkt postupne počas plnenia vane.</li>
+<li>Používajte menšie množstvo pri každodennom sprchovaní, aby ste predĺžili výdrž balenia.</li>
+<li>Zapojte deti do kúpeľného rituálu s motívom Lion King, aby bola hygiena zábava.</li>
+</ul>
+<h2>Zhrnutie a motivácia k nákupu</h2>
+<p>Disney Lion King 1L 2v1 pena do kúpeľa + sprchový gél je praktická voľba pre tých, ktorí hľadajú kombináciu úsporného balenia a príjemného kúpeľového zážitku. Veľké balenie, pumpička a obľúbený motív robia z tohto produktu ideálny doplnok každej kúpeľne. Vyskúšajte ho a spravte z kúpeľa chvíľu, na ktorú sa budú tešiť všetci členovia rodiny.</p>]]></LONG_DESCRIPTION>
       </DESCRIPTION>
     </DESCRIPTIONS>
     <PRICES>
       <PRICE language="cz">
         <PRICELISTS>
           <PRICELIST>
-            <PRICE_WITH_VAT>69.9</PRICE_WITH_VAT>
+            <PRICE_WITH_VAT>146</PRICE_WITH_VAT>
           </PRICELIST>
         </PRICELISTS>
       </PRICE>
       <PRICE language="sk">
         <PRICELISTS>
           <PRICELIST>
-            <PRICE_WITH_VAT>69.9</PRICE_WITH_VAT>
+            <PRICE_WITH_VAT>146</PRICE_WITH_VAT>
           </PRICELIST>
         </PRICELISTS>
       </PRICE>
     </PRICES>
     <CATEGORIES>
 <CATEGORY>
-<CODE>6B7E8811-23BA-44AA-84DD-EEFDFCBFF589</CODE>
-<NAME>Drogerie</NAME>
+<CODE>CECC70B3-0BD9-40EA-8262-6A71E64E89D4</CODE>
+<NAME>Kosmetika</NAME>
 <PRIMARY_YN>0</PRIMARY_YN>
-<POSITION>1</POSITION>
+<POSITION>2</POSITION>
 </CATEGORY>
 <CATEGORY>
-<CODE>A01EDF9D-4BA4-4DBD-9C4C-A68639702E50</CODE>
-<NAME>Svíčky</NAME>
+<CODE>4944BE59-180E-4BC2-B3B8-800D837D98AE</CODE>
+<NAME>Tělová kosmetika</NAME>
 <PRIMARY_YN>0</PRIMARY_YN>
-<POSITION>1</POSITION>
+<POSITION>2</POSITION>
 </CATEGORY>
 <CATEGORY>
-<CODE>F62A9886-EB89-4449-9201-6425C7A638F8</CODE>
-<NAME>Čajové svíčky</NAME>
+<CODE>FDBF065E-A190-45B7-AFDB-1CBFC77C57EB</CODE>
+<NAME>Sprchové gely, oleje a pěny</NAME>
+<PRIMARY_YN>0</PRIMARY_YN>
+<POSITION>2</POSITION>
+</CATEGORY>
+<CATEGORY>
+<CODE>24F872F9-C247-4A6A-B484-466DECE2BF3F</CODE>
+<NAME>Sprchové pěny a mléka</NAME>
 <PRIMARY_YN>1</PRIMARY_YN>
-<POSITION>1</POSITION>
+<POSITION>2</POSITION>
 </CATEGORY>
 </CATEGORIES>
     <IMAGES>
       <IMAGE>
-        <URL>https://storage.googleapis.com/drogeriezde/5053249251769</URL>
+        <URL>https://storage.googleapis.com/drogeriezde/8721073608048</URL>
         <MAIN_YN>1</MAIN_YN>
         <LIST_YN>1</LIST_YN>
       </IMAGE>
     </IMAGES>
     <SEO_OPTIMALIZATION>
       <SEO language="cz">
-        <SEO_TITLE>PanAroma Vonné čajové svíčky Pure Jasmine</SEO_TITLE>
-        <SEO_META_DESCRIPTION>Objevte vůni jasmínu s PanAroma svíčkami. Kvalitní vosk a esenciální oleje pro relaxaci. Objednejte online s dopravou zdarma.</SEO_META_DESCRIPTION>
+        <SEO_TITLE>Disney Lion King 1L 2v1 pěna do koupele+sprchový gel</SEO_TITLE>
+        <SEO_META_DESCRIPTION>Disney Lion King 1L 2v1 pěna do koupele+sprchový gel — bohatá pěna, jemné čištění a snadné dávkování díky pumpičce. Ideální pro rodinnou koupel.</SEO_META_DESCRIPTION>
       </SEO>
       <SEO language="sk">
-        <SEO_TITLE>PanAroma Vonné čajové sviečky Pure Jasmine</SEO_TITLE>
-        <SEO_META_DESCRIPTION>Objavte vôňu jazmínu s PanAroma sviečkami. Kvalitný vosk a esenciálne oleje pre relaxáciu. Objednajte online s dopravou zadarmo.</SEO_META_DESCRIPTION>
+        <SEO_TITLE>Disney Lion King 1L 2v1 pena do kúpeľa + sprchový gél</SEO_TITLE>
+        <SEO_META_DESCRIPTION>Disney Lion King 1L 2v1 pena do kúpeľa + sprchový gél — bohatá pena, jemné čistenie a jednoduché dávkovanie vďaka pumpičke. Ideálne pre rodinný kúpeľ.</SEO_META_DESCRIPTION>
       </SEO>
     </SEO_OPTIMALIZATION>
-    <METAS>
-      <META type="input">
-        <META_KEY>guid</META_KEY>
-        <META_VALUES>
-          <META_VALUE language="cz">52167AF3-46AA-4C34-92BE-7A5E63A4C41B</META_VALUE>
-          <META_VALUE language="sk">52167AF3-46AA-4C34-92BE-7A5E63A4C41B</META_VALUE>
-        </META_VALUES>
-      </META>
-      <META type="input">
-        <META_KEY>availability_color</META_KEY>
-        <META_VALUES>
-          <META_VALUE language="cz">2bff9c</META_VALUE>
-          <META_VALUE language="sk">2bff9c</META_VALUE>
-        </META_VALUES>
-      </META>
-    </METAS>
   </PRODUCT>
   <PRODUCT>
-    <CODE>K10179</CODE>
+    <CODE>EX06432</CODE>
     <ACTIVE_YN>1</ACTIVE_YN>
     <CAN_ADD_TO_BASKET_YN>1</CAN_ADD_TO_BASKET_YN>
-    <MANUFACTURER>JUMBO</MANUFACTURER>
-    <EAN>8594002960506</EAN>
-    <STOCK>3</STOCK>
-    <AVAILABILITY>Skladem</AVAILABILITY>
-    <WEIGHT>5000</WEIGHT>
-    <VATS>
-      <VAT language="cz">21</VAT>
-      <VAT language="sk">21</VAT>
-    </VATS>
+    <EAN>5900785890115</EAN>
+    <STOCK>485</STOCK>
+    <AVAILABILITY>Odesíláme 5.9.2025</AVAILABILITY>
+    <WEIGHT>173</WEIGHT>
     <DESCRIPTIONS>
       <DESCRIPTION language="cz">
-        <TITLE>JUMBO 280 toaletní papír 1-vrstvý recykl 6x225m</TITLE>
-        <SHORT_DESCRIPTION>JUMBO 280 toaletní papír je ideální volbou pro ty, kteří hledají ekologické řešení. Tento jednovrstvý papír je vyroben z recyklovaného materiálu a je vhodný do zásobníků. Balení obsahuje 6 rolí, každá s délkou 225 metrů, což zajišťuje dlouhodobou výdrž a ekonomickou spotřebu.</SHORT_DESCRIPTION>
-        <LONG_DESCRIPTION><![CDATA[JUMBO 280 toaletní papír nabízí skvělou kombinaci kvality a ekologické odpovědnosti. Je vyroben z recyklovaného materiálu, což přispívá k ochraně životního prostředí. Jednovrstvý design je ideální pro použití v komerčních i domácích zásobnících, kde je potřeba dlouhá výdrž a ekonomická spotřeba. Balení obsahuje 6 rolí, každá s délkou 225 metrů, což zajišťuje, že vám papír vydrží opravdu dlouho. Uvedená cena je za celé balení.]]></LONG_DESCRIPTION>
+        <TITLE>AROla gelový osvěžovač vzduchu - květy 150 g</TITLE>
+        <SHORT_DESCRIPTION>Jemný gelový osvěžovač vzduchu AROla s květinovou vůní (150 g) pro rychlé a diskrétní provonění domácnosti, koupelny či šatny. Praktické řešení pro každodenní osvěžení vzduchu bez aerosolů.</SHORT_DESCRIPTION>
+        <LONG_DESCRIPTION><![CDATA[<h2>AROla gelový osvěžovač vzduchu - květy 150 g</h2>
+<p>AROla gelový osvěžovač vzduchu - květy 150 g je jednoduchý a efektivní pomocník pro příjemné prostředí v domácnosti. Tento gelový osvěžovač vzduchu nabízí diskrétní provonění místností, kde preferujete bezproudové a nenápadné řešení osvěžení vzduchu.</p>
+<h2>K čemu produkt slouží</h2>
+<p>Gelový osvěžovač vzduchu AROla slouží k provonění interiérů s důrazem na jednoduché použití a nenáročnou údržbu. Je určen do koupelen, toalet, chodeb, skříní, komor i menších obývacích prostor, kde chcete rychle dodat příjemnou květinovou vůni bez potřeby elektrických přístrojů nebo aerosolů.</p>
+<h2>Jaké má benefity</h2>
+<ul>
+<li>Diskrétní provonění bez zápachu chemické intenzity.</li>
+<li>Snadné umístění v libovolném prostoru – stojí samostatně.</li>
+<li>Bez potřeby připojení nebo baterií – praktické a úsporné řešení.</li>
+<li>Příjemná květinová vůně vhodná pro různé místnosti v domácnosti.</li>
+<li>Šetrné a nenápadné provonění, které neruší prostorový design.</li>
+</ul>
+<h2>Jak jej správně používat</h2>
+<p>Umístěte AROla gelový osvěžovač vzduchu na rovný povrch v místě, kde chcete vůni cítit nejvíce. Vyhněte se přímému kontaktu s textiliemi a zdroji tepla. Produkt je připravený k použití okamžitě po vybalení. Pro optimální efekt volte umístění ve střední části místnosti nebo blízko dveří a větracích otvorů.</p>
+<h2>Proč si vybrat právě tento produkt</h2>
+<p>Volba AROla gelového osvěžovače vzduchu je praktická pro zákaznice, které hledají jednoduché, čisté a efektivní řešení provonění bez složitých zařízení. AROla jako značka nabízí známý a přívětivý přístup k drogerii, a tento gelový osvěžovač vzduchu kombinuje uživatelskou pohodlnost s příjemným květinovým aroma.</p>
+<h2>Tipy pro maximální efektivitu</h2>
+<ul>
+<li>Umístěte gel do menší nebo uzavřenější místnosti pro intenzivnější dojem vůně.</li>
+<li>Pravidelně kontrolujte umístění a zabráníte kontaktu s látkami citlivými na vlhkost.</li>
+<li>Pro rovnoměrné provonění používejte více kusů v rozlehlejších prostorech.</li>
+<li>Přesvědčte se, že gel není pokryt prachem, aby byl zachován jeho účinek.</li>
+</ul>
+<h2>Shrnutí a motivace k nákupu</h2>
+<p>AROla gelový osvěžovač vzduchu - květy 150 g je praktický a elegantní způsob, jak dodat domácím prostorám příjemnou květinovou vůni bez složitostí. Pokud hledáte diskrétní osvěžení vzduchu, které je snadné používat a hodí se do různých místností, tento gelový osvěžovač vzduchu představuje chytrou volbu. Přidejte do košíku a vyzkoušejte jednoduché, ale účinné provonění vaší domácnosti.</p>]]></LONG_DESCRIPTION>
       </DESCRIPTION>
       <DESCRIPTION language="sk">
-        <TITLE>JUMBO 280 toaletný papier 1-vrstvový recykl 6x225m</TITLE>
-        <SHORT_DESCRIPTION>JUMBO 280 toaletný papier je ideálnou voľbou pre tých, ktorí hľadajú ekologické riešenie. Tento jednovrstvový papier je vyrobený z recyklovaného materiálu a je vhodný do zásobníkov. Balenie obsahuje 6 rolí, každá s dĺžkou 225 metrov, čo zaisťuje dlhodobú výdrž a ekonomickú spotrebu.</SHORT_DESCRIPTION>
-        <LONG_DESCRIPTION><![CDATA[JUMBO 280 toaletný papier ponúka skvelú kombináciu kvality a ekologickej zodpovednosti. Je vyrobený z recyklovaného materiálu, čo prispieva k ochrane životného prostredia. Jednovrstvový dizajn je ideálny pre použitie v komerčných aj domácich zásobníkoch, kde je potrebná dlhá výdrž a ekonomická spotreba. Balenie obsahuje 6 rolí, každá s dĺžkou 225 metrov, čo zaisťuje, že vám papier vydrží naozaj dlho. Uvedená cena je za celé balenie.]]></LONG_DESCRIPTION>
+        <TITLE>AROla gélový osviežovač vzduchu - kvety 150 g</TITLE>
+        <SHORT_DESCRIPTION>Jemný gélový osviežovač vzduchu AROla s kvetinovou vôňou (150 g) pre rýchle a diskrétne prevonia domácnosť, kúpeľňu či šatník. Praktické riešenie na každodenné osvieženie vzduchu bez aerosolov.</SHORT_DESCRIPTION>
+        <LONG_DESCRIPTION><![CDATA[<h2>AROla gélový osviežovač vzduchu - kvety 150 g</h2>
+<p>AROla gélový osviežovač vzduchu - kvety 150 g je jednoduchý a efektívny pomocník pre príjemné prostredie v domácnosti. Tento gélový osviežovač vzduchu ponúka diskrétne prevonia miestností, kde uprednostňujete bezprúdové a nenápadné riešenie osvieženia vzduchu.</p>
+<h2>Na čo produkt slúži</h2>
+<p>Gélový osviežovač vzduchu AROla slúži na prevoniavanie interiérov s dôrazom na jednoduché použitie a nenáročnú údržbu. Je určený do kúpeľní, toaliet, chodieb, skríň, špajzí aj menších obytných priestorov, kde chcete rýchlo dodať príjemnú kvetinovú vôňu bez potreby elektrických prístrojov alebo aerosólov.</p>
+<h2>Aké má benefity</h2>
+<ul>
+<li>Diskrétne prevonia bez zápachu chemickej intenzity.</li>
+<li>Jednoduché umiestnenie v ľubovoľnom priestore – stojí samostatne.</li>
+<li>Bez potreby pripojenia alebo batérií – praktické a úsporné riešenie.</li>
+<li>Príjemná kvetinová vôňa vhodná pre rôzne miestnosti v domácnosti.</li>
+<li>Šetrné a nenápadné prevonia, ktoré neruší dizajn priestoru.</li>
+</ul>
+<h2>Ako ho správne používať</h2>
+<p>Umiestnite AROla gélový osviežovač vzduchu na rovný povrch v mieste, kde chcete vôňu cítiť najviac. Vyhnite sa priamemu kontaktu s textíliami a zdrojmi tepla. Produkt je pripravený na použitie ihneď po vybalení. Pre optimálny efekt zvoľte umiestnenie v strednej časti miestnosti alebo blízko dverí a vetracích otvorov.</p>
+<h2>Prečo si vybrať práve tento produkt</h2>
+<p>Voľba AROla gélového osviežovača vzduchu je praktická pre zákazníčky, ktoré hľadajú jednoduché, čisté a efektívne riešenie prevoniavania bez zložitých zariadení. AROla ako značka ponúka známy a prívetivý prístup k drogérii a tento gélový osviežovač vzduchu kombinuje užívateľské pohodlie s príjemným kvetinovým aromou.</p>
+<h2>Tipy pre maximálnu efektivitu</h2>
+<ul>
+<li>Umiestnite gél do menšej alebo uzavretejšej miestnosti pre intenzívnejší dojem vône.</li>
+<li>Pravidelne kontrolujte umiestnenie a vyhnite sa kontaktu s látkami citlivými na vlhkosť.</li>
+<li>Pre rovnomerné prevonia používajte viac kusov v väčších priestoroch.</li>
+<li>Uistite sa, že gél nie je pokrytý prachom, aby bol zachovaný jeho efekt.</li>
+</ul>
+<h2>Zhrnutie a motivácia k nákupu</h2>
+<p>AROla gélový osviežovač vzduchu - kvety 150 g je praktický a elegantný spôsob, ako dodať domácim priestorom príjemnú kvetinovú vôňu bez komplikácií. Ak hľadáte diskrétne osvieženie vzduchu, ktoré je jednoduché na použitie a hodí sa do rôznych miestností, tento gélový osviežovač vzduchu predstavuje rozumnú voľbu. Pridajte do košíka a vyskúšajte jednoduché, ale účinné prevonia vašej domácnosti.</p>]]></LONG_DESCRIPTION>
       </DESCRIPTION>
     </DESCRIPTIONS>
     <PRICES>
       <PRICE language="cz">
         <PRICELISTS>
           <PRICELIST>
-            <PRICE_WITH_VAT>219</PRICE_WITH_VAT>
+            <PRICE_WITH_VAT>37</PRICE_WITH_VAT>
           </PRICELIST>
         </PRICELISTS>
       </PRICE>
       <PRICE language="sk">
         <PRICELISTS>
           <PRICELIST>
-            <PRICE_WITH_VAT>219</PRICE_WITH_VAT>
+            <PRICE_WITH_VAT>37</PRICE_WITH_VAT>
           </PRICELIST>
         </PRICELISTS>
       </PRICE>
@@ -741,267 +1155,175 @@
 <CODE>6B7E8811-23BA-44AA-84DD-EEFDFCBFF589</CODE>
 <NAME>Drogerie</NAME>
 <PRIMARY_YN>0</PRIMARY_YN>
-<POSITION>1</POSITION>
+<POSITION>2</POSITION>
 </CATEGORY>
 <CATEGORY>
-<CODE>42D63386-1475-4D7E-BFD7-9B37FAA96915</CODE>
-<NAME>Hygienické potřeby</NAME>
+<CODE>7649581C-8F7A-4B95-9DF7-E22B4F8BB934</CODE>
+<NAME>Osvěžovače vzduchu</NAME>
 <PRIMARY_YN>0</PRIMARY_YN>
-<POSITION>1</POSITION>
+<POSITION>2</POSITION>
 </CATEGORY>
 <CATEGORY>
-<CODE>1CEEC60F-6525-42EC-9396-27C5910C944D</CODE>
-<NAME>Toaletní papír</NAME>
-<PRIMARY_YN>0</PRIMARY_YN>
-<POSITION>1</POSITION>
-</CATEGORY>
-<CATEGORY>
-<CODE>BAF9A310-E088-4650-BB61-E415F93D47DF</CODE>
-<NAME>Toaletní papír jumbo</NAME>
-<PRIMARY_YN>0</PRIMARY_YN>
-<POSITION>1</POSITION>
-</CATEGORY>
-<CATEGORY>
-<CODE>0BACC234-F802-46CB-B079-EBF7F92353F5</CODE>
-<NAME>Toaletní papír jumbo 280</NAME>
+<CODE>BD7655BA-EDB1-42D4-98C9-88C1D8C281DE</CODE>
+<NAME>Gelové osvěžovače vzduchu</NAME>
 <PRIMARY_YN>1</PRIMARY_YN>
-<POSITION>1</POSITION>
+<POSITION>2</POSITION>
 </CATEGORY>
 </CATEGORIES>
     <IMAGES>
       <IMAGE>
-        <URL>https://storage.googleapis.com/drogeriezde/8594002960506</URL>
+        <URL>https://storage.googleapis.com/drogeriezde/5900785890115</URL>
         <MAIN_YN>1</MAIN_YN>
         <LIST_YN>1</LIST_YN>
       </IMAGE>
     </IMAGES>
     <SEO_OPTIMALIZATION>
       <SEO language="cz">
-        <SEO_TITLE>JUMBO 280 toaletní papír 1-vrstvý recykl</SEO_TITLE>
-        <SEO_META_DESCRIPTION>JUMBO 280 toaletní papír, 1-vrstvý recyklovaný, 6x225m. Ekologická volba pro zásobníky. Objednejte online s dopravou zdarma.</SEO_META_DESCRIPTION>
+        <SEO_TITLE>AROla gelový osvěžovač vzduchu - květy 150 g</SEO_TITLE>
+        <SEO_META_DESCRIPTION>AROla gelový osvěžovač vzduchu - květy 150 g pro diskrétní a snadné provonění koupelny, chodby nebo skříně. Praktické a bez aerosolů.</SEO_META_DESCRIPTION>
       </SEO>
       <SEO language="sk">
-        <SEO_TITLE>JUMBO 280 toaletný papier 1-vrstvový recykl</SEO_TITLE>
-        <SEO_META_DESCRIPTION>JUMBO 280 toaletný papier, 1-vrstvový recyklovaný, 6x225m. Ekologická voľba pre zásobníky. Objednajte online s dopravou zadarmo.</SEO_META_DESCRIPTION>
+        <SEO_TITLE>AROla gélový osviežovač vzduchu - kvety 150 g</SEO_TITLE>
+        <SEO_META_DESCRIPTION>AROla gélový osviežovač vzduchu - kvety 150 g pre diskrétne a jednoduché prevonia kúpeľne, chodby či skrine. Praktické bez aerosólov.</SEO_META_DESCRIPTION>
       </SEO>
     </SEO_OPTIMALIZATION>
-    <METAS>
-      <META type="input">
-        <META_KEY>guid</META_KEY>
-        <META_VALUES>
-          <META_VALUE language="cz">FC0D3E34-BB2F-43CB-BA3B-31ECDC395B48</META_VALUE>
-          <META_VALUE language="sk">FC0D3E34-BB2F-43CB-BA3B-31ECDC395B48</META_VALUE>
-        </META_VALUES>
-      </META>
-      <META type="input">
-        <META_KEY>availability_color</META_KEY>
-        <META_VALUES>
-          <META_VALUE language="cz">2bff9c</META_VALUE>
-          <META_VALUE language="sk">2bff9c</META_VALUE>
-        </META_VALUES>
-      </META>
-    </METAS>
   </PRODUCT>
   <PRODUCT>
-    <CODE>K11066</CODE>
+    <CODE>EX06428</CODE>
     <ACTIVE_YN>1</ACTIVE_YN>
-    <CAN_ADD_TO_BASKET_YN>0</CAN_ADD_TO_BASKET_YN>
-    <MANUFACTURER>Tablety</MANUFACTURER>
-    <EAN>4260481113255</EAN>
-    <STOCK>0</STOCK>
-    <AVAILABILITY>Na dotaz</AVAILABILITY>
-    <WEIGHT>10500</WEIGHT>
-    <VATS>
-      <VAT language="cz">21</VAT>
-      <VAT language="sk">21</VAT>
-    </VATS>
+    <CAN_ADD_TO_BASKET_YN>1</CAN_ADD_TO_BASKET_YN>
+    <EAN>8590786103825</EAN>
+    <STOCK>5390</STOCK>
+    <AVAILABILITY>Odesíláme 3.9.2025</AVAILABILITY>
+    <WEIGHT>65</WEIGHT>
     <DESCRIPTIONS>
       <DESCRIPTION language="cz">
-        <TITLE>Tablety do myčky multi s klasickou folií 18g 500ks</TITLE>
-        <SHORT_DESCRIPTION>Tablety do myčky All in One s klasickou fólií nabízejí skvělé balení na celý rok. Každá tableta je balena zvlášť, což zajišťuje snadnou manipulaci a dlouhou trvanlivost. Obsahují všechny potřebné složky pro efektivní mytí nádobí.</SHORT_DESCRIPTION>
-        <LONG_DESCRIPTION><![CDATA[Tablety do myčky All in One s klasickou fólií jsou ideální volbou pro každodenní mytí nádobí. Díky dvoufázovému složení zajišťují dokonalé mytí a ochranu skla i nerezi. Balení obsahuje 500 kusů, což je ideální pro dlouhodobé použití. Varování: Způsobuje vážné podráždění očí. Návod použití: určeno pro mytí nádobí v automatických myčkách nádobí. Varování Způsobuje vážné podráždění očí. Je-li nutná lékařská pomoc, mějte po ruce obal nebo štítek výrobku. Uchovávejte mimo dosah dětí. Po manipulaci důkladně omyjte ruce a zasažené části těla. PŘI POŽITÍ: Necítíte-li se dobře, volejte TOXIKOLOGICKÉ INFORMAČNÍ STŘEDISKO / lékaře. PŘI ZASAŽENÍ OČÍ: Několik minut opatrně vyplachujte vodou. Vyjměte kontaktní čočky, jsou-li nasazeny a pokud je lze vyjmout snadno. Pokračujte ve vyplachování. Okamžitě volejte TOXIKOLOGICKÉ INFORMAČNÍ STŘEDISKO. Složení: 5-<15 % bělicí činidla na bázi kyslíku, <5 % neiontové povrchově aktivní látky, <5 % polykarboxyláty, enzymy, Limonene. Spotřebujte nejlépe do: IV. 2026]]></LONG_DESCRIPTION>
+        <TITLE>Pemza bílá LONG</TITLE>
+        <SHORT_DESCRIPTION>Pemza bílá LONG je tvarovaná pemza pro domácí péči o nohy; efektivně a šetrně odstraňuje ztvrdlou kůži a udržuje chodidla jemná. Praktický tvar pro snadný úchop a dlouhá výdrž při pravidelném použití.</SHORT_DESCRIPTION>
+        <LONG_DESCRIPTION><![CDATA[<h2>Pemza bílá LONG</h2>
+<p>Pemza bílá LONG je praktický pomocník pro každodenní i pravidelnou péči o nohy. Díky svému prodlouženému tvaru a ergonomickému provedení umožní pohodlné ošetření těžko dostupných míst pat a chodidel, aniž byste musela napínat zápěstí nebo měnit držení.</p>
+<h2>K čemu produkt slouží</h2>
+<p>Pemza bílá LONG slouží k mechanickému odstranění zrohovatělé a ztvrdlé kůže na chodidlech. Je vhodná pro domácí použití jako součást běžné péče o nohy v rámci tělové kosmetiky. Díky tvaru a velikosti je ideální pro osoby, které chtějí rychle a efektivně zjemnit paty a okraje chodidel.</p>
+<h2>Jaké má benefity</h2>
+<ul>
+<li>Efektivní odstranění ztvrdlé kůže bez složité přípravy.</li>
+<li>Prodloužený tvar pro lepší dosah i na paty a mezery mezi prsty.</li>
+<li>Lehká a snadno ovladatelná – vhodná pro domácí použití.</li>
+<li>Komfortní pro pravidelnou péči, která udržuje chodidla hebká.</li>
+<li>Nízká hmotnost (65 g) pro pohodlné používání a skladování.</li>
+</ul>
+<h2>Jak jej správně používat</h2>
+<p>Pemzu používejte na čistou, suchou nebo lehce navlhčenou kůži. Jemnými pohyby odstraňujte ztvrdlé části – pracujte rovnoměrně, bez nadměrného tlaku. Po použití omyjte pemzu a nechte ji uschnout, aby si udržela svůj tvar a funkčnost.</p>
+<h3>Praktické tipy</h3>
+<ul>
+<li>Před použitím lehce napářte nohy nebo použijte teplou lázeň pro změkčení kůže.</li>
+<li>Pracujte postupně: nejprve hrubší oblasti, pak doladění jemnějšími tahy.</li>
+<li>Po ošetření použijte kvalitní hydratační krém na nohy pro zajištění dlouhodobého efektu.</li>
+</ul>
+<h2>Proč si vybrat právě tento produkt</h2>
+<p>Pemza bílá LONG kombinuje jednoduchost použití s praktickým tvarem, který usnadňuje péči o nohy zejména pro ženy 40+, které oceňují efektivitu a komfort. Je dostatečně pevná, aby odstranila ztvrdlou kůži, a přitom příjemná na držení. Hodí se do domácí výbavy pro pravidelnou údržbu chodidel.</p>
+<h2>Tipy pro maximální efektivitu</h2>
+<ul>
+<li>Zařaďte pemzu do týdenní rutiny péče o nohy pro udržení hladké kůže.</li>
+<li>Nepoužívejte na otevřené rány nebo podrážděnou kůži.</li>
+<li>Ukládejte pemzu na suchém místě pro delší životnost.</li>
+</ul>
+<h2>Shrnutí a motivace k nákupu</h2>
+<p>Pemza bílá LONG je spolehlivý pomocník pro domácí péči o nohy, který šetří čas a přináší hmatatelné zlepšení zároveň s jednoduchým použitím. Pokud hledáte praktický a účinný nástroj pro udržení jemných chodidel, pemza LONG je vhodná volba, která se snadno začne používat hned po vybalení.</p>]]></LONG_DESCRIPTION>
       </DESCRIPTION>
       <DESCRIPTION language="sk">
-        <TITLE>Tablety do umývačky multi s klasickou fóliou 18g 500ks</TITLE>
-        <SHORT_DESCRIPTION>Tablety do umývačky All in One s klasickou fóliou ponúkajú skvelé balenie na celý rok. Každá tableta je balená zvlášť, čo zaisťuje jednoduchú manipuláciu a dlhú trvanlivosť. Obsahujú všetky potrebné zložky pre efektívne umývanie riadu.</SHORT_DESCRIPTION>
-        <LONG_DESCRIPTION><![CDATA[Tablety do umývačky All in One s klasickou fóliou sú ideálnou voľbou pre každodenné umývanie riadu. Vďaka dvojfázovému zloženiu zaisťujú dokonalé umývanie a ochranu skla aj nerezu. Balenie obsahuje 500 kusov, čo je ideálne pre dlhodobé použitie. Varovanie: Spôsobuje vážne podráždenie očí. Návod na použitie: určené pre umývanie riadu v automatických umývačkách riadu. Varovanie Spôsobuje vážne podráždenie očí. Ak je potrebná lekárska pomoc, majte po ruke obal alebo štítok výrobku. Uchovávajte mimo dosahu detí. Po manipulácii dôkladne umyte ruky a zasiahnuté časti tela. PRI POŽITÍ: Necítite sa dobre, volajte TOXIKOLOGICKÉ INFORMAČNÉ STREDISKO / lekára. PRI ZASIAHNUTÍ OČÍ: Niekoľko minút opatrne vyplachujte vodou. Vyberte kontaktné šošovky, ak sú nasadené a ak je ich možné ľahko vybrať. Pokračujte vo vyplachovaní. Okamžite volajte TOXIKOLOGICKÉ INFORMAČNÉ STREDISKO. Zloženie: 5-<15 % bieliace činidlá na báze kyslíka, <5 % neiónové povrchovo aktívne látky, <5 % polykarboxyláty, enzýmy, Limonene. Spotrebujte najlepšie do: IV. 2026]]></LONG_DESCRIPTION>
+        <TITLE>Pemza biela LONG</TITLE>
+        <SHORT_DESCRIPTION>Pemza biela LONG je tvarovaná pemza pre domáce ošetrovanie nôh; efektívne a šetrne odstraňuje stvrdnutú kožu a udržiava chodidlá jemné. Praktický tvar pre jednoduché držanie a dlhú životnosť pri pravidelnom používaní.</SHORT_DESCRIPTION>
+        <LONG_DESCRIPTION><![CDATA[<h2>Pemza biela LONG</h2>
+<p>Pemza biela LONG je praktický pomocník pre každodennú i pravidelnú starostlivosť o nohy. Vďaka svojmu predĺženému tvaru a ergonomickému prevedeniu umožní pohodlné ošetrenie ťažko dostupných miest na pätách a chodidlách bez zbytočného namáhania ruky.</p>
+<h2>Na čo produkt slúži</h2>
+<p>Pemza biela LONG slúži na mechanické odstránenie stvrdnutej a zhrubnutej kože na chodidlách. Je vhodná na domáce použitie ako súčasť telovej kozmetiky a starostlivosti o nohy. Vďaka tvaru a veľkosti je ideálna pre osoby, ktoré chcú rýchlo a efektívne zjemniť päty a okraje chodidla.</p>
+<h2>Aké má benefity</h2>
+<ul>
+<li>Efektívne odstraňuje stvrdnutú kožu bez zložitej prípravy.</li>
+<li>Predĺžený tvar zabezpečuje lepší dosah aj na päty a medzi prstami.</li>
+<li>Ľahká a jednoducho ovládateľná – vhodná na domáce použitie.</li>
+<li>Komfortná pri pravidelnej starostlivosti, ktorá udržuje chodidlá jemné.</li>
+<li>Nízka hmotnosť (65 g) pre pohodlné používanie a uskladnenie.</li>
+</ul>
+<h2>Ako ju správne používať</h2>
+<p>Pemzu používajte na čistú, suchú alebo mierne navlhčenú kožu. Jemnými ťahmi odstraňujte stvrdnuté miesta – pracujte rovnomerne, bez nadmerného tlaku. Po použití pemzu opláchnite a nechajte uschnúť, aby si udržala tvar a funkčnosť.</p>
+<h3>Praktické tipy</h3>
+<ul>
+<li>Pred použitím mierne napárujte nohy alebo použite teplý kúpeľ na zmäkčenie kože.</li>
+<li>Pracujte postupne: najprv hrubšie oblasti, potom doladenie jemnejšími ťahmi.</li>
+<li>Po ošetrení naneste hydratačný krém na nohy pre dlhodobý efekt.</li>
+</ul>
+<h2>Prečo si vybrať práve tento produkt</h2>
+<p>Pemza biela LONG kombinuje jednoduchosť použitia s praktickým tvarom, ktorý uľahčuje starostlivosť o nohy najmä pre ženy 40+, ktoré ocenia efektivitu a pohodlie. Je dostatočne pevná na odstránenie stvrdnutej kože a zároveň príjemná na držanie. Hodí sa do domácej výbavy pre pravidelnú údržbu chodidiel.</p>
+<h2>Tipy pre maximálnu efektivitu</h2>
+<ul>
+<li>Zaraďte pemzu do týždennej rutiny starostlivosti o nohy, aby ste udržali hladkú pokožku.</li>
+<li>Nepoužívajte na otvorené rany alebo podráždenú kožu.</li>
+<li>Skladujte pemzu na suchom mieste pre dlhšiu životnosť.</li>
+</ul>
+<h2>Zhrnutie a motivácia k nákupu</h2>
+<p>Pemza biela LONG je spoľahlivý pomocník pre domácu starostlivosť o nohy, ktorý šetrí čas a prináša viditeľné zlepšenie pri jednoduchom používaní. Ak hľadáte praktický a účinný nástroj na udržanie jemných chodidiel, pemza LONG je vhodná voľba pripravená na okamžité použitie.</p>]]></LONG_DESCRIPTION>
       </DESCRIPTION>
     </DESCRIPTIONS>
     <PRICES>
       <PRICE language="cz">
         <PRICELISTS>
           <PRICELIST>
-            <PRICE_WITH_VAT>799</PRICE_WITH_VAT>
+            <PRICE_WITH_VAT>20</PRICE_WITH_VAT>
           </PRICELIST>
         </PRICELISTS>
       </PRICE>
       <PRICE language="sk">
         <PRICELISTS>
           <PRICELIST>
-            <PRICE_WITH_VAT>799</PRICE_WITH_VAT>
+            <PRICE_WITH_VAT>20</PRICE_WITH_VAT>
           </PRICELIST>
         </PRICELISTS>
       </PRICE>
     </PRICES>
     <CATEGORIES>
 <CATEGORY>
-<CODE>6B7E8811-23BA-44AA-84DD-EEFDFCBFF589</CODE>
-<NAME>Drogerie</NAME>
+<CODE>CECC70B3-0BD9-40EA-8262-6A71E64E89D4</CODE>
+<NAME>Kosmetika</NAME>
 <PRIMARY_YN>0</PRIMARY_YN>
-<POSITION>3</POSITION>
+<POSITION>2</POSITION>
 </CATEGORY>
 <CATEGORY>
-<CODE>73CFE015-137E-4C18-9C34-27ECB3E831A6</CODE>
-<NAME>Přípravky do myčky</NAME>
+<CODE>4944BE59-180E-4BC2-B3B8-800D837D98AE</CODE>
+<NAME>Tělová kosmetika</NAME>
 <PRIMARY_YN>0</PRIMARY_YN>
-<POSITION>3</POSITION>
+<POSITION>2</POSITION>
 </CATEGORY>
 <CATEGORY>
-<CODE>92762CD3-598B-4E7C-ADCB-C6382D40981E</CODE>
-<NAME>Tablety do myčky</NAME>
+<CODE>46B329EB-DC27-48B6-BCF5-3F30C5ACEBFE</CODE>
+<NAME>Péče o nohy</NAME>
 <PRIMARY_YN>0</PRIMARY_YN>
-<POSITION>3</POSITION>
+<POSITION>2</POSITION>
 </CATEGORY>
 <CATEGORY>
-<CODE>4209F29C-9026-425F-A706-0FEEDC8D09B8</CODE>
-<NAME>Tablety do myčky Standard</NAME>
+<CODE>18DB5C29-94FE-4C99-9E4A-84849197C95B</CODE>
+<NAME>Pemzy</NAME>
 <PRIMARY_YN>1</PRIMARY_YN>
-<POSITION>3</POSITION>
+<POSITION>2</POSITION>
 </CATEGORY>
 </CATEGORIES>
     <IMAGES>
       <IMAGE>
-        <URL>https://storage.googleapis.com/drogeriezde/4260481113255</URL>
+        <URL>https://storage.googleapis.com/drogeriezde/8590786103825</URL>
         <MAIN_YN>1</MAIN_YN>
         <LIST_YN>1</LIST_YN>
       </IMAGE>
     </IMAGES>
     <SEO_OPTIMALIZATION>
       <SEO language="cz">
-        <SEO_TITLE>Tablety do myčky multi s folií 500ks - Tablety</SEO_TITLE>
-        <SEO_META_DESCRIPTION>Tablety do myčky All in One s klasickou fólií, 500ks balení. Efektivní mytí a dlouhá trvanlivost. Objednejte online s dopravou zdarma.</SEO_META_DESCRIPTION>
+        <SEO_TITLE>Pemza bílá LONG – péče o nohy a pemza</SEO_TITLE>
+        <SEO_META_DESCRIPTION>Pemza bílá LONG – ergonomická pemza pro efektivní a šetrnou péči o nohy. Snadné použití a dlouhá výdrž, ideální pro domácí péči.</SEO_META_DESCRIPTION>
       </SEO>
       <SEO language="sk">
-        <SEO_TITLE>Tablety do umývačky multi s fóliou 500ks - Tablety</SEO_TITLE>
-        <SEO_META_DESCRIPTION>Tablety do umývačky All in One s klasickou fóliou, 500ks balenie. Efektívne umývanie a dlhá trvanlivosť. Objednajte online s dopravou zadarmo.</SEO_META_DESCRIPTION>
+        <SEO_TITLE>Pemza biela LONG – starostlivosť o nohy a pemza</SEO_TITLE>
+        <SEO_META_DESCRIPTION>Pemza biela LONG – ergonomická pemza pre efektívnu a šetrnú starostlivosť o nohy. Jednoduché použitie a dlhá životnosť.</SEO_META_DESCRIPTION>
       </SEO>
     </SEO_OPTIMALIZATION>
-    <METAS>
-      <META type="input">
-        <META_KEY>guid</META_KEY>
-        <META_VALUES>
-          <META_VALUE language="cz">31F65995-3B44-45C5-9CEA-82016ADF6828</META_VALUE>
-          <META_VALUE language="sk">31F65995-3B44-45C5-9CEA-82016ADF6828</META_VALUE>
-        </META_VALUES>
-      </META>
-      <META type="input">
-        <META_KEY>availability_color</META_KEY>
-        <META_VALUES>
-          <META_VALUE language="cz">ff4757</META_VALUE>
-          <META_VALUE language="sk">ff4757</META_VALUE>
-        </META_VALUES>
-      </META>
-    </METAS>
-  </PRODUCT>
-  <PRODUCT>
-    <CODE>K11745</CODE>
-    <ACTIVE_YN>1</ACTIVE_YN>
-    <CAN_ADD_TO_BASKET_YN>0</CAN_ADD_TO_BASKET_YN>
-    <MANUFACTURER>Coral</MANUFACTURER>
-    <EAN>8720181039492</EAN>
-    <STOCK>0</STOCK>
-    <AVAILABILITY>Na dotaz</AVAILABILITY>
-    <WEIGHT>1200</WEIGHT>
-    <VATS>
-      <VAT language="cz">21</VAT>
-      <VAT language="sk">21</VAT>
-    </VATS>
-    <DESCRIPTIONS>
-      <DESCRIPTION language="cz">
-        <TITLE>Coral prací gel Color Wasserlilie Limette 20PD 1l</TITLE>
-        <SHORT_DESCRIPTION>Udržujte své barevné prádlo zářivé a svěží s pracím gelem Coral Color Wasserlilie Limette. Speciálně vyvinutý pro ochranu barev, účinně odstraňuje skvrny a nečistoty. Svěží vůně leknínu a limetky zanechá vaše prádlo příjemně provoněné.</SHORT_DESCRIPTION>
-        <LONG_DESCRIPTION><![CDATA[Coral prací gel Color Wasserlilie Limette je ideální volbou pro ty, kteří chtějí udržet své barevné prádlo zářivé a svěží. Tento gel je speciálně vyvinut pro ochranu barev, což znamená, že vaše oblečení zůstane syté a zářivé. Účinně odstraňuje skvrny a nečistoty, a jeho jemné složení je šetrné k vláknům, čímž prodlužuje životnost vašeho oblečení. Svěží vůně leknínu a limetky dodá vašemu prádlu příjemnou vůni. Balení obsahuje 1 litr gelu, což vystačí na 20 praní. Vhodný pro praní všech druhů barevného prádla, kromě vlny a hedvábí. Použití: Nalijte odměřené množství pracího gelu do dávkovače pračky. Vložte barevné prádlo do pračky. Spusťte prací cyklus dle pokynů na štítku oděvu.]]></LONG_DESCRIPTION>
-      </DESCRIPTION>
-      <DESCRIPTION language="sk">
-        <TITLE>Coral prací gél Color Wasserlilie Limette 20PD 1l</TITLE>
-        <SHORT_DESCRIPTION>Udržujte svoje farebné prádlo žiarivé a svieže s pracím gélom Coral Color Wasserlilie Limette. Špeciálne vyvinutý na ochranu farieb, účinne odstraňuje škvrny a nečistoty. Svieža vôňa lekna a limetky zanechá vaše prádlo príjemne prevoňané.</SHORT_DESCRIPTION>
-        <LONG_DESCRIPTION><![CDATA[Coral prací gél Color Wasserlilie Limette je ideálnou voľbou pre tých, ktorí chcú udržať svoje farebné prádlo žiarivé a svieže. Tento gél je špeciálne vyvinutý na ochranu farieb, čo znamená, že vaše oblečenie zostane sýte a žiarivé. Účinne odstraňuje škvrny a nečistoty, a jeho jemné zloženie je šetrné k vláknam, čím predlžuje životnosť vášho oblečenia. Svieža vôňa lekna a limetky dodá vášmu prádlu príjemnú vôňu. Balenie obsahuje 1 liter gélu, čo vystačí na 20 praní. Vhodný na pranie všetkých druhov farebného prádla, okrem vlny a hodvábu. Použitie: Nalejte odmerané množstvo pracieho gélu do dávkovača práčky. Vložte farebné prádlo do práčky. Spustite prací cyklus podľa pokynov na štítku odevu.]]></LONG_DESCRIPTION>
-      </DESCRIPTION>
-    </DESCRIPTIONS>
-    <PRICES>
-      <PRICE language="cz">
-        <PRICELISTS>
-          <PRICELIST>
-            <PRICE_WITH_VAT>139</PRICE_WITH_VAT>
-          </PRICELIST>
-        </PRICELISTS>
-      </PRICE>
-      <PRICE language="sk">
-        <PRICELISTS>
-          <PRICELIST>
-            <PRICE_WITH_VAT>139</PRICE_WITH_VAT>
-          </PRICELIST>
-        </PRICELISTS>
-      </PRICE>
-    </PRICES>
-    <CATEGORIES>
-<CATEGORY>
-<CODE>6B7E8811-23BA-44AA-84DD-EEFDFCBFF589</CODE>
-<NAME>Drogerie</NAME>
-<PRIMARY_YN>0</PRIMARY_YN>
-<POSITION>3</POSITION>
-</CATEGORY>
-<CATEGORY>
-<CODE>61E97347-A89C-47D5-BFC9-BEEC5BD159A8</CODE>
-<NAME>Prací prostředky</NAME>
-<PRIMARY_YN>0</PRIMARY_YN>
-<POSITION>3</POSITION>
-</CATEGORY>
-<CATEGORY>
-<CODE>57C01939-6D24-4B5B-BE42-C53333371A44</CODE>
-<NAME>Prací gely</NAME>
-<PRIMARY_YN>0</PRIMARY_YN>
-<POSITION>3</POSITION>
-</CATEGORY>
-<CATEGORY>
-<CODE>2CC232F1-A6FB-4EEE-B107-D90260F3B98C</CODE>
-<NAME>Prací gely na barevné prádlo</NAME>
-<PRIMARY_YN>1</PRIMARY_YN>
-<POSITION>3</POSITION>
-</CATEGORY>
-</CATEGORIES>
-    <IMAGES>
-      <IMAGE>
-        <URL>https://storage.googleapis.com/drogeriezde/8720181039492</URL>
-        <MAIN_YN>1</MAIN_YN>
-        <LIST_YN>1</LIST_YN>
-      </IMAGE>
-    </IMAGES>
-    <SEO_OPTIMALIZATION>
-      <SEO language="cz">
-        <SEO_TITLE>Coral prací gel Color Wasserlilie Limette 1l</SEO_TITLE>
-        <SEO_META_DESCRIPTION>Udržujte své barevné prádlo zářivé a svěží s Coral Color Wasserlilie Limette. Objednejte online s dopravou zdarma.</SEO_META_DESCRIPTION>
-      </SEO>
-      <SEO language="sk">
-        <SEO_TITLE>Coral prací gél Color Wasserlilie Limette 1l</SEO_TITLE>
-        <SEO_META_DESCRIPTION>Udržujte svoje farebné prádlo žiarivé a svieže s Coral Color Wasserlilie Limette. Objednajte online s dopravou zadarmo.</SEO_META_DESCRIPTION>
-      </SEO>
-    </SEO_OPTIMALIZATION>
-    <METAS>
-      <META type="input">
-        <META_KEY>guid</META_KEY>
-        <META_VALUES>
-          <META_VALUE language="cz">F6EF878D-CE72-4141-84D4-813CDA790B64</META_VALUE>
-          <META_VALUE language="sk">F6EF878D-CE72-4141-84D4-813CDA790B64</META_VALUE>
-        </META_VALUES>
-      </META>
-      <META type="input">
-        <META_KEY>availability_color</META_KEY>
-        <META_VALUES>
-          <META_VALUE language="cz">ff4757</META_VALUE>
-          <META_VALUE language="sk">ff4757</META_VALUE>
-        </META_VALUES>
-      </META>
-    </METAS>
   </PRODUCT>
 </PRODUCTS>
